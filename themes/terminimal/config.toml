@@ -1,6 +1,6 @@
 # Be sure to change these!
-base_url = "https://pawroman.github.io/zola-theme-terminimal"
-title = "Zola Terminimal theme"
+# base_url = "https://pawroman.github.io/zola-theme-terminimal"
+# title = "Zola Terminimal theme"
 
 # Sass compilation is required
 compile_sass = true
