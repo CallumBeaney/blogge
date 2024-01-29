@@ -1,10 +1,9 @@
 # The URL the site will be built for
 base_url = "/blogge/"
 
-
 logo_text = "Writing Place"
 
-# theme = "terminimal"
+theme = "terminimal"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

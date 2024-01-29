@@ -55,7 +55,7 @@ And then glorious notes
 Are heard in woods so noble.*
   
 
-The simplified version is easier to grasp for a _modern_ reader, but the economy of language, rhythm, and feeling of these words in the mouth & ears is absent. The Pearl Poet was attentive to these qualities to such a degree that a synonym of a given word will regularly appear in the selfsame line, and the result is a maturity of composition that makes other great poems of the era such as *The Castle of Perseverance* sound almost amateur by comparison. 
+The simplified version is easier to grasp for a _modern_ reader, but the economy of language, rhythm, and feeling of these words in the mouth & ears is absent. The Pearl Poet was attentive to these qualities to such a degree that a synonym of a given word will regularly appear in the selfsame line. The result is a maturity of composition making other great poems of the era such as *The Castle of Perseverance* sound almost amateur by comparison. 
 
 <br>
 
@@ -77,11 +77,12 @@ The simplified version is easier to grasp for a _modern_ reader, but the economy
 *Ar herde in wod so __wlonk__.* **|** **noble/beautiful**    
 
 
-This kind of marginalia is unsuitable for screens. My whimsical side has a little parasocial friendship with Mr. David Woodward of St John's College, who, in addition to his dictionary annotations, made little drawings of a pipe-smoking moon in my copy of _Gawain_. Whenever I struggle with a page, I feel as though I have a friend reading along with me. I'm deeply upset that the book's spine glue is drying out.  
+This kind of marginalia is unsuitable for screens. My whimsical side has a little parasocial friendship with Mr. David Woodward of St John's College, who, in addition to plentiful dictionary annotations, made little drawings of a pipe-smoking moon in my copy of _Gawain_. Whenever I struggle with a page, I feel as though I have a friend reading along with me.  
 
 <br>
 
-{{ image(src="images/davidsMoonMan.jpg", alt="moon man", position="center", style="height: 60vh;") }}
+<!-- {{ image(src="images/davidsMoonMan.jpg", alt="moon man", position="center", style="height: 60vh; width: 60vh;") }} -->
+{{ image(src="images/davidsMoonMan.jpg", alt="moon man", position="center") }}
 
 <br>
 
@@ -106,9 +107,9 @@ then glorious musics go
 through the woods in proud array.
 ```
 
-Tolkien is attentive to the original language and word order of the original, making occasional substitution to maintain a degree of old feeling. The rhythm and alliterative stresses differ significantly, particularly the 2nd line and also in the more contemporary, inappropriately sing-song '_birds are busy_ ***a-building*** _and bravely are singing_'.  
+Tolkien is attentive to the original's language and word order. The rhythm and alliterative stresses differ significantly, particularly the 2nd line and also in the more contemporary, inappropriately sing-song '_birds are busy_ ***a-building*** _and bravely are singing_'.  
 
-Modern English relies heavily word order; Middle English did not; so many of these sentences have their stresses shifted by stricter modern grammatical patterns that oblige being-verbs to appear in specific places.  
+Modern English relies heavily word order; Middle English did not; many of these sentences' stresses are shifted by stricter modern grammatical patterns obliging being-verbs to appear in specific places.  
 
 - *Bot þenne þe weder of þe worlde wyth wynter hit þrepez*       
 - *But then the weather in the world makes war on the winter*
@@ -124,7 +125,8 @@ In these two examples I am purposefully terse; summarising in short: these insuf
 
 <br>
 
-{{ image(src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gawain_and_the_Green_Knight.jpg/1024px-Gawain_and_the_Green_Knight.jpg", alt="gawain and the green knight", position="center", style="height: 90vh;") }}
+<!-- {{ image(src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gawain_and_the_Green_Knight.jpg/1024px-Gawain_and_the_Green_Knight.jpg", alt="gawain and the green knight", position="center", style="height: 90vh; width: 90vw;") }} -->
+{{ image(src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gawain_and_the_Green_Knight.jpg/1024px-Gawain_and_the_Green_Knight.jpg", alt="gawain and the green knight", position="center") }}
 
 <br>
 
@@ -148,13 +150,15 @@ their colors like melodies flow
 through woods in grand display.
 ```
 
-What I want to emphasise is that it was not only the story itself that made the Pearl Poet significant when re-discovered in the 19th century; it was the technical proficiency with which it was written specific to the language of the time.    
+What I want to emphasise is that it was not only the story itself that made the Pearl Poet significant when re-discovered in the 19th century; it was the technical proficiency with which it was written relative to the language of the time.    
 
 The original was _blossumez bolne to blowe_. Tolkien chooses "_blossoms burgeon and blow_". Burgeon is semantically closer, having also archaic meaning of "to bud" and a modern meaning of expanding rapidly (often regarding industry or business), but "burgeon" and "bolne" do not have the same auditory qualities; "bolne" and blowe" both contain a strong 'l' sound, alliterating smoothly by being similar in sound. The 'zh' of burgeon sounds harsher and less refined a literary choice. For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother; shame it is an inferior image; more fantastical but less on-topic. 
 
 'Bolne' means 'swell'. Much of the native blossoming trees of that time, such as the bird cherry and crab apple, form in tight bursts of white and light-pink petals, that slowly build and then gradually disperse. That _bolne_ emphasises something (usually) gradually growing from within -being used to reference things like pride, pus-filled boils and sexual excitement- isn't a casual choice.  
 
-The Pearl Poet writes on the changing of the seasons in here a grounded manner; not fantastical. In the poem, the passage of a whole year taking place in a single paragraph is contradistinguished with 6 prior describing the Green Knight's horse & clothing, and another ~6 of a supernatural event taking place. That the season then changes so rapidly that it passes in a near-instance, and that that the blossoms "bolne" and then "blowe" re-emphasizes the topic of the stanza: the literal process of the seasons changing, and, in context, time's quickness and life's fleetingness for a man trepadatious about fearsome circumstances anticipated a year after that supernatural event. In the original each aspect of meaning, poetry, and music are tightly interwoven.  
+The Pearl Poet writes on the changing of the seasons in here a grounded manner; not fantastical. In the poem, the passage of a whole year taking place in a single paragraph is contradistinguished with 6 prior describing the Green Knight's horse & clothing, and another ~6 of a supernatural event taking place.  
+
+That the season then changes so rapidly that it passes in a near-instance, and that that the blossoms "bolne" and then "blowe" re-emphasizes the topic of the stanza: the literal process of the seasons changing, and, in context, time's quickness and life's fleetingness for a man trepadatious about fearsome circumstances anticipated a year after that supernatural event. In the original each aspect of meaning, poetry, and music are tightly interwoven.  
   
 I don't think I could competently modernise _Gawain_, but also __I don't want to__. Rather, I find it is better to persevere with annotations in pencil, or use [a tool like what I made to quickly reference medieval English words](https://github.com/goodpals/middle-english-mouse-dictionary), and meet the language on its own terms.  
 
