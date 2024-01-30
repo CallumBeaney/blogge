@@ -121,7 +121,7 @@ The original's 3rd line mixes 'th' and 'w' such that it alliterates on both acro
   
 The original is bolstered with the plural form's 'ez' to further give the sentence consistency, to tie better __wedez__ with __grevez__. _Greves_ rhymes with _wedez_ and _raiment_ does not with _groves_. Line #5 ends with a 'w' in 'warme' and #7 with 'wedez'; lines #6 and #8 sibilant with 'schewen' & 'syngen'. Tolkien cannot manage such subtlties while balancing aspects.  
 
-In these two examples I am purposefully terse; summarising in short: these insufficiencies originate not from Tolkien but his task.  
+In these two examples I am being purposefully picky and terse; summarising in short: these insufficiencies originate not from Tolkien but his task.  
 
 <br>
 
@@ -150,24 +150,22 @@ their colors like melodies flow
 through woods in grand display.
 ```
 
+<br>
+
 What I want to emphasise is that it was not only the story itself that made the Pearl Poet significant when re-discovered in the 19th century; it was the technical proficiency with which it was written using the language of the time.   
 
-'Bolne' means 'swell', emphasising something gradually growing from within and usually used to reference things like pride, pus-filled boils and sexual excitement.  
+'Bolne' means 'swell', emphasising something gradually growing from within and usually used to reference things like pride, pus-filled boils and sexual excitement. The original was _blossumez bolne to blowe_. Tolkien chooses "_blossoms burgeon and blow_". Burgeon is semantically closer, having also archaic meaning of "to bud" and a modern meaning of expanding rapidly (often regarding industry or business), but "burgeon" and "bolne" do not have the same auditory qualities; "bolne" and blowe" both contain a strong 'l' sound complimenting ***bl***_ossumez_, alliterating smoothly. The '**zh**' of bur**g**eon is harsher and less refined, for that Modern English lacks a suitable substitute!  
+
+For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother; shame it is while fantastical an inferior image. The Pearl Poet writes on the changing of the seasons here in a grounded manner. In the poem, the passage of a whole year taking place in a single paragraph is contradistinguished with 6 prior describing the Green Knight's horse & clothing, and another ~6 of a supernatural event taking place. The Green Knight --a stand-in for Christian-shunned Paganism's Nature, witchcraft, and the base desires of man-- waits in winter to deal Gawain an ax-blow. That the season then changes so rapidly that it passes in a near-instance, and that the blossoms are described at the beginning and end of their brief life cycle in "bolne" and then "blowe", for me, is not just a narrative fast-forward, but a beautiful and very subtle way to point to life's fleetingness, particularly our man Gawain's trepadation for fearsome circumstances anticipated a year after that supernatural event. In the original each aspect of meaning, poetry, and music are tightly interwoven.  
   
-The original was _blossumez bolne to blowe_. Tolkien chooses "_blossoms burgeon and blow_". Burgeon is semantically closer, having also archaic meaning of "to bud" and a modern meaning of expanding rapidly (often regarding industry or business), but "burgeon" and "bolne" do not have the same auditory qualities; "bolne" and blowe" both contain a strong 'l' sound complimenting ***bl***_ossumez_, alliterating smoothly. The '**zh**' of bur**g**eon is harsher and less refined, for that Modern English lacks a suitable substitute!  
-
-For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother; shame it is while fantastical an inferior and irrelevant image. The Pearl Poet writes on the changing of the seasons in here a grounded manner; not fantastical. Nature's raw beauty is enough, and the Green Knight --a stand-in for Christian-shunned Paganism's Nature, witchcraft, and the base desires of man-- waits in winter to deal Gawain an ax-blow. All through the poem nature and natural forces frustrate Gawain's attempts at virtuousness, be it conveyed through hunting, sexual desire, or survival instincts.  
-
 <br>
 
 [![A green devil](https://bildsuche.digitale-sammlungen.de/viewer/templates/viewimage.php?bandnummer=bsb00089714&pimage=00055&v=100)](https://bildsuche.digitale-sammlungen.de/index.html?c=viewer&bandnummer=bsb00089714&pimage=55&suchbegriff=&l=en)  
 - _Miniature 24r from Jacobi de Ancharano's_ Litigation of Christ with Belial, _1461._
 
 <br>
-
-In the poem, the passage of a whole year taking place in a single paragraph is contradistinguished with 6 prior describing the Green Knight's horse & clothing, and another ~6 of a supernatural event taking place. That the season then changes so rapidly that it passes in a near-instance, and that that the blossoms "bolne" and then "blowe" re-emphasizes the topic of the stanza: the literal process of the seasons changing, and, in context, time's quickness and life's fleetingness for a man trepadatious about fearsome circumstances anticipated a year after that supernatural event. In the original each aspect of meaning, poetry, and music are tightly interwoven.  
-  
-I really admire Armitage not because I think he succeeded in truly showing what made this sort so great, but because his is a braver endeavour; Tolkien's translation, paired with his peerless annotated edition of the original Middle English, is both good poetry and a useful tool; it is an academic's effort. Armitage is bold for that he is trying to capture the **feeling** of the poem for a modern audience over the meaning, an unrealistic aspiration when the goal is G&TGK.  
+   
+I really admire Armitage not because I think every choice shows perfectly what made this story so great, but because his is a braver endeavour, and is more proper to being his own act of creation; Tolkien's translation, paired with his peerless annotated edition of the original Middle English, is both good poetry and a useful tool; it is an academic effort. Armitage is bold for that he is trying to capture the feeling of the poem for a modern audience over strictly the meaning; an unrealistic aspiration when the goal is G&TGK.  
 
 I don't think I could effectively modernise _Gawain_ either, but also I don't want to. Rather, I find it is better to persevere with annotations in pencil, or use [a tool like what I am making](https://github.com/goodpals/middle-english-mouse-dictionary) to quickly reference medieval English words, and meet the language on its own terms.  
 
