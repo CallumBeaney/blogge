@@ -1,4 +1,4 @@
 +++
-title = "newww"
+title = ""
 template = "customIndex.html"
 +++
