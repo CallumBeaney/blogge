@@ -88,6 +88,21 @@
     </ul>
 {% endmacro list_posts %}
 
+{% macro list_posts_no_dates(pages) %}
+    <ul>
+    {%- for page in pages %}
+        {%- if page.draft %}
+            {% continue %}
+        {% endif -%}
+        <li class="post-list">
+            <a href="{{ page.permalink | safe }}">
+                 <span class="post-list-title">{{ page.title }}</span></a>
+            {{ post_macros::tags(page=page, short=true) }}
+        </li>
+    {% endfor -%}
+    </ul>
+{% endmacro list_posts_no_dates %}
+
 
 {% macro tags(page, short=false) %}
     {%- if page.taxonomies and page.taxonomies.tags %}

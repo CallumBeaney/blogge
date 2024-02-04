@@ -1,4 +1,4 @@
 +++
 title = ""
-template = "customIndex.html"
+template = "homeArchive.html"
 +++

@@ -82,9 +82,9 @@ This kind of marginalia is unsuitable for screens. My whimsical side has a littl
 <br>
 
 <!-- {{ image(src="images/davidsMoonMan.jpg", alt="moon man", position="center", style="height: 60vh; width: 60vh;") }} -->
-{{ image(src="images/davidsMoonMan.jpg", alt="moon man", position="center") }}
+{{ image(src="images/davidsMoonMan.jpg", alt="moon man", position="center" style="width: 65vh;") }}
 
-<br>
+
 
 ### Tolkien's modernisation:
 
@@ -126,7 +126,7 @@ In these two examples I am being purposefully picky and terse; summarising in sh
 <br>
 
 <!-- {{ image(src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gawain_and_the_Green_Knight.jpg/1024px-Gawain_and_the_Green_Knight.jpg", alt="gawain and the green knight", position="center", style="height: 90vh; width: 90vw;") }} -->
-{{ image(src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gawain_and_the_Green_Knight.jpg/1024px-Gawain_and_the_Green_Knight.jpg", alt="gawain and the green knight", position="center") }}
+{{ image(src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gawain_and_the_Green_Knight.jpg/1024px-Gawain_and_the_Green_Knight.jpg", alt="gawain and the green knight", position="center" style="width: 80vh;") }}
 
 <br>
 
@@ -160,8 +160,11 @@ For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother; shame it is while 
   
 <br>
 
-[![A green devil](https://bildsuche.digitale-sammlungen.de/viewer/templates/viewimage.php?bandnummer=bsb00089714&pimage=00055&v=100)](https://bildsuche.digitale-sammlungen.de/index.html?c=viewer&bandnummer=bsb00089714&pimage=55&suchbegriff=&l=en)  
-- _Miniature 24r from Jacobi de Ancharano's_ Litigation of Christ with Belial, _1461._
+{{ image(src="https://bildsuche.digitale-sammlungen.de/viewer/templates/viewimage.php?bandnummer=bsb00089714&pimage=00055&v=100", alt="_Miniature 24r from Jacobi de Ancharano's_ Litigation of Christ with Belial, _1461._", position="center" style="width: 60vh;") }}
+
+<!-- 
+[![A green devil](https://bildsuche.digitale-sammlungen.de/viewer/templates/viewimage.php?bandnummer=bsb00089714&pimage=00055&v=100)](https://bildsuche.digitale-sammlungen.de/index.html)  
+- _Miniature 24r from Jacobi de Ancharano's_ Litigation of Christ with Belial, _1461._ -->
 
 <br>
    
