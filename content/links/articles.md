@@ -89,7 +89,7 @@ title="articles & text resources"
 
 ## Visual Matters
 
-__dedicated sites__
+__project sites__
 - [A New Nothing](https://anewnothing.com)
 - [Today's Supernatural - Narumi Hiramoto](https://www.instagram.com/nrrnhrrnt/)
 - [The Daily Nice - Jason Evans](http://www.thedailynice.com)

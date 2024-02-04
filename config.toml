@@ -35,8 +35,8 @@ background_color = "custom"  # see sass/color/background_custard.scss
 menu_items = [
     {name = "home", url = "$BASE_URL/"},
     {name = "info", url = "$BASE_URL/info"},
-
     {name = "links", url = "$BASE_URL/links/articles"},
+
   # {name = "website", url = "https://callumbeaney.github.io", newtab = true},
   # {name = "github", url  = "https://github.com/CallumBeaney", newtab = true},
   # {name = "about", url = "$BASE_URL/about"},

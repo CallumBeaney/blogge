@@ -13,9 +13,8 @@ Not an historian nor a canny chef I feebled around in my first few attempts; whe
 
 <br>
 
-<!-- {{ image(src="images/pudding.jpg", alt="alt text") }} -->
-
-{{ image(src="images/pudding.jpg", alt="pudding process", position="center") }}
+<!-- {{ image(src="/images/pudding.jpg", alt="alt text") }} -->
+{{ image(src="/images/pudding.jpg", alt="pudding process", position="center") }}
   
 <br>
 

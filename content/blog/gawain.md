@@ -82,9 +82,9 @@ This kind of marginalia is unsuitable for screens. My whimsical side has a littl
 <br>
 
 <!-- {{ image(src="images/davidsMoonMan.jpg", alt="moon man", position="center", style="height: 60vh; width: 60vh;") }} -->
-{{ image(src="images/davidsMoonMan.jpg", alt="moon man", position="center" style="width: 65vh;") }}
+{{ image(src="/images/davidsMoonMan.jpg", alt="moon man", position="center" style="width: 70vh;") }}
 
-
+<br>
 
 ### Tolkien's modernisation:
 
