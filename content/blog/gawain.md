@@ -107,9 +107,10 @@ then glorious musics go
 through the woods in proud array.
 ```
 
-Tolkien is attentive to the original's language and word order. The rhythm and alliterative stresses differ significantly, particularly the 2nd line and also in the more contemporary, inappropriately sing-song '_birds are busy_ ***a-building*** _and bravely are singing_'.  
+Rhythm and alliterative stresses differ significantly, particularly the 2nd line and also in the more contemporary, inappropriately sing-song '_birds are busy_ ***a-building*** _and bravely are singing_'.  
 
-Modern English relies heavily word order; Middle English did not; many of these sentences' stresses are shifted by stricter modern grammatical patterns obliging being-verbs to appear in specific places.  
+Modern English relies heavily on word order
+Heavily on word order for natural sounding Modern English relies; many of these sentences' stresses are shifted by stricter modern grammatical patterns obliging being-verbs to appear in specific places.  
 
 - *Bot þenne þe weder of þe worlde wyth wynter hit þrepez*       
 - *But then the weather in the world makes war on the winter*
@@ -119,9 +120,9 @@ The original's 3rd line mixes 'th' and 'w' such that it alliterates on both acro
 - *Boþe groundez and þe greuez grene ar her wedez*
 - *Of grounds and of groves green is the raiment*
   
-The original is bolstered with the plural form's 'ez' to further give the sentence consistency, to tie better __wedez__ with __grevez__. _Greves_ rhymes with _wedez_ and _raiment_ does not with _groves_. Line #5 ends with a 'w' in 'warme' and #7 with 'wedez'; lines #6 and #8 sibilant with 'schewen' & 'syngen'. Tolkien cannot manage such subtlties while balancing aspects.  
+The original is bolstered with the plural form's 'ez' to further give the sentence consistency, to tie better __wedez__ with __grevez__. _Greves_ rhymes with _wedez_ and _raiment_ does not with _groves_. Line #5 ends with a 'w' in 'warme' and #7 with 'wedez'; lines #6 and #8 sibilant with 'schewen' & 'syngen'. Tolkien cannot manage such subtlties while balancing aspects. But for rhythm I do wonder why something more like `Both the grounds and the groves, grene are their clothes` was not chosen.    
 
-In these two examples I am being purposefully picky and terse; summarising in short: these insufficiencies originate not from Tolkien but his task.  
+In these two examples I am being purposefully picky and terse, but note how *locked-in* the language used in the original ME is. Summarising in short: these insufficiencies originate not from Tolkien but his task.  
 
 <br>
 
@@ -154,9 +155,9 @@ through woods in grand display.
 
 What I want to emphasise is that it was not only the story itself that made the Pearl Poet significant when re-discovered in the 19th century; it was the technical proficiency with which it was written using the language of the time.   
 
-'Bolne' means 'swell', emphasising something gradually growing from within and usually used to reference things like pride, pus-filled boils and sexual excitement. The original was _blossumez bolne to blowe_. Tolkien chooses "_blossoms burgeon and blow_". Burgeon is semantically closer, having also archaic meaning of "to bud" and a modern meaning of expanding rapidly (often regarding industry or business), but "burgeon" and "bolne" do not have the same auditory qualities; "bolne" and blowe" both contain a strong 'l' sound complimenting ***bl***_ossumez_, alliterating smoothly. The '**zh**' of bur**g**eon is harsher and less refined, for that Modern English lacks a suitable substitute!  
+'Bolne' means 'swell', emphasising something gradually growing from within and usually used to reference things like pride, pus-filled boils and sexual excitement. The original was _blossumez bolne to blowe_. Tolkien chooses "_blossoms burgeon and blow_". Burgeon is semantically closer, having also archaic meaning of "to bud" and a modern meaning of expanding rapidly (often regarding industry or business), but "burgeon" and "bolne" do not have the same auditory qualities; "bolne" and blowe" both contain a strong 'l' sound complimenting ***bl***_ossumez_, alliterating smoothly. The '**zh**' of bur**g**eon is harsher and lacks the same smoothness, for that Modern English lacks a suitable substitute!  
 
-For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother; shame it is while fantastical an inferior image. The Pearl Poet writes on the changing of the seasons here in a grounded manner. In the poem, the passage of a whole year taking place in a single paragraph is contradistinguished with 6 prior describing the Green Knight's horse & clothing, and another ~6 of a supernatural event taking place. The Green Knight --a stand-in for Christian-shunned Paganism's Nature, witchcraft, and the base desires of man-- waits in winter to deal Gawain an ax-blow. That the season then changes so rapidly that it passes in a near-instance, and that the blossoms are described at the beginning and end of their brief life cycle in "bolne" and then "blowe", for me, is not just a narrative fast-forward, but a beautiful and very subtle way to point to life's fleetingness, particularly our man Gawain's trepadation for fearsome circumstances anticipated a year after that supernatural event. In the original each aspect of meaning, poetry, and music are tightly interwoven.  
+For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother; shame it is while fantastical an inferior image. The Pearl Poet writes on the changing of the seasons here in a grounded manner. In the poem, the passage of a whole year taking place in a single paragraph is contradistinguished with 6 prior describing the Green Knight's horse & clothing, and another ~6 of a supernatural event taking place. The Green Knight --a stand-in for Christian-shunned Paganism's Nature, witchcraft, and the base desires of man-- waits in winter to deal Gawain an ax-blow. That the season then changes so rapidly that it passes in a near-instance, and that the blossoms are described at the beginning and end of their brief life cycle in "bolne" and then "blowe", for me, is not just a narrative fast-forward, but a small but subtle way to point to life's fleetingness, particularly for our man Gawain's trepadation for fearsome circumstances anticipated a year after that supernatural event. In the original each aspect of meaning, poetry, and music are tightly interwoven.  
   
 <br>
 
@@ -167,8 +168,8 @@ For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother; shame it is while 
 - _Miniature 24r from Jacobi de Ancharano's_ Litigation of Christ with Belial, _1461._ -->
 
 <br>
-   
-I really admire Armitage not because I think every choice shows perfectly what made this story so great, but because his is a braver endeavour, and is more proper to being his own act of creation; Tolkien's translation, paired with his peerless annotated edition of the original Middle English, is both good poetry and a useful tool; it is an academic effort. Armitage is bold for that he is trying to capture the feeling of the poem for a modern audience over strictly the meaning; an unrealistic aspiration when the goal is G&TGK.  
+  
+Both translations are good, but neither reach the level of the Pearl Poet. I really admire Armitage not because I think every choice shows perfectly what made this story so great, but because his is a braver endeavour, and is more proper to being his own act of creation; Tolkien's translation, paired with his peerless annotated edition of the original Middle English, is both good poetry and a useful tool; it is an academic effort. Armitage is bold for that he is trying to capture the feeling of the poem for a modern audience over strictly the meaning; an unrealistic aspiration when the goal is G&TGK.  
 
 I don't think I could effectively modernise _Gawain_ either, but also I don't want to. Rather, I find it is better to persevere with annotations in pencil, or use [a tool like what I am making](https://github.com/goodpals/middle-english-mouse-dictionary) to quickly reference medieval English words, and meet the language on its own terms.  
 

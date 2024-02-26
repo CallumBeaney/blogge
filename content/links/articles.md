@@ -13,7 +13,11 @@ title="articles & text resources"
 [Vidya](#games)  
 [Visual Matters](#visual-matters)  
 
+<br>
 
+{{ image(src="/images/_berry.png", position="center" style="width: 9vh;") }}
+
+<br>
 <br>
 
 
@@ -23,7 +27,7 @@ title="articles & text resources"
 - [Middle English Text Series Online - University of Rochester](https://d.lib.rochester.edu/teams/text-online)
 - [The Literature of the Middle Ages - Scott Kleinman](https://www.csun.edu/~sk36711/WWW2/engl443/index.htm)
 - [Ibn al-Haytham’s Optics and its reception...in the arts](https://warburg.sas.ac.uk/podcasts/ibn-al-haythams-optics-and-its-reception-pictorial-and-architectural-arts)
-
+- [Manuscript album of designs for lace and embroidery, 1596](https://www.metmuseum.org/art/collection/search/368249)  
 
 <br>
 
@@ -38,6 +42,7 @@ title="articles & text resources"
 
 
 ## Programming
+- [I want to see my friends’ posts](https://moonbase.lgbt/blog/i-want-to-see-my-friends-posts/)
 - [Crafting Interpreters - Robert Nystrom](http://craftinginterpreters.com/contents.html)
 - [Intuitive Guide to Convolution](https://betterexplained.com/articles/intuitive-convolution/)
 - [The data structure behind terminals - Jack Nichols - Warp](https://www.warp.dev/blog/the-data-structure-behind-terminals)
@@ -46,8 +51,12 @@ title="articles & text resources"
 - [Few lesser known tricks, quirks and features of C - Joren Garenar](https://jorengarenar.github.io/blog/less-known-c)
 - [{n} times faster than C - Owen](https://owen.cafe/posts/six-times-faster-than-c/)
 - [A Kernel Hacker Meets Fuchsia OS - Alexander Popov](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/)
+- [Seth M Larson Blog](https://sethmlarson.dev/blog)
 - [Folklore - The Original Macintosh](https://www.folklore.org/0-index.html)
 - [The Art of the Command-Line](https://github.com/jlevy/the-art-of-command-line)  
+- [Falsehoods Programmers Believe About Names - Patrick McKenzie](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+
+
 
 
 <br>
@@ -80,7 +89,9 @@ title="articles & text resources"
 - [100 Rabbits](https://100r.co/site/about_us.html)
 - [Darren Campion](https://darrencampion.tumblr.com)
 - [This Long Century](http://www.thislongcentury.com)
-
+- [Seth M Larson Blog](https://sethmlarson.dev/blog)
+- [Alex Miller's Garden](https://alex.miller.garden)  
+- [Steve Klabnik's Blog](https://steveklabnik.com/writing)
 
 
 <br>
@@ -89,7 +100,7 @@ title="articles & text resources"
 
 ## Visual Matters
 
-__project sites__
+__project sites & web logic__
 - [A New Nothing](https://anewnothing.com)
 - [Today's Supernatural - Narumi Hiramoto](https://www.instagram.com/nrrnhrrnt/)
 - [The Daily Nice - Jason Evans](http://www.thedailynice.com)
@@ -97,8 +108,9 @@ __project sites__
 - [My Little Dead Dick - Pat Tsai](http://hellopatpat.com/galleries/mldd/start.html)
 - [The Untimely Apparatus Of Two Amateur Photographers](http://untimelyapparatus.com)
 - [To Be Realised - Alexander Mourant](https://www.alexandermourant.com/to-be-realised)  
+- [Time Travel/Half Dome - Jesse Taylor Koleching](https://jessetaylorkoechling.com/time-travel-half-dome)  
   
-__portfolio sites &c__
+__portfolio sites & paper logics &c__
 - [Quantified Landscape - Florian Amoser](http://florianamoser.ch/quantified-landscape/)
 - [Xu Bing](https://www.xubing.com/en/work)
 - [Wall Pieces - Jed Hoyland](http://www.jedhoyland.co.uk/wallpieces1.html)
@@ -118,20 +130,29 @@ __articles__
 - [Reaper of the Barthes - George McClintock](https://gdmcclintock.substack.com/p/reaper-of-the-barthes)
 - [On Elliott Erwitt’s *Fontainebleau Hotel* - Joseph Glover](https://c4journal.com/glover-elliot-erwitt/)
 - [ 平本成海へのインタビュー](https://c4journal.com/hiramoto-narumi-interview/)
+- [Time Travel/Half Dome - Jesse Taylor Koleching](https://jessetaylorkoechling.com/time-travel-half-dome)  
+  
 
 
 <br>
+
 
 
 ## Podcasts
 - [ひいきびいき](https://archive.org/details/hikibiki_podcast)
+- [The Magic Hour](https://magichour.press/interviews)
 
 
 <br>
 
 
+
 ## Games
+- [Thunder - ABA Games](https://abagames.itch.io/thunder)  
 - [History of English Guessing Game](https://englishguesser.tuon.dev)
 - [Patient Rouge - Watabou](https://watabou.itch.io/patient-rogue)
+- [ᗢ by Tak](https://tak.itch.io/meow)  
 - [Capsule - Finji](https://finji.itch.io/capsule)
 - [Spyro Papercraft](https://spyro-papercraft.blogspot.com)
+- [Cactusland - Adam Le Doux](https://ledoux.itch.io/cactusland)  
+- [Killed By A Pixel](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)

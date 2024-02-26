@@ -1,15 +1,14 @@
 +++
  # title = "info"
 path = "info"
-template = "page.html"
+template = "infoPage.html"
 +++
 
 <!-- <br> -->
 
-{{ image(src="/images/flower.png", position="center" style="width: 43vh;") }}
+{{ image(src="/images/_flower.png", position="center" style="width: 43vh;") }}
   
-<!-- <br> -->
-
+<br>
 
 Here is my [personal website](https://callumbeaney.github.io/index.html).  
 Here is my [Github profile](https://github.com/CallumBeaney).  
