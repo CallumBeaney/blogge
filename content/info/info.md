@@ -6,7 +6,7 @@ template = "infoPage.html"
 
 <!-- <br> -->
 
-{{ image(src="/images/_flower.png", position="center" style="width: 43vh;") }}
+{{ image(src="/images/flower.png", position="center" style="width: 43vh;") }}
   
 <br>
 

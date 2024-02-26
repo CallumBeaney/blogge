@@ -15,7 +15,7 @@ title="articles & text resources"
 
 <br>
 
-{{ image(src="/images/_berry.png", position="center" style="width: 9vh;") }}
+{{ image(src="/images/berry.png", position="center" style="width: 9vh;") }}
 
 <br>
 <br>
