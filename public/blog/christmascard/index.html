@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="robots" content="noodp"/>
+
+    <link rel="stylesheet" href="/blogge/style.css">
+    <link rel="stylesheet" href="/blogge/color/custom.css">
+
+    <link rel="stylesheet" href="/blogge/font-hack.css">
+
+    <meta name="description" content="">
+
+    <meta property="og:description" content="">
+    <meta property="og:title" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/blogge/blog/christmascard/">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:title" content="">
+    <meta property="twitter:domain" content="&#x2F;blogge">
+    <meta property="twitter:url" content="/blogge/blog/christmascard/">
+
+    </head>
+
+<body class="">
+<div class="container">
+    
+    <header class="header">
+        <div class="header__inner">
+            <div class="header__logo">
+                    
+                <a href="/blogge" style="text-decoration: none;">
+                    <div class="logo">
+                      
+                            Writing Place
+                        
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        
+        
+                <nav class="menu">
+            <ul class="menu__inner">
+                <li class="active"><a href="/blogge/">home</a></li>
+            
+                <li><a href="/blogge/info">info</a></li>
+            
+                <li><a href="/blogge/links/articles">links</a></li>
+            </ul>
+        </nav>
+    
+    
+        
+    </header>
+    
+
+    <div class="content">
+        
+    <div class="post">
+        
+    <h1 class="post-title"><a href="/blogge/blog/christmascard/">Medium-blending and making an ASCII Christmas business card</a></h1>
+    <div class="post-meta-inline">
+        
+    <span class="post-date">
+            2024-03-11
+        </span>
+
+    </div>
+
+    
+
+        <div class="post-content">
+            <p>Something I really enjoy, across all forms of human expression, is a novel combination of styles or phenomena belonging to distinct and incongruous domains -- uncynically playful incursions between contexts with well-understood boundaries. The novel thing should be somewhat superficial and be of minimal utility but for as a thing to be seen and enjoyed. Something for <em>fun</em>, had cleverly--but the cleverness of the thing should usually only be noted, not explained; something too simple to convincingly analyse without airs; still too refined in concept and design to dismiss as entirely empty.</p>
+<br>  
+
+  
+  
+  <img src="https://preview.redd.it/htzm54z4fxa61.jpg?auto=webp&s=2ead4d5145d253cd8b901255af004f205ec03f9f" class="left" style="width: 85vh;" />
+
+<br>
+<p>A pal recently sent me a good example of this: 15 lines of code for setting up an HTTP client <a href="https://www.reddit.com/r/tinycode/comments/kvuoqj/wrote_an_http_client_in_python_that_can_fit_on_a/">on the back of a metal business card</a>. This gave me an idea.</p>
+<p>With the exception of really personal &amp;/ hand-made ones I really dislike birthday and Christmas cards. I'm also quite uncomfortable pitching myself. So I wanted to make something whose novelty would allow me to disseminate my own &quot;fun propaganda&quot; (job market is Bad), which could also function (as intended) as a sincere &amp; friendly mini-gift.</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>    #  #
+</span><span>   ##  ##
+</span><span>  ###  ###
+</span><span> ####  ####
+</span></code></pre>
+<p>Way back in January 2022 I wrote a <a href="https://raw.githubusercontent.com/CallumBeaney/obfuscation/main/tree.c">C program</a> based on the <a href="https://cs50.harvard.edu/x/2024/psets/1/mario/more/">CS50 Mario Pset</a>, which prints out the above shape at variable height.</p>
+<p>My program turned that into a christmas tree, with little randomised snowflakes changing position every second:</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>    *  * ## *         
+</span><span>        *||#* *       
+</span><span> * *   *#||#*  * *    
+</span><span>  **  ###||*##        
+</span><span>     *###||#*##       
+</span><span>    #####||*#### *       
+</span><span>*  *#####||##*### *   
+</span><span>    *    ||   *   *   
+</span><span>_________||_田______
+</span></code></pre>
+<p>I then ported this to Python and cut the linecount right down. It can be made terser but I like this to be <em>somewhat</em> readable to an experienced dev. It needed to be brief enough to copy, obfuscated enough to not be obvious, but have hints enough to give them some ideas of what is happening as they type it out. Let's here recognise that, although Python is generally horrible, being able to do this much this tersely is nice: </p>
+<pre data-lang="Python" style="background-color:#2b303b;color:#c0c5ce;" class="language-Python "><code class="language-Python" data-lang="Python"><span style="color:#65737e;"># iterate over a random subset of indicies that has been sorted numerically
+</span><span style="color:#b48ead;">for </span><span>i </span><span style="color:#b48ead;">in </span><span style="color:#96b5b4;">sorted</span><span>(</span><span style="color:#bf616a;">sample</span><span>(</span><span style="color:#96b5b4;">range</span><span>(</span><span style="color:#96b5b4;">len</span><span>(var1)),</span><span style="color:#bf616a;">int</span><span>(var2/</span><span style="color:#bf616a;">randint</span><span>(</span><span style="color:#d08770;">0</span><span>,</span><span style="color:#d08770;">10</span><span>)))):
+</span></code></pre>
+<p>So, for Winter 2024, I'll be disseminating these.<br />
+The font is a classic - Courier New, and the colour, that's <em>Bone</em>.</p>
+<p>
+  
+  
+  <img src="https://raw.githubusercontent.com/CallumBeaney/christmas-tree-card/main/img/mockBack.jpg" class="left" style="width: 65vh;" />
+
+
+<br>
+
+  
+  
+  <img src="https://raw.githubusercontent.com/CallumBeaney/christmas-tree-card/main/img/mockFront.jpg" class="left" style="width: 65vh;" />
+
+</p>
+<p>I made up a few of these with some filofax divider paper and handed them out to folks at Tech Fair London in March 2024. They seemed to be received well. One of IBM's staff described me as a &quot;true nerd&quot; which I am choosing to interpret positively. My plan is to have around a hundred made and make it a project to send them to folks in the mail, drop them around places tech people work.</p>
+<p>A few days after, I found <a href="https://reubenson.com">Reuben Son</a>'s site index, which, if you like what you've seen so far, you will probably also like (<em>this here below is an iframe and may not display well on a phone</em>): </p>
+<iframe src="https://reubenson.com" width="600" height="600" frameborder="0"></iframe>
+<p>The same night I came across <a href="https://sundaysites.cafe">Sunday Sites</a>, which are HTML/CSS-only projects where folks design a single webpage project in a day. This little seasonal ASCII animation <a href="https://four-seasons.glitch.me">Four Seasons</a> is likewise quite fun. You should take a look at the source code for that site in the console -- Séan's achieved that in a pretty novel way.</p>
+<p>So quickly I've thrown a <a href="https://callumbeaney.github.io/christmas-tree-card/">web version</a> together too, as this very simple format is very nice. You can peek at the repo <a href="https://github.com/CallumBeaney/christmas-tree-card/tree/main">here</a>.</p>
+<iframe src="https://callumbeaney.github.io/christmas-tree-card/" width="600" height="600" frameborder="0"></iframe>
+
+        </div>
+
+        
+        <div class="pagination">
+            <div class="pagination__title">
+                <span class="pagination__title-h">other posts:</span>
+                <hr />
+            </div>
+            <div class="pagination__buttons">
+                    <span class="button previous">
+                        <a href="/blogge/blog/ryokan/">
+                            <span class="button__icon">←</span>&nbsp;
+                            <span class="button__text">良寛様の名詩で翻訳の複雑さについて</span>
+                        </a>
+                    </span>
+                
+                </div>
+        </div>
+    
+    </div>
+
+
+        </div>
+
+        
+    </div>
+
+    
+    <!-- <footer class="footer">
+        <div class="footer__inner">
+                <div class="copyright">
+                        <span>© 
+    2024
+ Powered by <a href="https://www.getzola.org/">Zola</a></span>
+                    <span class="copyright-theme">
+                        <span class="copyright-theme-sep">:: </span>
+                        Theme: <a href="https://github.com/pawroman/zola-theme-terminimal/">Terminimal</a> by pawroman
+                    </span>
+                </div>
+            </div>
+    </footer> -->
+    
+
+</div>
+</body>
+
+</html>

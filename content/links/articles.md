@@ -2,8 +2,7 @@
 title="articles & text resources"
 +++
 
-
-[Blogs](#blogs)  
+[Blogs & Directories](#blogs)  
 [History](#history)  
 [Languages](#languages)  
 [Literature](#nice-words)  
@@ -12,6 +11,9 @@ title="articles & text resources"
 [Programming & Maths](#programming)  
 [Vidya](#games)  
 [Visual Matters](#visual-matters)  
+[Typography](#typography)
+[Tools](#Tools)
+[Software Art](#software-art)
 
 <br>
 
@@ -28,6 +30,11 @@ title="articles & text resources"
 - [The Literature of the Middle Ages - Scott Kleinman](https://www.csun.edu/~sk36711/WWW2/engl443/index.htm)
 - [Ibn al-Haytham’s Optics and its reception...in the arts](https://warburg.sas.ac.uk/podcasts/ibn-al-haythams-optics-and-its-reception-pictorial-and-architectural-arts)
 - [Manuscript album of designs for lace and embroidery, 1596](https://www.metmuseum.org/art/collection/search/368249)  
+- [InfoMesh - A history of WWW](http://infomesh.org)
+- [internet Artefacts](https://neal.fun/internet-artifacts/)
+- [Who Was Alive In ____?](https://neal.fun/who-was-alive/)
+- [Oculi Mundi](https://oculi-mundi.com)
+
 
 <br>
 
@@ -64,7 +71,7 @@ title="articles & text resources"
 
 ## Languages
 - [Quantifying Simplified Chinese - Ian Reynolds](https://medium.com/@idreyn/quantifying-simplified-chinese-9ec3980d7d35)
-
+- [(CJK) text processing and languages - Ahmed Fasih](https://fasiha.github.io/cjk-2021/)
 
 <br>
 
@@ -94,6 +101,27 @@ title="articles & text resources"
 - [Steve Klabnik's Blog](https://steveklabnik.com/writing)
 
 
+
+<br>
+
+
+
+## Web Directories  
+Mostly web stuff.
+- [Tiny Awards Nominations 2023](https://docs.google.com/spreadsheets/d/1KIBPs2qE0QDFdIeTC1mqwISY6SMXYsinl5QQRzCWrj0/edit#gid=0)
+- [URL Poetry Club](https://urlpoetry.club)
+- [Brutalist Websites](https://brutalistwebsites.com/)
+- [Day Wreckers](http://daywreckers.com)
+- [Diagram.website](https://diagram.website)
+- [Gossip's Web](https://gossipsweb.net)
+- [Sunday Sites](https://sundaysites.cafe/about)
+- [Wilderness.land](https://wilderness.land)
+- [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
+- [HREF.cool](https://href.cool)
+- [A Website Is A Room](https://a-website-is-a-room.net)
+- [Cameron's World](https://www.cameronsworld.net)
+
+
 <br>
 
 
@@ -109,7 +137,11 @@ __project sites & web logic__
 - [The Untimely Apparatus Of Two Amateur Photographers](http://untimelyapparatus.com)
 - [To Be Realised - Alexander Mourant](https://www.alexandermourant.com/to-be-realised)  
 - [Time Travel/Half Dome - Jesse Taylor Koleching](https://jessetaylorkoechling.com/time-travel-half-dome)  
-  
+- [Ted Davis' homepage](https://teddavis.org/#)
+- [Img Modem Studio](http://img.modem.studio)
+- [Spicy Hot Pot](https://www.spicy-hot-pot.com)
+
+
 __portfolio sites & paper logics &c__
 - [Quantified Landscape - Florian Amoser](http://florianamoser.ch/quantified-landscape/)
 - [Xu Bing](https://www.xubing.com/en/work)
@@ -146,6 +178,16 @@ __articles__
 <br>
 
 
+## Typography
+
+- [Ascii Today](https://ascii.today)
+- [Fraktur Mon Amour](https://archive.org/details/fraktur-mon-amour-font-collection/) 
+- [Catherine Vidler – Chaingrass](https://zimzalla.co.uk/039-2/)
+- [https://t-y-p-o-g-r-a-p-h-y.org](https://t-y-p-o-g-r-a-p-h-y.org)
+
+
+<br>
+
 
 ## Games
 - [Thunder - ABA Games](https://abagames.itch.io/thunder)  
@@ -156,3 +198,33 @@ __articles__
 - [Spyro Papercraft](https://spyro-papercraft.blogspot.com)
 - [Cactusland - Adam Le Doux](https://ledoux.itch.io/cactusland)  
 - [Killed By A Pixel](https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/)
+- [Your World of Text](https://www.yourworldoftext.com)
+- [The Password Game](https://neal.fun/password-game/)
+- [Word Golf](https://www.word.golf)
+
+
+<br>
+
+
+## Tools
+- [paper sizes](https://papersizes.io)
+- [Component Gallery](https://component.gallery/about/)
+- [asciiflow](https://asciiflow.com/#/)
+
+<br>
+
+
+## Software Art
+- [Pointer Pointer](https://pointerpointer.com)
+- [Four Seasons by Séan](https://four-seasons.glitch.me)
+- [Sunday Sites](https://sundaysites.cafe/about)
+- [I'm Here And There](http://imhereandthere.com)
+- [Death Of A Hero - <table>](https://death-of-a-hero.vercel.app/)
+- [Human Clock](https://humanclock.com)
+- [Code Poems](https://web.archive.org/web/20231201202952/http://code-poems.com/about.html)
+Portfolios
+- [Superbad](http://www.superbad.com/)
+- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
+- [I Type NY](https://i-type-ny.groznov.co/)
+
+
