@@ -6,14 +6,14 @@ title="articles & text resources"
 [History](#history)  
 [Languages](#languages)  
 [Literature](#nice-words)  
-[Podcasts](#podcasts)  
+[Podcasts & Music](#sound)  
 [Politics](#politics)  
 [Programming & Maths](#programming)  
 [Vidya](#games)  
-[Visual Matters](#visual-matters)  
-[Typography](#typography)
-[Tools](#Tools)
-[Software Art](#software-art)
+[Visual Matters](#visual-matters)    
+[Typography](#typography)  
+[Tools](#Tools)  
+[Software Art](#software-art)  
 
 <br>
 
@@ -25,16 +25,18 @@ title="articles & text resources"
 
 ## History
 - [STREET VIEWS - Kim Beil - Cabinet Magazine](https://www.cabinetmagazine.org/kiosk/beil_kim_14_october_2021.php)
-- [Folklore - The Original Macintosh](https://www.folklore.org/0-index.html)
 - [Middle English Text Series Online - University of Rochester](https://d.lib.rochester.edu/teams/text-online)
 - [The Literature of the Middle Ages - Scott Kleinman](https://www.csun.edu/~sk36711/WWW2/engl443/index.htm)
 - [Ibn al-Haytham’s Optics and its reception...in the arts](https://warburg.sas.ac.uk/podcasts/ibn-al-haythams-optics-and-its-reception-pictorial-and-architectural-arts)
-- [Manuscript album of designs for lace and embroidery, 1596](https://www.metmuseum.org/art/collection/search/368249)  
+- [Manuscript album of designs for lace and embroidery, 1596](https://www.metmuseum.org/art/collection/search/368249)
+- [Oculi Mundi](https://oculi-mundi.com)
+Web history
+- [Folklore - The Original Macintosh](https://www.folklore.org/0-index.html)
 - [InfoMesh - A history of WWW](http://infomesh.org)
 - [internet Artefacts](https://neal.fun/internet-artifacts/)
 - [http://info.cern.ch](http://info.cern.ch)
-- [Who Was Alive In ____?](https://neal.fun/who-was-alive/)
-- [Oculi Mundi](https://oculi-mundi.com)
+- [Old Web - Today](https://oldweb.today/)
+
 
 
 <br>
@@ -50,7 +52,6 @@ title="articles & text resources"
 
 
 ## Programming
-- [I want to see my friends’ posts](https://moonbase.lgbt/blog/i-want-to-see-my-friends-posts/)
 - [Crafting Interpreters - Robert Nystrom](http://craftinginterpreters.com/contents.html)
 - [Intuitive Guide to Convolution](https://betterexplained.com/articles/intuitive-convolution/)
 - [The data structure behind terminals - Jack Nichols - Warp](https://www.warp.dev/blog/the-data-structure-behind-terminals)
@@ -65,8 +66,12 @@ title="articles & text resources"
 - [The Art of the Command-Line](https://github.com/jlevy/the-art-of-command-line)  
 - [Falsehoods Programmers Believe About Names - Patrick McKenzie](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [3D in CSS - Brad Woods](https://garden.bradwoods.io/notes/css/3d)
-- [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
+##### software experience
+- [I want to see my friends’ posts](https://moonbase.lgbt/blog/i-want-to-see-my-friends-posts/)
 - [Use Plaintext Email](https://useplaintext.email/#recommended-clients)
+- [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
+- [Contrast Rebellion](https://contrastrebellion.com)
+- [Designing calculator apps - florens verschelde](https://fvsch.com/calculators)
 
 
 <br>
@@ -93,20 +98,19 @@ title="articles & text resources"
 ## Blogs
 - [Boring Books - printer_scanner](https://boringbooks.org)
 - [This On That](http://thisonthat.org)
-- [Recipes - Nicolas Bouliane](https://nicolasbouliane.com/recipes)
 - [Photos and Stuff - Photothunk](http://photothunk.blogspot.com)
 - [K-Punk - Mark Fisher](https://k-punk.org)
 - [100 Rabbits](https://100r.co/site/about_us.html)
-- [Darren Campion](https://darrencampion.tumblr.com)
+- [Fabien Sanglard](https://fabiensanglard.net)
 - [This Long Century](http://www.thislongcentury.com)
 - [Seth M Larson Blog](https://sethmlarson.dev/blog)
+- [Darren Campion](https://darrencampion.tumblr.com)
 - [Alex Miller's Garden](https://alex.miller.garden)  
 - [Steve Klabnik's Blog](https://steveklabnik.com/writing)
-
+- [The Jolly Teapot](https://thejollyteapot.com)
 
 
 <br>
-
 
 
 ## Web Directories  
@@ -129,6 +133,7 @@ Mostly random/unuseful stuff.
 - [Marginalia](https://search.marginalia.nu/explore/random)
 - [WWIIVV](https://webring.xxiivv.com)
 - [Interesting Internet](https://www.fuse.kiwi)
+- [PersonalSit.es](https://personalsit.es)
 
 
 <br>
@@ -179,10 +184,10 @@ __articles__
 
 
 
-## Podcasts
+## Sound
 - [ひいきびいき](https://archive.org/details/hikibiki_podcast)
 - [The Magic Hour](https://magichour.press/interviews)
-
+- [Lit Tapes](https://littapes.melanie-richards.com)
 
 <br>
 
@@ -193,8 +198,8 @@ __articles__
 - [Fraktur Mon Amour](https://archive.org/details/fraktur-mon-amour-font-collection/) 
 - [Catherine Vidler – Chaingrass](https://zimzalla.co.uk/039-2/)
 - [https://t-y-p-o-g-r-a-p-h-y.org](https://t-y-p-o-g-r-a-p-h-y.org)
-- [https://yuinchien.com/projects/alphabet/index.html](https://yuinchien.com/projects/alphabet/index.html)
-
+- [Alphabet - Yuin Chien](https://yuinchien.com/projects/alphabet/index.html)
+- [Dieter Steffman](http://moorstation.org/typoasis/designers/steffmann/index.htm)
 
 <br>
 
@@ -220,7 +225,9 @@ __articles__
 - [paper sizes](https://papersizes.io)
 - [Component Gallery](https://component.gallery/about/)
 - [asciiflow](https://asciiflow.com/#/)
-
+- [Based Cooking](https://based.cooking)
+- [Rectangles](https://rectangles.app)
+- [End Of Life Date](https://endoflife.date)
 
 <br>
 
@@ -232,7 +239,6 @@ __articles__
 - [URL Poetry Club](https://urlpoetry.club)
 - [Human Clock](https://humanclock.com)
 - [Code Poems](https://web.archive.org/web/20231201202952/http://code-poems.com/about.html)
-Portfolios
 - [Superbad](http://www.superbad.com/)
 - [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
 - [I Type NY](https://i-type-ny.groznov.co/)

@@ -55,7 +55,7 @@ And then glorious notes
 Are heard in woods so noble.*
   
 
-The simplified version is easier to grasp for a _modern_ reader, but the economy of language, rhythm, and feeling of these words in the mouth & ears is absent. The Pearl Poet was attentive to these qualities to such a degree that a synonym of a given word will regularly appear in the selfsame line. The result is a maturity of composition making other great poems of the era such as *The Castle of Perseverance* sound almost amateur by comparison. 
+The simplified version is easier to grasp for a _modern_ reader, but the economy of language, rhythm, and feeling of these words in the mouth & ears is absent. The Pearl Poet was attentive to these qualities to such a degree that synonyms of a given word will regularly appear in the selfsame line. The result is a maturity of composition making other great poems of the era such as *The Castle of Perseverance* sound almost amateur by comparison. 
 
 <br>
 

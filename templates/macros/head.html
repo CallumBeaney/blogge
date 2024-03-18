@@ -23,6 +23,8 @@
     <link rel="stylesheet" href="{{ get_url(path="font-hack.css", trailing_slash=false) | safe }}">
 {% else %}
     <link rel="stylesheet" href="{{ get_url(path="font-hack-subset.css", trailing_slash=false) | safe }}">
+    <link rel="stylesheet" href="{{ get_url(path="font-misc.css", trailing_slash=false) | safe }}">
+    <!-- changed above line for misc fonts -->
 {% endif -%}
 
 {% endmacro head %}

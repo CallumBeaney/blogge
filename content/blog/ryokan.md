@@ -46,7 +46,3 @@ Only comes from people's minds
 ```
 比較的教訓的なアプローチを取った結果、詩の抽象化や隠喩は最後の二行では放棄されました。  
 トールキンの場合にも同じような反応をしました：名詩の翻訳の中にあるより、こうした解釈を注釈として書く方がいいかもしれません。  
-
-<br>
-
-![](https://upload.wikimedia.org/wikipedia/commons/9/95/RYOKAN_PORTRAITE.JPG)

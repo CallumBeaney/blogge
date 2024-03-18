@@ -3,7 +3,7 @@ title="Medium-blending and making an ASCII Christmas business card"
 date="2024-03-11"
 +++
 
-Something I really enjoy, across all forms of human expression, is a novel combination of styles or phenomena belonging to distinct and incongruous contexts -- clever, uncynically playful incursions between domains with well-understood boundaries. The cleverness of the novel thing is usually best left only noted, not explained; something too simple to analyse without coming off as pretentious, but refined enough in concept and design to qualify as an aesthetic object.  
+Something I really enjoy, across all forms of human expression, is a novel combination of styles or phenomena belonging to distinct and incongruous contexts or domains -- clever, uncynically playful incursions between well-known boundaries. The sort of thing where cleverness of the novel thing is usually best left only noted, not explained, because it's too simple to analyse without coming off as pretentious, but still is refined enough in concept and design to be seen as an aesthetic object.  
 
 <br>  
 {{ image(src="https://preview.redd.it/htzm54z4fxa61.jpg?auto=webp&s=2ead4d5145d253cd8b901255af004f205ec03f9f", position="left" style="width: 85vh;") }}
@@ -75,6 +75,9 @@ A few days after, I found [Reuben Son](https://reubenson.com)'s site index, whic
 The same night I came across Son's site, I also found [Sunday Sites](https://sundaysites.cafe), which are HTML/CSS-only projects where folks design a single webpage project in a day. This little seasonal ASCII animation [Four Seasons](https://four-seasons.glitch.me) is likewise quite fun. You should take a look at the source code for that site in the console -- Séan's achieved that in a pretty novel way.  
    
 So quickly inspired by that Four Seasons layout, I've thrown a [web version](https://callumbeaney.github.io/christmas-tree-card/) together too, as this very simple format is very nice.  
+
+<iframe src="https://callumbeaney.github.io/christmas-tree-card/" width="650" height="600" frameborder="0"></iframe>
+
 
 <br>
 

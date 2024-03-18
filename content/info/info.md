@@ -4,14 +4,21 @@ path = "info"
 template = "infoPage.html"
 +++
 
-<!-- <br> -->
+<!-- {{ image(src="/images/flower.png", position="left" style="width: 35vh; padding-bottom:5%") }} -->
 
-{{ image(src="/images/flower.png", position="center" style="width: 43vh;") }}
+Here is   
+　my [visual site](https://callumbeaney.github.io/index.html).  
+　my [Github profile](https://github.com/CallumBeaney).  
+  
+I make   
+　software with [Goodpals](https://goodpals.dev), and  
+　typefaces with [Mother](https://mother-type.de), and  
+　articles with [C4 Journal](https://c4journal.com/about/).  
 
-<br>
+To contact me,  
+　halve my forename,  
+　prepend to my surname,   
+　and send to a gmail address.    
 
-Here is my [personal website](https://callumbeaney.github.io/index.html).  
-Here is my [Github profile](https://github.com/CallumBeaney).  
-I am a part of [Goodpals](https://goodpals.dev) and [MotherType](https://mother-type.de).  
 This site was built with [Zola](https://www.getzola.org/),  
-　and [pawroman](https://github.com/pawroman)'s [Terminimal](https://github.com/pawroman/zola-theme-terminimal/) theme.
+　and [pawroman](https://github.com/pawroman)'s [Terminimal](https://github.com/pawroman/zola-theme-terminimal/) theme.  
