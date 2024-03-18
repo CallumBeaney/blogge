@@ -32,6 +32,7 @@ title="articles & text resources"
 - [Manuscript album of designs for lace and embroidery, 1596](https://www.metmuseum.org/art/collection/search/368249)  
 - [InfoMesh - A history of WWW](http://infomesh.org)
 - [internet Artefacts](https://neal.fun/internet-artifacts/)
+- [http://info.cern.ch](http://info.cern.ch)
 - [Who Was Alive In ____?](https://neal.fun/who-was-alive/)
 - [Oculi Mundi](https://oculi-mundi.com)
 
@@ -55,6 +56,7 @@ title="articles & text resources"
 - [The data structure behind terminals - Jack Nichols - Warp](https://www.warp.dev/blog/the-data-structure-behind-terminals)
 - [WAT - Destroy All Software](https://www.destroyallsoftware.com/talks/wat)
 - [A Case Study in Not Being A Jerk in Open Source - Destroy All Software](https://www.destroyallsoftware.com/blog/2018/a-case-study-in-not-being-a-jerk-in-open-source)
+- [Ritche's Website](https://www.bell-labs.com/usr/dmr/www/)
 - [Few lesser known tricks, quirks and features of C - Joren Garenar](https://jorengarenar.github.io/blog/less-known-c)
 - [{n} times faster than C - Owen](https://owen.cafe/posts/six-times-faster-than-c/)
 - [A Kernel Hacker Meets Fuchsia OS - Alexander Popov](https://swarm.ptsecurity.com/a-kernel-hacker-meets-fuchsia-os/)
@@ -62,8 +64,9 @@ title="articles & text resources"
 - [Folklore - The Original Macintosh](https://www.folklore.org/0-index.html)
 - [The Art of the Command-Line](https://github.com/jlevy/the-art-of-command-line)  
 - [Falsehoods Programmers Believe About Names - Patrick McKenzie](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
-
-
+- [3D in CSS - Brad Woods](https://garden.bradwoods.io/notes/css/3d)
+- [The Website Obesity Crisis](https://idlewords.com/talks/website_obesity.htm)
+- [Use Plaintext Email](https://useplaintext.email/#recommended-clients)
 
 
 <br>
@@ -107,9 +110,8 @@ title="articles & text resources"
 
 
 ## Web Directories  
-Mostly web stuff.
+Mostly random/unuseful stuff.
 - [Tiny Awards Nominations 2023](https://docs.google.com/spreadsheets/d/1KIBPs2qE0QDFdIeTC1mqwISY6SMXYsinl5QQRzCWrj0/edit#gid=0)
-- [URL Poetry Club](https://urlpoetry.club)
 - [Brutalist Websites](https://brutalistwebsites.com/)
 - [Day Wreckers](http://daywreckers.com)
 - [Diagram.website](https://diagram.website)
@@ -120,6 +122,13 @@ Mostly web stuff.
 - [HREF.cool](https://href.cool)
 - [A Website Is A Room](https://a-website-is-a-room.net)
 - [Cameron's World](https://www.cameronsworld.net)
+- [The Useless Web](https://theuselessweb.com)
+- [Now Now Now](https://nownownow.com)
+- [1kb club](https://1kb.club)
+- [1MB club](http://1mb.club)
+- [Marginalia](https://search.marginalia.nu/explore/random)
+- [WWIIVV](https://webring.xxiivv.com)
+- [Interesting Internet](https://www.fuse.kiwi)
 
 
 <br>
@@ -184,6 +193,7 @@ __articles__
 - [Fraktur Mon Amour](https://archive.org/details/fraktur-mon-amour-font-collection/) 
 - [Catherine Vidler – Chaingrass](https://zimzalla.co.uk/039-2/)
 - [https://t-y-p-o-g-r-a-p-h-y.org](https://t-y-p-o-g-r-a-p-h-y.org)
+- [https://yuinchien.com/projects/alphabet/index.html](https://yuinchien.com/projects/alphabet/index.html)
 
 
 <br>
@@ -211,6 +221,7 @@ __articles__
 - [Component Gallery](https://component.gallery/about/)
 - [asciiflow](https://asciiflow.com/#/)
 
+
 <br>
 
 
@@ -218,13 +229,20 @@ __articles__
 - [Pointer Pointer](https://pointerpointer.com)
 - [Four Seasons by Séan](https://four-seasons.glitch.me)
 - [Sunday Sites](https://sundaysites.cafe/about)
-- [I'm Here And There](http://imhereandthere.com)
-- [Death Of A Hero - <table>](https://death-of-a-hero.vercel.app/)
+- [URL Poetry Club](https://urlpoetry.club)
 - [Human Clock](https://humanclock.com)
 - [Code Poems](https://web.archive.org/web/20231201202952/http://code-poems.com/about.html)
 Portfolios
 - [Superbad](http://www.superbad.com/)
 - [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
 - [I Type NY](https://i-type-ny.groznov.co/)
+- [Hacker Typer](https://hackertyper.com)
+- [Terminals Series - ertdfgcvb](https://ertdfgcvb.xyz/+/)
+- [Strobe.cool](https://strobe.cool)
+- [Race Condition](https://jonaslund.com/works/race-condition/)
+- [Pitscher Clock](https://pitscher.net/clock/)
+- [Found Color](https://foundcolor.co/archive)
+- [Sun - Yuin Chien](https://yuinchien.com/p/sun)
+- [Sweethearts](http://www.sweetheartsweetheart.com/colophon.html)
 
-
+<!-- https://www.c82.net -->
