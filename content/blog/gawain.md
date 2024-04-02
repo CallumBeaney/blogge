@@ -120,9 +120,7 @@ The original's 3rd line mixes 'th' and 'w' such that it alliterates on both acro
 - *Boþe groundez and þe greuez grene ar her wedez*
 - *Of grounds and of groves green is the raiment*
   
-The original is bolstered with the plural form's 'ez' to further give the sentence consistency, to tie better __wedez__ with __grevez__. _Greves_ rhymes with _wedez_ and _raiment_ does not with _groves_. Line #5 ends with a 'w' in 'warme' and #7 with 'wedez'; lines #6 and #8 sibilant with 'schewen' & 'syngen'. Tolkien cannot manage such subtlties while balancing aspects. But for rhythm I do wonder why something more like `Both the grounds and the groves, grene are their clothes` was not chosen.    
-
-In these two examples I am being purposefully picky and terse, but note how *locked-in* the language used in the original ME is. Summarising in short: these insufficiencies originate not from Tolkien but his task.  
+The original is bolstered with the plural form's 'ez' to further give the sentence consistency, to tie better __wedez__ with __grevez__. _Greves_ rhymes with _wedez_ and _raiment_ does not with _groves_. Line #5 ends with a 'w' in 'warme' and #7 with 'wedez'; lines #6 and #8 sibilant with 'schewen' & 'syngen'. Tolkein doesn't catch any of this, and bar rhythm I do wonder why something more like `Both the grounds and the groves, grene are their clothes` was not chosen. But, I think these insufficiencies are partly Tolkien, and mostly his task.  
 
 <br>
 
@@ -169,7 +167,7 @@ For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother; shame it is while 
 
 <br>
   
-Both translations are good, but neither reach the level of the Pearl Poet. I really admire Armitage not because I think every choice shows perfectly what made this story so great, but because his is a braver endeavour, and is more proper to being his own act of creation; Tolkien's translation, paired with his peerless annotated edition of the original Middle English, is both good poetry and a useful tool; it is an academic effort. Armitage is bold for that he is trying to capture the feeling of the poem for a modern audience over strictly the meaning; an unrealistic aspiration when the goal is G&TGK.  
+Both translations are good, but neither reach the level of the Pearl Poet. I do admire Armitage not because I think every choice shows perfectly what made this story so great, but because his is a braver endeavour, and is more proper to being his own act of creation; Tolkien's translation, paired with his peerless annotated edition of the original Middle English, is both good poetry and a useful tool; it is an academic effort. Armitage is bold for that he is trying to capture the feeling of the poem for a modern audience over strictly the meaning; an unrealistic aspiration when the goal is G&TGK.  
 
 I don't think I could effectively modernise _Gawain_ either, but also I don't want to. Rather, I find it is better to persevere with annotations in pencil, or use [a tool like what I am making](https://github.com/goodpals/middle-english-mouse-dictionary) to quickly reference medieval English words, and meet the language on its own terms.  
 

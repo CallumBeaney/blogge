@@ -13,12 +13,7 @@ Here is
 I make   
 　software with [Goodpals](https://goodpals.dev), and  
 　typefaces with [Mother](https://mother-type.de), and  
-　articles with [C4 Journal](https://c4journal.com/about/).  
-
-To contact me,  
-　halve my forename,  
-　prepend to my surname,   
-　and send to a gmail address.    
+　articles with [C4 Journal](https://c4journal.com/about/).    
 
 This site was built with [Zola](https://www.getzola.org/),  
 　and [pawroman](https://github.com/pawroman)'s [Terminimal](https://github.com/pawroman/zola-theme-terminimal/) theme.  

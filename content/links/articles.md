@@ -88,6 +88,7 @@ Web history
 - [Faraway - Yumiko Izu](https://yumikoizu.com/essay/essay-faraway/)
 - [SCP 507](https://scp-wiki.wikidot.com/scp-507)
 - [Middle English Text Series Online - University of Rochester](https://d.lib.rochester.edu/teams/text-online)
+- [Italian Poetry.it](https://italianpoetry.it)
 
 
 
@@ -108,6 +109,7 @@ Web history
 - [Alex Miller's Garden](https://alex.miller.garden)  
 - [Steve Klabnik's Blog](https://steveklabnik.com/writing)
 - [The Jolly Teapot](https://thejollyteapot.com)
+- [Low Tech Magazine](https://solar.lowtechmagazine.com/about/)
 
 
 <br>
@@ -228,6 +230,7 @@ __articles__
 - [Based Cooking](https://based.cooking)
 - [Rectangles](https://rectangles.app)
 - [End Of Life Date](https://endoflife.date)
+- [secure messaging apps](https://www.securemessagingapps.com)
 
 <br>
 
