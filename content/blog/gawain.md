@@ -109,8 +109,7 @@ through the woods in proud array.
 
 Rhythm and alliterative stresses differ significantly, particularly the 2nd line and also in the more contemporary, inappropriately sing-song '_birds are busy_ ***a-building*** _and bravely are singing_'.  
 
-Modern English relies heavily on word order
-Heavily on word order for natural sounding Modern English relies; many of these sentences' stresses are shifted by stricter modern grammatical patterns obliging being-verbs to appear in specific places.  
+Heavily on word order for natural sounding sentences Modern English relies; many of these sentences' stresses are shifted by stricter modern grammatical patterns obliging being-verbs to appear in specific places.  
 
 - *Bot þenne þe weder of þe worlde wyth wynter hit þrepez*       
 - *But then the weather in the world makes war on the winter*

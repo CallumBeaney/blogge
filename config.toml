@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "/blogge"
 
-logo_text = "Writing Place"
+logo_text = "writing place"
 
 theme = "terminimal"
 
@@ -35,6 +35,7 @@ background_color = "custom"  # see sass/color/background_custard.scss
 menu_items = [
     {name = "home", url = "$BASE_URL/"},
     {name = "info", url = "$BASE_URL/info"},
+    {name = "music", url = "$BASE_URL/music"},
     {name = "links", url = "$BASE_URL/links/articles"},
 
   # {name = "website", url = "https://callumbeaney.github.io", newtab = true},

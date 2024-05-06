@@ -20,6 +20,8 @@ Not an historian nor a canny chef I feebled around in my first few attempts; whe
 
 Spices I used cinnamon, galangal, sugar and crushed cloves. The pudding is even better if made with an equal third portion of dates.  
 
-Consulting variations on this recipe and paying more attention to the English, it makes more sense that the liquid juices of these fruits were their primary interest; they coloured the result with the red of sandalwood for that the rice flour would pale the rich night-blood red of the fruits' juices. When heated, the rice flour thickens rapidly (left).  
-
+Consulting variations on this recipe and paying more attention to the English, it makes more sense that the liquid juices of these fruits were their primary interest; they coloured the result with the red of sandalwood for that the rice flour would pale the rich night-blood red of the fruits' juices. When heated, the rice flour thickens rapidly (left). 
+  
 Both are difficult to make look particularly 'elevated', and the flavour/texture profiles of both are of their time. I make both together regularly, keeping a fruitcake for the days after making the fruity porridge.  
+  
+Whether or not they used red or white wine isn't certain, but given its historical prestige, most likely; I prefer red. See Christopher Monk's [article](https://modernmedievalcuisine.com/2024/05/05/hot-caudle-anyone-part-one/) on a sort of precursor to Zabaione (among other things) for more. 

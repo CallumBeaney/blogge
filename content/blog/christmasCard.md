@@ -3,9 +3,9 @@ title="Medium-blending and making an ASCII Christmas business card"
 date="2024-03-11"
 +++
 
-Something I really enjoy, across all forms of human expression, is a novel combination of styles or phenomena belonging to distinct and incongruous contexts or domains -- clever, uncynically playful incursions between well-known boundaries. The sort of thing too simple to analyse without coming off as pretentious, but still refined enough in concept and design to be appreciated as an aesthetic object.  
+Something I really enjoy, across all forms of human expression, is a novel combination of styles or phenomena belonging to distinct and incongruous contexts -- clever, uncynically playful incursions between well-known boundaries. The sort of thing too simple to analyse without coming off as pretentious, but still refined enough in concept and design to be appreciated as an aesthetic object.  
  
-I'm also also very fond of print ephemera like business & post -cards.
+And also, for other reasons, the design of print ephemera like business & post -cards.
 
 <br>  
 {{ image(src="https://preview.redd.it/htzm54z4fxa61.jpg?auto=webp&s=2ead4d5145d253cd8b901255af004f205ec03f9f", position="left" style="width: 85vh;") }}
@@ -13,15 +13,15 @@ I'm also also very fond of print ephemera like business & post -cards.
 
 A pal recently sent this: 15 lines of code for setting up an HTTP client [on the back of a metal business card](https://www.reddit.com/r/tinycode/comments/kvuoqj/wrote_an_http_client_in_python_that_can_fit_on_a/).  
   
-I guess a small part of the joke in American Psycho's [business card scene](https://www.youtube.com/watch?v=aZVkW9p-cCU) is that the cards themselves have bad design (poor spacing, typos, distracting textures etc), yet they care about them so much. Most business cards I pick up at trade fairs are contrariwise the most perfunctory things, totally discardable. A good execution of the below genre of card isn't _bad_, but wouldn't it be better to receive something more like the above card, a curio to keep for its own merit?   
+I guess a small part of the joke in American Psycho's [business card scene](https://www.youtube.com/watch?v=aZVkW9p-cCU) is that the cards themselves have bad design (poor spacing, typos, distracting textures etc), yet they care about them so much. Most business cards I pick up at trade fairs are contrariwise perfunctory discardable things. A good execution of the below genre of card isn't _bad_, but wouldn't it be better to be given something more like the above card, a curio to keep for its own cuteness?   
 
 <br>
 {{ image(src="https://external-preview.redd.it/mk8leSSX4tYcql92G51e8K1cwnKsgqqPPHQsmNu8cn0.jpg?auto=webp&s=4e7cd63c8fdffeb459a1b12cf50483911b6b93f9", position="left" style="width: 100vh;") }}
 <br>
 
-With the exception of hand-made ones, I really dislike most birthday and Christmas cards. Receiving an overpriced piece of card stock with a bad joke printed on it, with my name at the top of the pre-printed text template and theirs at the bottom, is the sort of impersonal behaviour American Psycho mocks yuppies for.  
+With the exception of hand-made ones, or ones containing real content, birthday and Christmas cards kind of give me a bad impression. Receiving an overpriced piece of card stock with a bad joke printed on it, with my name at the top of a pre-printed text template and theirs at the bottom, is the sort of impersonal behaviour American Psycho mocks yuppies for.  
 
-I decided to try making something whose novelty would work in both these contexts, functioning as "fun propaganda" in tech (job market is Bad), but also able to function (as intended) as a sincere & friendly mini-gift to friends, even ones not much into coding.   
+So, I decided to try making something whose novelty would work in both these contexts, functioning as "fun propaganda" in tech (job market is Bad), but also able to function (as intended) as a sincere & friendly mini-gift to friends, even ones not much into coding.   
 
 ```
     #  #
@@ -83,10 +83,11 @@ So quickly inspired by that Four Seasons layout, I've thrown a [web version](htt
 
 <br>
 
-### Rolling updates (last updated: 2024/04/02)
+### Rolling updates (last updated: 2024/04/13)
 
 Hereon, I'm going to keep a little log of interesting/techy business cards:
   
 - [Brian D Carlton's PCB business card](https://github.com/bdc0/businesscard) and also Anthony Kouttron's [implementation](https://github.com/anthonykouttron/pcb-business-card-qr-nfc/tree/master)
 - [Lee Byron](https://leebyron.com)'s site, which adds a bit of embodiment to this little incursion. 
 - [Micah R Ledbetter](https://me.micahrl.com/business-card/) has this little randomised business card content page.
+- [Tony Richards](https://fourtoes.co.uk/iblog/the-auto-phrame/) found the `Auto Phrame`, an old businesscard-sized metal photo frame that holds a stack of prints.

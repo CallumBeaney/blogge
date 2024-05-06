@@ -40,7 +40,7 @@
                 <a href="/blogge" style="text-decoration: none;">
                     <div class="logo">
                       
-                            Writing Place
+                            writing place
                         
                     </div>
                 </a>
@@ -53,6 +53,8 @@
                 <li><a href="/blogge/">home</a></li>
             
                 <li class="active"><a href="/blogge/info">info</a></li>
+            
+                <li><a href="/blogge/music">music</a></li>
             
                 <li><a href="/blogge/links/articles">links</a></li>
             </ul>
@@ -77,15 +79,22 @@
     
  -->
         <div class="post-content">
-            <!-- 
-  
-  
-    
-    
-  
-  <img src="/blogge/images/flower.png" class="left" style="width: 35vh; padding-bottom:5%" />
-
- -->
+            <style>
+  .grid-container {
+    display: grid;
+    width: 350px;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Adjust column width as needed */
+    gap: 2px; /* Adjust gap between images */
+  }
+  .grid-item {
+    width: 100%;
+  }
+  .grid-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+</style>
 <p>Here is<br />
 　my <a href="https://callumbeaney.github.io/index.html">visual site</a>.<br />
 　my <a href="https://github.com/CallumBeaney">Github profile</a>.</p>
@@ -94,8 +103,8 @@
 　typefaces with <a href="https://mother-type.de">Mother</a>, and<br />
 　articles with <a href="https://c4journal.com/about/">C4 Journal</a>.</p>
 <p>This site was built with <a href="https://www.getzola.org/">Zola</a>,<br />
-　and <a href="https://github.com/pawroman">pawroman</a>'s <a href="https://github.com/pawroman/zola-theme-terminimal/">Terminimal</a> theme.  </p>
-
+　and <a href="https://github.com/pawroman">pawroman</a>'s <a href="https://github.com/pawroman/zola-theme-terminimal/">Terminimal</a> theme.</p>
+</div>
         </div>
 
         <!--  -->
