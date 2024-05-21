@@ -3,23 +3,21 @@ title="Medium-blending and making an ASCII Christmas business card"
 date="2024-03-11"
 +++
 
-Something I really enjoy, across all forms of human expression, is a novel combination of styles or phenomena belonging to distinct and incongruous contexts -- clever, uncynically playful incursions between well-known boundaries. The sort of thing too simple to analyse without coming off as pretentious, but still refined enough in concept and design to be appreciated as an aesthetic object.  
+Something I really enjoy, across all forms of human expression, is a novel combination of styles or phenomena distinct to incongruous contexts -- clever, uncynically playful incursions between well-known boundaries. The sort of thing too simple to analyse without coming off as pretentious, but still refined enough in concept/design to be appreciated aesthetically.  
  
-And also, for other reasons, the design of print ephemera like business & post -cards.
+A pal recently sent one of those: 15 lines of code for setting up an HTTP client [on the back of a metal business card](https://www.reddit.com/r/tinycode/comments/kvuoqj/wrote_an_http_client_in_python_that_can_fit_on_a/).  
 
 <br>  
 {{ image(src="https://preview.redd.it/htzm54z4fxa61.jpg?auto=webp&s=2ead4d5145d253cd8b901255af004f205ec03f9f", position="left" style="width: 85vh;") }}
 <br>
-
-A pal recently sent this: 15 lines of code for setting up an HTTP client [on the back of a metal business card](https://www.reddit.com/r/tinycode/comments/kvuoqj/wrote_an_http_client_in_python_that_can_fit_on_a/).  
   
-I guess a small part of the joke in American Psycho's [business card scene](https://www.youtube.com/watch?v=aZVkW9p-cCU) is that the cards themselves have bad design (poor spacing, typos, distracting textures etc), yet they care about them so much. Most business cards I pick up at trade fairs are contrariwise perfunctory discardable things. A good execution of the below genre of card isn't _bad_, but wouldn't it be better to be given something more like the above card, a curio to keep for its own cuteness?   
+I guess a small part of the joke in American Psycho's [business card scene](https://www.youtube.com/watch?v=aZVkW9p-cCU) is that the cards themselves have bad design (poor spacing, typos, distracting textures etc), yet they care about them so much. Most business cards I pick up at trade fairs are perfunctory, discardable things. A good execution of the below genre of card isn't _bad_, but wouldn't it be better to be given something more like the above card, a curio to keep for its own cuteness? I'd never forget someone who gave me a code card.    
 
 <br>
 {{ image(src="https://external-preview.redd.it/mk8leSSX4tYcql92G51e8K1cwnKsgqqPPHQsmNu8cn0.jpg?auto=webp&s=4e7cd63c8fdffeb459a1b12cf50483911b6b93f9", position="left" style="width: 100vh;") }}
 <br>
 
-With the exception of hand-made ones, or ones containing real content, birthday and Christmas cards kind of give me a bad impression. Receiving an overpriced piece of card stock with a bad joke printed on it, with my name at the top of a pre-printed text template and theirs at the bottom, is the sort of impersonal behaviour American Psycho mocks yuppies for.  
+Also, with the exception of nice hand-made ones, or ones containing real written content, the whole way birthday and Christmas cards are often given out kind of gives me the ick. Receiving an overpriced piece of card stock with a bad joke printed on it, with my name at the top of a pre-printed text template and theirs at the bottom, is the sort of impersonal behaviour American Psycho mocks yuppies for.  
 
 So, I decided to try making something whose novelty would work in both these contexts, functioning as "fun propaganda" in tech (job market is Bad), but also able to function (as intended) as a sincere & friendly mini-gift to friends, even ones not much into coding.   
 
@@ -47,7 +45,7 @@ _________||_田______
 
 So for this I ported it to Python and cut the linecount right down. It can be made terser but I like this to be _somewhat_ readable to an experienced dev. It needed to be brief enough to copy out if wanted, obfuscated enough to not be obvious how it works, but have hints enough to give them some ideas of what is happening if they type it out.  
   
-Let's here recognise that, although Python is generally horrible, being able to do this much this terse is nice: 
+Although I in general find Python horrible, being able to do this much this terse is nice: 
 
 ```Python
 # iterate over a random subset of numerically-sorted indicies
@@ -63,7 +61,7 @@ So, for Winter 2024, I'll be disseminating something like this:
 <br>
 {{ image(src="https://raw.githubusercontent.com/CallumBeaney/christmas-tree-card/main/img/mockBack.jpg", position="left" style="width: 65vh;") }}
   
-I made up a few of these with some filofax divider paper and handed them out to folks at Tech Fair London in March 2024. They seemed to be received well. My plan is to have around a hundred made and make it a project to send them to folks in the mail, drop them around places tech people work. You can peek at the repo [here](https://github.com/CallumBeaney/christmas-tree-card/tree/main).
+I made up a few of these with some filofax divider paper and handed them out to folks at a tech event. My plan is to have around a hundred made and make it a project to send them to folks in the mail, drop them around places tech people work. You can peek at the repo [here](https://github.com/CallumBeaney/christmas-tree-card/tree/main).  
 
 
 <br>

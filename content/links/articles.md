@@ -9,7 +9,7 @@ title="articles & text resources"
 [Podcasts & Music](#sound)  
 [Politics](#politics)  
 [Programming & Maths](#programming)  
-[Vidya](#games)  
+[Vidya/TV](#games)  
 [Visual Matters](#visual-matters)    
 [Typography](#typography)  
 [Tools](#Tools)  
@@ -170,6 +170,7 @@ __portfolio sites & paper logics &c__
 - [Arozear](https://www.arozear.com)
 - [Archive - Raymond Meeks](http://www.raymondmeeks.com/archive)
 - [Maurice Meilleur](https://mauricemeilleur.net)
+- [Rhonesama](https://www.rhonesama.com)
 
 __articles__
 - [Faraway - Yumiko Izu](https://yumikoizu.com/essay/essay-faraway/)
@@ -207,6 +208,7 @@ __articles__
 
 
 ## Games
+- [Old 90s TV](https://90s.myretrotvs.com)
 - [Thunder - ABA Games](https://abagames.itch.io/thunder)  
 - [History of English Guessing Game](https://englishguesser.tuon.dev)
 - [Patient Rouge - Watabou](https://watabou.itch.io/patient-rogue)
@@ -218,6 +220,7 @@ __articles__
 - [Your World of Text](https://www.yourworldoftext.com)
 - [The Password Game](https://neal.fun/password-game/)
 - [Word Golf](https://www.word.golf)
+- [Slow Roads](https://slowroads.io)
 
 
 <br>
@@ -231,6 +234,7 @@ __articles__
 - [Rectangles](https://rectangles.app)
 - [End Of Life Date](https://endoflife.date)
 - [secure messaging apps](https://www.securemessagingapps.com)
+- [shapecatcher](https://shapecatcher.com)
 
 <br>
 

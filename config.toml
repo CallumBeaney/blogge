@@ -33,7 +33,7 @@ background_color = "custom"  # see sass/color/background_custard.scss
 
 # menu is enabled by adding menu_items (optional)
 menu_items = [
-    {name = "home", url = "$BASE_URL/"},
+    {name = "text", url = "$BASE_URL/"},
     {name = "info", url = "$BASE_URL/info"},
     {name = "music", url = "$BASE_URL/music"},
     {name = "links", url = "$BASE_URL/links/articles"},
