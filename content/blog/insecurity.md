@@ -1,5 +1,5 @@
 +++
-title="August Sander's NFTs and naming your files stupidly"
+title="August Sander archive NFTs and naming your files stupidly"
 date="2023-10-18"
 +++
 
@@ -27,9 +27,7 @@ https://theartregister.mypinata.cloud/ipfs/aWholeBunchOfRandomLetters/full/1.jpg
 ```  
   
 <br>
-And with the above in mind + just to have fun around that time I wrote this:  
-
-# THIS SCRIPT HAS BEEN WRITTEN FOR PURELY ACADEMIC PURPOSES AND I DID NOT USE IT FOR ANYTHING BUT TESTING I DOWNLOADED LIKE 15 IMAGES AND THEN DELETED THEM ALL DON'T SUE ME BRO ITS COOL BRO WE CAN RELAX AND EAT CHEESECAKE TOGETHER AND TALK IT OUT OK BRO
+This means that with something as basic as this (written in C to be edgy):
  
 ```
 #include <stdio.h>
@@ -53,6 +51,8 @@ int main(void)
   }
 }
 ```
+
+... you can download the entire archive.
 
 <br>
 

@@ -97,6 +97,7 @@ Web history
 
 
 ## Blogs
+### General blogs
 - [Boring Books - printer_scanner](https://boringbooks.org)
 - [This On That](http://thisonthat.org)
 - [Photos and Stuff - Photothunk](http://photothunk.blogspot.com)
@@ -171,6 +172,7 @@ __portfolio sites & paper logics &c__
 - [Archive - Raymond Meeks](http://www.raymondmeeks.com/archive)
 - [Maurice Meilleur](https://mauricemeilleur.net)
 - [Rhonesama](https://www.rhonesama.com)
+- [Tanya Marcuse](http://tanyamarcuse.com/)  
 
 __articles__
 - [Faraway - Yumiko Izu](https://yumikoizu.com/essay/essay-faraway/)
@@ -208,6 +210,7 @@ __articles__
 
 
 ## Games
+### Game games
 - [Old 90s TV](https://90s.myretrotvs.com)
 - [Thunder - ABA Games](https://abagames.itch.io/thunder)  
 - [History of English Guessing Game](https://englishguesser.tuon.dev)
@@ -221,6 +224,8 @@ __articles__
 - [The Password Game](https://neal.fun/password-game/)
 - [Word Golf](https://www.word.golf)
 - [Slow Roads](https://slowroads.io)
+### Game blogs
+- [All Things Andy Gavin](https://all-things-andy-gavin.com) (worked at Naughty Dog in the early 2000s)
 
 
 <br>
@@ -246,6 +251,7 @@ __articles__
 - [URL Poetry Club](https://urlpoetry.club)
 - [Human Clock](https://humanclock.com)
 - [Code Poems](https://web.archive.org/web/20231201202952/http://code-poems.com/about.html)
+- [BibleMunger](https://me.micahrl.com/projects/biblemunger/)
 - [Superbad](http://www.superbad.com/)
 - [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
 - [I Type NY](https://i-type-ny.groznov.co/)
@@ -256,6 +262,6 @@ __articles__
 - [Pitscher Clock](https://pitscher.net/clock/)
 - [Found Color](https://foundcolor.co/archive)
 - [Sun - Yuin Chien](https://yuinchien.com/p/sun)
-- [Sweethearts](http://www.sweetheartsweetheart.com/colophon.html)
+- [Sweethearts](http://www.sweetheartsweetheart.com/colophon.html) - This looks dead. Hopefully it's brought back.
 
 <!-- https://www.c82.net -->

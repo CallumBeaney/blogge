@@ -3,7 +3,7 @@ title="Meeting languages on their own terms (Gawain & The Green Knight)"
 date="2024-01-01"
 +++
 
-Below is one of my favourite parts of the Pearl Poet's *Gawain and the Green Knight*, a 14th-century poem written in a Cheshire dialect:   
+Below is one of my favourite passages from the Pearl Poet's *Gawain and the Green Knight*, a 14th-century English poem written in a Cheshire dialect:   
   
 ```
 After Crystenmasse com þe crabbed lentoun,
@@ -23,7 +23,7 @@ Ar herde in wod so wlonk.
 ```
 
 ##### Pronunciation:
-- 'ȝ' is 'gh' as in 'enough'
+- 'ȝ' is 'gh' as in 'enough' (if this displays improperly, imagine a '3').
 - 'þ' is 'th' as in 'the'
 - 'y' is pronounced like 'i' in 'with'.  
 
@@ -55,7 +55,7 @@ And then glorious notes
 Are heard in woods so noble.*
   
 
-The simplified version is easier to grasp for a _modern_ reader, but the economy of language, rhythm, and feeling of these words in the mouth & ears is absent. The Pearl Poet was attentive to these qualities to such a degree that synonyms of a given word will regularly appear in the selfsame line. The result is a maturity of composition making other great poems of the era such as *The Castle of Perseverance* sound almost amateur by comparison. 
+The simplified version is easier to grasp for a modern reader, but the economy of language, rhythm, and feeling of these words in the mouth & ears is absent. The Pearl Poet was attentive to these qualities to such a degree that synonyms of a given word will regularly appear in the selfsame line. The result is a maturity of composition making other great poems of the era such as *The Castle of Perseverance* sound almost amateur by comparison.  
 
 <br>
 
@@ -88,7 +88,7 @@ This kind of marginalia is unsuitable for screens. My whimsical side has a littl
 
 ### Tolkien's modernisation:
 
-Tolkien understood the Pearl Poet well; his translation is semantically faithful, and the glossary & notes to the original with E.V. Gordon and Norman Davis are superlative in quality. His modernisation by necessity forces poetic English of the 1900s into the structure and logic of that of the 1300s:
+Tolkien understood the Pearl Poet well - his translation is semantically faithful, and the glossary & notes to the original with E.V. Gordon and Norman Davis are superlative in quality. His modernisation by necessity forces poetic English of the 1300s into the structure and logic of that of the 1900s:
 
 ```
 after Christmas there came the crabbed Lenten
@@ -99,7 +99,7 @@ shining rain is shed in showers that all warm
 fall on the fair turf, flowers there open,
 of grounds and of groves green is the raiment,
 birds are busy a-building and bravely are singing
-for the sweetness of the soft summer that will soon be on 510
+for the sweetness of the soft summer that will soon be on 
 the way;
 and blossoms burgeon and blow
 in hedgerows bright and gay;
@@ -107,9 +107,9 @@ then glorious musics go
 through the woods in proud array.
 ```
 
-Rhythm and alliterative stresses differ significantly, particularly the 2nd line and also in the more contemporary, inappropriately sing-song '_birds are busy_ ***a-building*** _and bravely are singing_'.  
+Rhythm and alliterative stresses differ significantly, particularly the 2nd line and also in the more contemporary, inappropriately sing-song and affected '_birds are busy_ ***a-building*** _and bravely are singing_' ("bravely" is also a slightly slanted word choice but I shan't be a bully).  
 
-Heavily on word order for natural sounding sentences Modern English relies; many of these sentences' stresses are shifted by stricter modern grammatical patterns obliging being-verbs to appear in specific places.  
+Heavily on relies word order for natural sounding sentences Modern English; many of these sentences' stresses are shifted by stricter modern grammatical patterns obliging being-verbs to appear in specific places.  
 
 - *Bot þenne þe weder of þe worlde wyth wynter hit þrepez*       
 - *But then the weather in the world makes war on the winter*
@@ -152,9 +152,9 @@ through woods in grand display.
 
 What I want to emphasise is that it was not only the story itself that made the Pearl Poet significant when re-discovered in the 19th century; it was the technical proficiency with which it was written using the language of the time.   
 
-'Bolne' means 'swell', emphasising something gradually growing from within and usually used to reference things like pride, pus-filled boils and sexual excitement. The original was _blossumez bolne to blowe_. Tolkien chooses "_blossoms burgeon and blow_". Burgeon is semantically closer, having also archaic meaning of "to bud" and a modern meaning of expanding rapidly (often regarding industry or business), but "burgeon" and "bolne" do not have the same auditory qualities; "bolne" and blowe" both contain a strong 'l' sound complimenting ***bl***_ossumez_, alliterating smoothly. The '**zh**' of bur**g**eon is harsher and lacks the same smoothness, for that Modern English lacks a suitable substitute!  
+'Bolne' means 'swell', emphasising something gradually growing from within and usually used to reference things like pride, pus-filled boils and sexual excitement. The original was _blossumez bolne to blowe_. Tolkien chooses "_blossoms burgeon and blow_". Burgeon is semantically closer, having also archaic meaning of "to bud" and a modern meaning of expanding rapidly (often regarding industry or business), but "burgeon" and "bolne" do not have the same auditory qualities; "bolne" and blowe" both contain a strong 'l' sound complimenting ***bl***_ossumez_, alliterating smoothly. The '**zh**' of bur**g**eon is harsher and lacks the same smoothness, for that Modern English lacks a suitable substitute.  
 
-For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother; shame it is while fantastical an inferior image. The Pearl Poet writes on the changing of the seasons here in a grounded manner. In the poem, the passage of a whole year taking place in a single paragraph is contradistinguished with 6 prior describing the Green Knight's horse & clothing, and another ~6 of a supernatural event taking place. The Green Knight --a stand-in for Christian-shunned Paganism's Nature, witchcraft, and the base desires of man-- waits in winter to deal Gawain an ax-blow. That the season then changes so rapidly that it passes in a near-instance, and that the blossoms are described at the beginning and end of their brief life cycle in "bolne" and then "blowe", for me, is not just a narrative fast-forward, but a small but subtle way to point to life's fleetingness, particularly for our man Gawain's trepadation for fearsome circumstances anticipated a year after that supernatural event. In the original each aspect of meaning, poetry, and music are tightly interwoven.  
+For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother - shame it is while fantastical an inferior image. The Pearl Poet writes on the changing of the seasons here in a grounded manner. In the poem, the passage of a whole year taking place in a single paragraph is contradistinguished with 6 prior describing the Green Knight's horse & clothing, and another ~6 of a supernatural event taking place. The Green Knight --a stand-in for Christian-shunned Paganism's Nature, witchcraft, and the base desires of man-- waits in winter to deal Gawain an ax-blow. That the season then changes so rapidly that it passes in a near-instance, and that the blossoms are described at the beginning and end of their brief life cycle in "bolne" and then "blowe", for me, is not just a narrative fast-forward, but a small but subtle way to point to life's fleetingness, particularly for our man Gawain's trepadation for fearsome circumstances anticipated a year after that supernatural event. In the original each aspect of meaning, poetry, and music are tightly interwoven.  
   
 <br>
 
@@ -166,7 +166,7 @@ For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother; shame it is while 
 
 <br>
   
-Both translations are good, but neither reach the level of the Pearl Poet. I do admire Armitage not because I think every choice shows perfectly what made this story so great, but because his is a braver endeavour, and is more proper to being his own act of creation; Tolkien's translation, paired with his peerless annotated edition of the original Middle English, is both good poetry and a useful tool; it is an academic effort. Armitage is bold for that he is trying to capture the feeling of the poem for a modern audience over strictly the meaning; an unrealistic aspiration when the goal is G&TGK.  
+Both translations are good, but neither reach the level of the Pearl Poet. I do admire Armitage not because I think every choice shows perfectly what made this story so great, but because his is a braver endeavour, and is more proper to being his own act of creation; Tolkien's translation, paired with his peerless annotated edition of the original Middle English, is both good poetry and a useful tool; it is an academic effort. Armitage is bold for that he is trying to capture the feeling of the poem for a modern audience over strictly the meaning; a real aspiration when the goal is G&TGK.   
 
 I don't think I could effectively modernise _Gawain_ either, but also I don't want to. Rather, I find it is better to persevere with annotations in pencil, or use [a tool like what I am making](https://github.com/goodpals/middle-english-mouse-dictionary) to quickly reference medieval English words, and meet the language on its own terms.  
 
