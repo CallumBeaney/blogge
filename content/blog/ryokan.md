@@ -16,9 +16,9 @@ date="2024-01-29"
 
 ```
 Try planting something;
-there is no place that will foster no flowers.
+there is no village where flowers do not grow.
 Only by living truly from the heart,
-will the body too be healed. 
+can the body too be healed. 
 ```
 <br>
 最初の二行と最後の二行の関係の意義は運が悪くても精神修養で傷を癒せます（良寛の生きた時代の社会的身分制度に生まれた状況が大抵運命を決ることであったから）。
