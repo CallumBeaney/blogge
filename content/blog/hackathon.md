@@ -45,8 +45,8 @@ You can read more about the illuminated copy's many political alterations [__her
 <div class="image-container">
   <!-- <details>
     <summary><b>Click this text to open Great Bible frontispiece</b></summary> -->
-    <img src="/images/hackathon/colour.jpg" alt="Behind Image">
-    <img src="/images/hackathon/print.jpg" alt="Top Image" class="top-image">
+    <img src="/images/hackathon_colour.jpg" alt="Behind Image">
+    <img src="/images/hackathon_print.jpg" alt="Top Image" class="top-image">
   <!-- </details> -->
 </div><br><br>
 
@@ -59,7 +59,7 @@ Each technique has its own pitfalls: XRF isn't good with organics; some pigment 
 <br>
 
 {{ image(src="https://physicsopenlab.org/wp-content/uploads/2016/02/xrf.jpg", alt="XRF", position="center" style="width: 75vh;") }}
-{{ image(src="/images/hackathon/macroXRF.jpg", alt="Macro XRF", position="center" style="width: 75vh;") }}
+{{ image(src="/images/hackathon_macroXRF.jpg", alt="Macro XRF", position="center" style="width: 75vh;") }}
 <p style="padding:0% 12%; font-style:italic">Macro-XRF Analysis of the Great Bible by Nathan Daly at the Hamilton Kerr Institute</p>
 
 
@@ -71,11 +71,11 @@ The prototypes we made at the hackathon focused on public edification rather tha
 
 <br>
 
-{{ image(src="/images/hackathon/dcu.jpg", alt="Thomas Cromwell", position="center" style="width: 60vh;") }}
+{{ image(src="/images/hackathon_dcu.jpg", alt="Thomas Cromwell", position="center" style="width: 60vh;") }}
 <p style="padding:0% 15%; font-style:italic; text-align:center;">The MSI unit in the CUL Digital Lab.</p>
 
 
-{{ image(src="/images/hackathon/bone.jpg", alt="Thomas Cromwell", position="center" style="width: 60vh;") }}
+{{ image(src="/images/hackathon_bone.jpg", alt="Thomas Cromwell", position="center" style="width: 60vh;") }}
 <p style="padding:0% 15%; font-style:italic; text-align:center;">A 3D print of a Chinese oracle bone, digitised via photogrammetry</p>
 
 <br>
@@ -88,8 +88,8 @@ The goal was to make an educational app providing extra insight into this book a
 With four software developers and around 25 students, four groups were formed. In past years app prototyping was done with a generic JS stack; the last two, the hosts moved to simulating a user experience by building UIs with basic conditional logic in [Figma](https://www.figma.com/), owing to developers having to stay up late in previous years programming in the features, and due to their role in the collaborative process being both less integrated and less accessible to non-technical participants.  
 
 <div class="flex-container">
-  <img src="/images/hackathon/workflow_board.jpg" style="height: auto;">
-  <img src="/images/hackathon/workflow_figma.jpg" style="height: auto;">
+  <img src="/images/hackathon_workflow_board.jpg" style="height: auto;">
+  <img src="/images/hackathon_workflow_figma.jpg" style="height: auto;">
 </div><br>
 
 By doing this however the scope of the app prototypes expanded and so this year also we developers stayed up late. This really was OK, but is humorously microcosmic of automation in industry.  
@@ -99,13 +99,13 @@ With stylised history-themed mystery-puzzle games like `Return of the Obrah Dinn
 Achieving this with Figma being difficult, we opted for a simpler _click here to see how it'd look_ button to trigger a fading painting-in-effect animation.  
 
 <div class="flex-container">
-  <img src="/images/hackathon/screens_1.jpg" style="height: auto;">
-  <img src="/images/hackathon/screens_2.jpg" style="height: auto;">
+  <img src="/images/hackathon_screens_1.jpg" style="height: auto;">
+  <img src="/images/hackathon_screens_2.jpg" style="height: auto;">
 </div>
 
 <div class="flex-container">
-  <img src="/images/hackathon/screens_3.jpg" style="height: auto;">
-  <img src="/images/hackathon/screens_4.jpg" style="height: auto;">
+  <img src="/images/hackathon_screens_3.jpg" style="height: auto;">
+  <img src="/images/hackathon_screens_4.jpg" style="height: auto;">
 </div>
 <p style="font-style:italic; text-align:center;">Screenshots from our Figma project.</p><br>
 
@@ -136,12 +136,12 @@ Other groups were more experimental in their presentation. Inspired by floral ma
 _J_'s group designed a linear progression of 3-column page layouts in which each main layout page had sub-pages or elements (like nodes) which could be interacted with before progressing onto the next main page. On each page the centre column contained article text, with comparison images either side. This more explorative and preference-driven user experience over a fixed path is suitable for museum tablets and displays.  
 
 <div class="flex-container">
-  <img src="/images/hackathon/fail.jpg" style="height: auto;">
-  <img src="/images/hackathon/books.jpg" style="height: auto;">
+  <img src="/images/hackathon_fail.jpg" style="height: auto;">
+  <img src="/images/hackathon_books.jpg" style="height: auto;">
 </div>
 <div class="flex-container">
-  <img src="/images/hackathon/town.jpg" style="height: auto;">
-  <img src="/images/hackathon/hands.jpg" style="height: auto;">
+  <img src="/images/hackathon_town.jpg" style="height: auto;">
+  <img src="/images/hackathon_hands.jpg" style="height: auto;">
 </div>
 <br>
   
