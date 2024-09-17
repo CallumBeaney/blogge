@@ -3,8 +3,88 @@ title="Prototying at ＜HANDS: On＞ Cambridge University Hackathon"
 date="2024-08-31"
 +++
 
-I was invited to participate as a developer at Cambridge University Library's week-long [_Hackathon_](https://projects.history.qmul.ac.uk/handson/hackathon-2024/), where ~30 postgraduates made educational app prototypes, giving researchers of the [Hidden In Plain Sight](https://projects.history.qmul.ac.uk/inplainsight/) project ideas for educational software.  
 
+<!-- STYLE BEGINS -->
+<style>
+  .image-container {
+      position: relative;
+      width: 50vw; 
+      height: 80vw;
+      margin: 20px auto; 
+      max-width: 100%;
+  }
+
+@media (max-width: 600px) {
+    .image-container {
+      position: relative;
+      width: 80vw; 
+      height: 110vw;
+    }
+      .flex-container {
+      flex-direction: column!important;
+    }
+    .flex-container img {
+      width: 100%!important;
+      height: auto!important;
+    }
+  }
+
+  .image-container img {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      transition: opacity 2s ease;
+  }
+
+  .image-container img.top-image {
+      opacity: 1;
+  }
+
+  .image-container:hover img.top-image {
+      opacity: 0;
+  }
+
+  .flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-container img {
+  width: 50%; 
+  object-fit: cover;  
+  height: auto;
+  padding: 2px;
+}
+
+.youtube-video-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+.youtube-video-container::after {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
+}
+
+.youtube-video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+</style>
+
+I was invited to participate as a developer at Cambridge University Library's week-long [_Hackathon_](https://projects.history.qmul.ac.uk/handson/hackathon-2024/), where ~30 postgraduates made educational app prototypes, giving researchers of the [Hidden In Plain Sight](https://projects.history.qmul.ac.uk/inplainsight/) project ideas for educational software.  
 
 __INDEX__  
 　[The week](#the-week)  
@@ -180,83 +260,3 @@ I feel somewhat conflicted about our contribution - the game idea was good; the 
 - Here's a [short video](https://www.youtube.com/watch?v=81iYAtfONdo) of a previous iteration of this Hackathon.
 - [A prototype tool from a previous Hackathon](https://dlukes.github.io/demm-cambridge/#/0/0/0) for learning how to inspect medieval manuscripts.  
 
-
-<!-- STYLE BEGINS -->
-<style>
-  .image-container {
-      position: relative;
-      width: 50vw; 
-      height: 80vw;
-      margin: 20px auto; 
-      max-width: 100%;
-  }
-
-@media (max-width: 600px) {
-    .image-container {
-      position: relative;
-      width: 80vw; 
-      height: 110vw;
-    }
-      .flex-container {
-      flex-direction: column!important;
-    }
-    .flex-container img {
-      width: 100%!important;
-      height: auto!important;
-    }
-  }
-
-  .image-container img {
-      position: absolute;
-      width: 100%;
-      height: 100%;
-      transition: opacity 2s ease;
-  }
-
-  .image-container img.top-image {
-      opacity: 1;
-  }
-
-  .image-container:hover img.top-image {
-      opacity: 0;
-  }
-
-  .flex-container {
-  display: flex;
-  flex-direction: row;
-}
-
-.flex-container img {
-  width: 50%; 
-  object-fit: cover;  
-  height: auto;
-  padding: 2px;
-}
-
-.youtube-video-container {
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-}
-
-.youtube-video-container::after {
-  display: block;
-  content: "";
-  padding-top: 56.25%;
-}
-
-.youtube-video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.center-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; 
-}
-</style>
