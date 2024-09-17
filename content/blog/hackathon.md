@@ -109,7 +109,7 @@ __INDEX__
 
 <br>
 
-{{ image(src="https://images.theconversation.com/files/351276/original/file-20200805-22-y3voc3.JPG", alt="Thomas Cromwell", position="center" style="width: 80vh;") }}
+{{ image(src="https://images.theconversation.com/files/351276/original/file-20200805-22-y3voc3.JPG",  position="center" style="width: 80vh;") }}
 
 <br>
 
@@ -120,16 +120,14 @@ The _Bible_'s first authorized English-language printing, _The Great Bible_ (153
    
 Thomas Cromwell (_above_) commissioned an illuminated variant for the king with his own portrait pasted over the figure to the king's right on the book's title page (_below_). That seam below his chin was discovered by illuminating the page with a raking light during microscope inspection.
   
-You can read more about the illuminated copy's many political alterations [__here__](https://theconversation.com/how-thomas-cromwell-used-cut-and-paste-to-insert-himself-into-henry-viiis-great-bible-143765). I aligned the below scans for comparison. Mousehover/longpress to see the different versions.
+You can read more about the illuminated copy's many political alterations [__here__](https://theconversation.com/how-thomas-cromwell-used-cut-and-paste-to-insert-himself-into-henry-viiis-great-bible-143765).  
 
-<div class="image-container">
-  <!-- <details>
-    <summary><b>Click this text to open Great Bible frontispiece</b></summary> -->
-    <img src="/images/hackathon_colour.jpg" alt="Behind Image">
-    <img src="/images/hackathon_print.jpg" alt="Top Image" class="top-image">
-  <!-- </details> -->
-</div><br><br>
-
+<br>
+{{ image(src="/images/hackathon_colour.jpg",  position="center" style="width: 80vh;") }}
+<br>
+{{ image(src="/images/hackathon_print.jpg",  position="center" style="width: 80vh;") }}
+<br>
+<br>
 
 # Imaging techniques and materials analysis
 Having worked in the past in heritage digitzation, I was familiar with the purely photographic stuff like photogrammetry, MSI, panoramic stitching tools etc. The newer materials-specific techniques introduced to us in the labs around the [Cultural Heritage Imaging Laboratory](https://www.lib.cam.ac.uk/collections/departments/chil) in the library included e.g. Fibre-Optic Reflectance Spectrography (FORS), and [X-Ray Flouresence Spectroscopy](https://physicsopenlab.org/2016/02/24/diy-xrf-spectrometry/) (XRF - below). 
@@ -151,11 +149,11 @@ The prototypes we made at the hackathon focused on public edification rather tha
 
 <br>
 
-{{ image(src="/images/hackathon_dcu.jpg", alt="Thomas Cromwell", position="center" style="width: 60vh;") }}
+{{ image(src="/images/hackathon_dcu.jpg",  position="center" style="width: 60vh;") }}
 <p style="padding:0% 15%; font-style:italic; text-align:center;">The MSI unit in the CUL Digital Lab.</p>
 
 
-{{ image(src="/images/hackathon_bone.jpg", alt="Thomas Cromwell", position="center" style="width: 60vh;") }}
+{{ image(src="/images/hackathon_bone.jpg",  position="center" style="width: 60vh;") }}
 <p style="padding:0% 15%; font-style:italic; text-align:center;">A 3D print of a Chinese oracle bone, digitised via photogrammetry</p>
 
 <br>
@@ -167,10 +165,12 @@ The goal was to make an educational app providing extra insight into this book a
 
 With four software developers and around 25 students, four groups were formed. In past years app prototyping was done with a generic JS stack; the last two, the hosts moved to simulating a user experience by building UIs with basic conditional logic in [Figma](https://www.figma.com/), owing to developers having to stay up late in previous years programming in the features, and due to their role in the collaborative process being both less integrated and less accessible to non-technical participants.  
 
-<div class="flex-container">
-  <img src="/images/hackathon_workflow_board.jpg" style="height: auto;">
-  <img src="/images/hackathon_workflow_figma.jpg" style="height: auto;">
-</div><br>
+<br>
+{{ image(src="/images/hackathon_workflow_board.jpg",  position="center" style="width: 65vh;") }}
+<br>
+{{ image(src="/images/hackathon_workflow_figma.jpg",  position="center" style="width: 65vh;") }}
+<p style="padding:0% 15%; font-style:italic; text-align:center;">Workflows from board to screen</p><br>
+
 
 By doing this however the scope of the app prototypes expanded and so this year also we developers stayed up late. This really was OK, but is humorously microcosmic of automation in industry.  
   
@@ -178,15 +178,12 @@ With stylised history-themed mystery-puzzle games like `Return of the Obrah Dinn
 
 Achieving this with Figma being difficult, we opted for a simpler _click here to see how it'd look_ button to trigger a fading painting-in-effect animation.  
 
-<div class="flex-container">
-  <img src="/images/hackathon_screens_1.jpg" style="height: auto;">
-  <img src="/images/hackathon_screens_2.jpg" style="height: auto;">
-</div>
+<br>
 
-<div class="flex-container">
-  <img src="/images/hackathon_screens_3.jpg" style="height: auto;">
-  <img src="/images/hackathon_screens_4.jpg" style="height: auto;">
-</div>
+{{ image(src="/images/hackathon_screens_1.jpg",  position="center" style="width: 85vh;padding-bottom:5px") }}
+{{ image(src="/images/hackathon_screens_2.jpg",  position="center" style="width: 85vh;padding-bottom:5px") }}
+{{ image(src="/images/hackathon_screens_3.jpg",  position="center" style="width: 85vh;padding-bottom:5px") }}
+{{ image(src="/images/hackathon_screens_4.jpg",  position="center" style="width: 85vh;") }}
 <p style="font-style:italic; text-align:center;">Screenshots from our Figma project.</p><br>
 
 Without a proper toolchain prototyping for a minigame like this involves "telling" over "showing" for the testers brought in; we imagined a GUI showing many different tools to use on the manuscript; we were advised to instead simulate the experience of one or two features, well. As such we hard-coded a fixed path, rather than the "open map" we wanted, where the user would zoom in & out and inspect the pertinent elements of the title page in whatever order they desired.  
@@ -203,9 +200,9 @@ Though using Figma with only a little practice was a challenge, the most difficu
 
 <br>
 
-<div class="center-container">
+<!-- <div class="center-container"> -->
   <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Done! The prototype is ready for tomorrow&#39;s presentation and you can be the first to see it. A big thank you to the team, it was amazing working with you on this prototype!<br><br>Can you think of website like this for your research? <a href="https://t.co/uMbTBYntU4">pic.twitter.com/uMbTBYntU4</a></p>&mdash; Martin Rocek (@Silencesys) <a href="https://twitter.com/Silencesys/status/1803914759097495595?ref_src=twsrc%5Etfw">June 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<!-- </div> -->
 
 <br>
 
@@ -215,14 +212,8 @@ Other groups were more experimental in their presentation. Inspired by floral ma
 
 _J_'s group designed a linear progression of 3-column page layouts in which each main layout page had sub-pages or elements (like nodes) which could be interacted with before progressing onto the next main page. On each page the centre column contained article text, with comparison images either side. This more explorative and preference-driven user experience over a fixed path is suitable for museum tablets and displays.  
 
-<div class="flex-container">
-  <img src="/images/hackathon_fail.jpg" style="height: auto;">
-  <img src="/images/hackathon_books.jpg" style="height: auto;">
-</div>
-<div class="flex-container">
-  <img src="/images/hackathon_town.jpg" style="height: auto;">
-  <img src="/images/hackathon_hands.jpg" style="height: auto;">
-</div>
+<br>
+{{ image(src="/images/hackathon_fail.jpg",  position="left" style="width: 60vh;") }}
 <br>
   
 Outside of work, all we different groups met for breakfasts and dinners. All parties involved enjoyed a lovely meal on a green outside the host's residence on the Wednesday eve.  
