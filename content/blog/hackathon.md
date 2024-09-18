@@ -120,7 +120,7 @@ The _Bible_'s first authorized English-language printing, _The Great Bible_ (153
    
 Thomas Cromwell (_above_) commissioned an illuminated variant for the king with his own portrait pasted over the figure to the king's right on the book's title page (_below_). That seam below his chin was discovered by illuminating the page with a raking light during microscope inspection.
   
-You can read more about the illuminated copy's many political alterations [__here__](https://theconversation.com/how-thomas-cromwell-used-cut-and-paste-to-insert-himself-into-henry-viiis-great-bible-143765).  
+Both versions are riddled with brazen heresy and propaganda, most comically the shunting of the word of the Lord to a narrow sliver above the enormous figure of the now-Godlike Henry VIII distributing these books to the populace below. You can read more about the illuminated copy's many political alterations [__here__](https://theconversation.com/how-thomas-cromwell-used-cut-and-paste-to-insert-himself-into-henry-viiis-great-bible-143765).  
 
 <br>
 {{ image(src="/images/hackathon_colour.jpg",  position="center" style="width: 80vh;") }}
@@ -143,7 +143,7 @@ Each technique has its own pitfalls: XRF isn't good with organics; some pigment 
 
 <br>
 
-Application of machine learning to these technologies has been discussed ([__1__](https://www.nature.com/articles/s41598-024-53988-z), [__2__](https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-2-146&id=545855)), and surveys have identified that there is more general uptake of ML in a cultural heritage context ([__2020__](https://www.sciencedirect.com/science/article/pii/S0167865520300532#sec0016), [__2022__](https://ceur-ws.org/Vol-3234/paper2.pdf)), but even in larger instutions this can be either highly localised to a specific project, be slow to develop due to financial or quality requirements, or in less rigorous cases, be insufficiently tailored to the task.  
+Application of machine learning to these technologies has been discussed ([__1__](https://www.nature.com/articles/s41598-024-53988-z), [__2__](https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-2-146&id=545855)), and surveys have identified that there is more general uptake of ML in a cultural heritage context ([__2020__](https://www.sciencedirect.com/science/article/pii/S0167865520300532#sec0016), [__2022__](https://ceur-ws.org/Vol-3234/paper2.pdf)), but even in larger institutions this can be either highly localised to a specific project, be owing to financial or quality requirements slow to develop, or be otherwise tailored insufficiently.  
 
 The prototypes we made at the hackathon focused on public edification rather than on e.g. internal tools for researchers; I'd love to be involved in designing and building massive data & training sets for specialised open source tooling.  
 
@@ -166,9 +166,9 @@ The goal was to make an educational app providing extra insight into this book a
 With four software developers and around 25 students, four groups were formed. In past years app prototyping was done with a generic JS stack; the last two, the hosts moved to simulating a user experience by building UIs with basic conditional logic in [Figma](https://www.figma.com/), owing to developers having to stay up late in previous years programming in the features, and due to their role in the collaborative process being both less integrated and less accessible to non-technical participants.  
 
 <br>
-{{ image(src="/images/hackathon_workflow_board.jpg",  position="center" style="width: 65vh;") }}
+{{ image(src="/images/hackathon_workflow_board.jpg",  position="center" style="width: 75vh;") }}
 <br>
-{{ image(src="/images/hackathon_workflow_figma.jpg",  position="center" style="width: 65vh;") }}
+{{ image(src="/images/hackathon_workflow_figma.jpg",  position="center" style="width: 75vh;") }}
 <p style="padding:0% 15%; font-style:italic; text-align:center;">Workflows from board to screen</p><br>
 
 
@@ -196,7 +196,7 @@ Whereas many project ideas take time to develop naturally, the basic shape of ou
 
 Working with these academics was vitalizing. A couple of teammates were especially adept at prototyping & making workflows/basic storyboards. Another was a natural manager. Others had great intution for concisely communicating (and cataloguing) relevant factual & technical information.  
 
-Though using Figma with only a little practice was a challenge, the most difficult thing was managing the enthusiasm and frequent ideas from my fellow groupmates, and occasionally steering them back on track; I wanted to follow every tangent brought up. Also difficult was appropriately involving myself creatively; I was expected to do so, but not too much. In the end, I changed to more of an organiser-type role, prompting focus when others tangented on details, and advising on feasability of new feature ideas.  
+Though using Figma with only a little practice was a challenge, the most difficult thing was managing the enthusiasm and frequent ideas from my fellow groupmates, and occasionally steering them back on track; I wanted to follow every tangent brought up. Also difficult was appropriately involving myself creatively; I was expected to do so, but not so much as to take over. In the end, I changed to more of an organiser-type role, prompting focus when others tangented on details, and advising on feasability of new feature ideas.  
 
 <br>
 
@@ -218,9 +218,9 @@ _J_'s group designed a linear progression of 3-column page layouts in which each
   
 Outside of work, all we different groups met for breakfasts and dinners. All parties involved enjoyed a lovely meal on a green outside the host's residence on the Wednesday eve.  
   
-For the most part being around other humans or being alone is to me essentially the same. Those with substantial knowledge interests & idiosyncracies --let alone those who are also truly enthusiastic about learning new things-- are in the real world rare.  
+Most of the time, being around other humans and being on my own feel to me very similar. People who bring the particular quality of having substantial knowledge interests, unabashed idiosyncracies, comfort prodding convential ideas and enthusiasm for new ones, are in the real world rare.  
   
-Younger, less jaded researchers' casual discourse, free of the oily pretention of too many career academics and of the simplistic platitudes and moralities of daily life's conversants, allows discussion around usually sensitive political and cultural topics, focused on description and calm evaulation without encumbering verbal asterisks, and it is missed.  
+Younger, less jaded researchers' casual discourse, free of the oily pretention of too many career academics and of the simplistic platitudes and moralities of daily life's conversants, allows for description-oriented discussion about and calm evaluation of  usually sensitive political and cultural topics, without the typical encumbering verbal asterisks, and it is missed.  
 
 Here's a video walkthrough going over most of what we did:  
 
@@ -235,10 +235,11 @@ Here's a video walkthrough going over most of what we did:
   
 # Final thoughts
 
-This prototype was a youth-oriented homework aid. I would prefer to make a comprehensive visual comparison/reference tool designed to use these two front pages as a single point of reference through which the entirety of the Reformation could be filtered & explained to an engaged, even specialist audience.  
-    
-I feel somewhat conflicted about our contribution - the game idea was good; the final project will be made by a single member of Hidden In Plain Sight team with some webdev experience working in a developer-adjacent role. Given time/budget constraints typical to heritage sector projects, I don't expect building a game will be favoured over less architecturally complex and asset-light project ideas. Ultimately idea-generating endeavours such as these are, while edifying and extremely fun, constrained by available resources. I would love to be proven wrong, and if welcome back might be involved in future iterations.  
-
+This prototype was a youth-oriented homework aid. For myself, I would rather than a game prefer to make a comprehensive visual comparison tool designed to use these two front pages as a single point of reference through which the entirety of the Reformation could be filtered to an engaged, even specialist audience - a sort of historiographical fulcrum.  
+  
+I feel somewhat conflicted about our contribution - the game idea was good and I would really like for my teammates to see it realised, however the final Hidden In Plain Sight app will be developed by a single member of the project team who has some webdev experience working in a developer-adjacent role. Given time/budget constraints typical to heritage sector projects, I don't expect building a game is feasible compared with less architecturally complex and asset-light prototypes. I could be and hope I am wrong.  
+ 
+I encourage those reading this, be they developers or academics, to consider participating in this or like events.  
 
 <br>
 
