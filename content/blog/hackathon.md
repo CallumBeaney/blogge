@@ -196,7 +196,7 @@ Whereas many project ideas take time to develop naturally, the basic shape of ou
 
 Working with these academics was vitalizing. A couple of teammates were especially adept at prototyping & making workflows/basic storyboards. Another was a natural manager. Others had great intution for concisely communicating (and cataloguing) relevant factual & technical information.  
 
-Though using Figma with only a little practice was a challenge, the most difficult thing was managing the enthusiasm and frequent ideas from my fellow groupmates, and occasionally steering them back on track; I wanted to follow every tangent brought up. Also difficult was appropriately involving myself creatively; I was expected to do so, but not so much as to take over. In the end, I changed to more of an organiser-type role, prompting focus when others tangented on details, and advising on feasability of new feature ideas.  
+Though using Figma with only a little practice was a challenge, the most difficult thing was properly interacting with my fellow groupmates - as a developer I was also charged with helping to 'manage' the team a little, advising on ideas and keeping things on track so as to prevent scope creep. But really, I just wanted to follow every tangent. Also difficult was appropriately involving myself creatively; I was supposed to do so, but not too much, and I was at the start slightly too focused on this and not enough on those parts of my role.  
 
 <br>
 
@@ -218,7 +218,7 @@ _J_'s group designed a linear progression of 3-column page layouts in which each
   
 Outside of work, all we different groups met for breakfasts and dinners. All parties involved enjoyed a lovely meal on a green outside the host's residence on the Wednesday eve.  
   
-Most of the time, being around other humans and being on my own feel to me very similar. People who bring the particular quality of having substantial knowledge interests, unabashed idiosyncracies, comfort prodding convential ideas and enthusiasm for new ones, are in the real world rare.  
+Most of the time, being around other humans and being on my own feel to me very similar. People who bring the particular quality of having substantial knowledge interests, unabashed idiosyncracies, comfort prodding convential ideas and enthusiasm for new ones, are in the real world rare. All of these academics' areas of research were fascinating and the energy they carried in discussing them and sharing ideas with one another was a rare pleasure.  
   
 Younger, less jaded researchers' casual discourse, free of the oily pretention of too many career academics and of the simplistic platitudes and moralities of daily life's conversants, allows for description-oriented discussion about and calm evaluation of  usually sensitive political and cultural topics, without the typical encumbering verbal asterisks, and it is missed.  
 
