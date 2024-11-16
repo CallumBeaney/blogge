@@ -43,7 +43,7 @@ This scenario makes no sense unless you really imagine yourself without the unde
 
 ### Remembering who you're talking to in political disputes
 
-A good friend once told me that he learned to unwind his political angst in unproductive disagreements by reminding himself of who he was talking to and its relevance to the discussion; further that that reminding others of this context is useful, both in civil terms and as a criticism. So, when he found his opponent obstinate he would say, in perfect British form, something to the effect of: "Given what I know of you and your life circumstances, it doesn't surprise me that you think the way you do".  
+A good friend once told me that he learned to unwind his political angst in unproductive disagreements by reminding himself of who he was talking to and its relevance to the discussion; further that reminding others of this context is useful, both in civil terms and as a criticism. So, when he found his opponent obstinate he would say, in perfect British form, something to the effect of: "Given what I know of you and your life circumstances, it doesn't surprise me that you think the way you do".  
 
 I have found this enormously helpful and also hilarious in those moments when the want to be proven to be or to be seen as right feels too much like a need.  
 
