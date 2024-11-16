@@ -103,10 +103,10 @@ This kind of slightly flexible naming convention, pattern recognition led me to 
 
 ```C++
 e|------2---|     F#     
-B|------3---|     D   -  a D major rooted on the 5th
+B|------3---|     D 
 G|------2---|     A     
 D|---2------| E   
-A|---2------| B       - an E minor rooted on the minor 3rd
+A|---2------| B
 E|---3------| G   
 ```
 
