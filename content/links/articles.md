@@ -2,8 +2,10 @@
 title="articles & text resources"
 +++
 
+I refuse to use a service more complicated than a Markdown file to host these.  
+
 [Blogs & Directories](#blogs)  
-[History](#history)  
+[History](#history-and-digital-humanities)  
 [Languages](#languages)  
 [Literature](#nice-words)  
 [Podcasts & Music](#sound)  
@@ -15,6 +17,7 @@ title="articles & text resources"
 [Tools](#Tools)  
 [Software Art](#software-art)  
 
+
 <br>
 
 {{ image(src="/images/berry.png", position="center" style="width: 9vh;") }}
@@ -23,13 +26,41 @@ title="articles & text resources"
 <br>
 
 
-## History
+
+## Tools
+- [paper sizes](https://papersizes.io)
+- [Component Gallery](https://component.gallery/about/)
+- [asciiflow](https://asciiflow.com/#/)
+- [Based Cooking](https://based.cooking)
+- [Rectangles](https://rectangles.app)
+- [End Of Life Date](https://endoflife.date)
+- [secure messaging apps](https://www.securemessagingapps.com)
+- [shapecatcher](https://shapecatcher.com)
+- [Quit Social Media Club](https://quitsocialmedia.club/)
+- [Relational Playground](https://relationalplayground.com/)
+- [HTTP Status Code Guide](https://httpguides.com/)
+- [GFWeb](https://gfweb.ca/)
+- [Stretch My Time Off](https://stretchmytimeoff.com/)
+
+
+
+<br>
+
+
+
+## History and Digital Humanities
 - [STREET VIEWS - Kim Beil - Cabinet Magazine](https://www.cabinetmagazine.org/kiosk/beil_kim_14_october_2021.php)
 - [Middle English Text Series Online - University of Rochester](https://d.lib.rochester.edu/teams/text-online)
 - [The Literature of the Middle Ages - Scott Kleinman](https://www.csun.edu/~sk36711/WWW2/engl443/index.htm)
 - [Ibn al-Haytham’s Optics and its reception...in the arts](https://warburg.sas.ac.uk/podcasts/ibn-al-haythams-optics-and-its-reception-pictorial-and-architectural-arts)
 - [Manuscript album of designs for lace and embroidery, 1596](https://www.metmuseum.org/art/collection/search/368249)
+- [The complete French estampies of c. 1300: music, analysis, performance](https://earlymusicmuse.com/french-estampies/)
+
+Digital Humanities type stuff
 - [Oculi Mundi](https://oculi-mundi.com)
+- [RoW - Digital Divinity](https://restofworld.org/series/digital-divinity/)
+- [Torching the Modern-Day Library of Alexandria - James Somers](https://www.removepaywall.com/search?url=https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/)
+
 Web history
 - [Folklore - The Original Macintosh](https://www.folklore.org/0-index.html)
 - [InfoMesh - A history of WWW](http://infomesh.org)
@@ -42,13 +73,16 @@ Web history
 <br>
 
 
+
 ## Politics
 - [A Big Little Idea Called Legibility - Venkatesh Rao - Ribbon Farm](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/)
 - [Exiting The Vampire Castle - Mark Fisher](https://web.archive.org/web/20131129003704/https://thenorthstar.info/?p=11299)
 - [Schmitt and Foucault on the Question of Sovereignty under Military Occupation - Annmaria Shimabuku](https://quod.lib.umich.edu/p/pc/12322227.0005.007?view=text;rgn=main)  
 
 
+
 <br>
+
 
 
 ## Programming
@@ -66,6 +100,9 @@ Web history
 - [The Art of the Command-Line](https://github.com/jlevy/the-art-of-command-line)  
 - [Falsehoods Programmers Believe About Names - Patrick McKenzie](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 - [3D in CSS - Brad Woods](https://garden.bradwoods.io/notes/css/3d)
+- [XOR Swaps](https://betterexplained.com/articles/swap-two-variables-using-xor/)
+- [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca
+)
 ##### software experience
 - [I want to see my friends’ posts](https://moonbase.lgbt/blog/i-want-to-see-my-friends-posts/)
 - [Use Plaintext Email](https://useplaintext.email/#recommended-clients)
@@ -80,8 +117,13 @@ Web history
 ## Languages
 - [Quantifying Simplified Chinese - Ian Reynolds](https://medium.com/@idreyn/quantifying-simplified-chinese-9ec3980d7d35)
 - [(CJK) text processing and languages - Ahmed Fasih](https://fasiha.github.io/cjk-2021/)
+- [How Scientists Started to Decode Birdsong](https://www.removepaywall.com/search?url=https://www.newyorker.com/magazine/2024/10/21/how-scientists-started-to-decode-birdsong)
+- [Character Amnesia In China - David Moser](https://globalchinapulse.net/character-amnesia-in-china/)
+
+
 
 <br>
+
 
 
 ## Nice Words
@@ -111,6 +153,10 @@ Web history
 - [Steve Klabnik's Blog](https://steveklabnik.com/writing)
 - [The Jolly Teapot](https://thejollyteapot.com)
 - [Low Tech Magazine](https://solar.lowtechmagazine.com/about/)
+- [Luke Alex Davis](https://lukealexdavis.co.uk/about/)
+- [Michael Donohoe](https://donohoe.dev/) - RoW product officer
+- [Leftover Salad](https://leftoversalad.com/c/044_badday/)
+- [This Is a Lot](https://www.thisisalot.com/about/)
 
 
 <br>
@@ -139,6 +185,7 @@ Mostly random/unuseful stuff.
 - [PersonalSit.es](https://personalsit.es)
 
 
+
 <br>
 
 
@@ -158,9 +205,11 @@ __project sites & web logic__
 - [Img Modem Studio](http://img.modem.studio)
 - [Spicy Hot Pot](https://www.spicy-hot-pot.com)
 - [Bottling Fruit by MultipleStates](https://bottlingfruit.co.uk)
+- [Five on That](http://fiveonthat.com/)  
 
 
 __portfolio sites & paper logics &c__
+- [Ca l'Isidret](https://calisidret.cat/)
 - [Quantified Landscape - Florian Amoser](http://florianamoser.ch/quantified-landscape/)
 - [Xu Bing](https://www.xubing.com/en/work)
 - [Wall Pieces - Jed Hoyland](http://www.jedhoyland.co.uk/wallpieces1.html)
@@ -175,6 +224,7 @@ __portfolio sites & paper logics &c__
 - [Rhonesama](https://www.rhonesama.com)
 - [Tanya Marcuse](http://tanyamarcuse.com/)  
 
+
 __articles__
 - [Faraway - Yumiko Izu](https://yumikoizu.com/essay/essay-faraway/)
 - [Red Flower - Mao Ishikawa](https://c4journal.com/mao-ishikawa-red-flower/)
@@ -186,6 +236,7 @@ __articles__
   
 
 
+
 <br>
 
 
@@ -195,7 +246,11 @@ __articles__
 - [The Magic Hour](https://magichour.press/interviews)
 - [Lit Tapes](https://littapes.melanie-richards.com)
 
+
+
+
 <br>
+
 
 
 ## Typography
@@ -207,7 +262,9 @@ __articles__
 - [Alphabet - Yuin Chien](https://yuinchien.com/projects/alphabet/index.html)
 - [Dieter Steffman](http://moorstation.org/typoasis/designers/steffmann/index.htm)
 
+
 <br>
+
 
 
 ## Games
@@ -229,20 +286,9 @@ __articles__
 - [All Things Andy Gavin](https://all-things-andy-gavin.com) (worked at Naughty Dog in the early 2000s)
 
 
-<br>
-
-
-## Tools
-- [paper sizes](https://papersizes.io)
-- [Component Gallery](https://component.gallery/about/)
-- [asciiflow](https://asciiflow.com/#/)
-- [Based Cooking](https://based.cooking)
-- [Rectangles](https://rectangles.app)
-- [End Of Life Date](https://endoflife.date)
-- [secure messaging apps](https://www.securemessagingapps.com)
-- [shapecatcher](https://shapecatcher.com)
 
 <br>
+
 
 
 ## Software Art
@@ -264,5 +310,7 @@ __articles__
 - [Found Color](https://foundcolor.co/archive)
 - [Sun - Yuin Chien](https://yuinchien.com/p/sun)
 - [Sweethearts](http://www.sweetheartsweetheart.com/colophon.html) - This looks dead. Hopefully it's brought back.
+- [The Last Word](https://lastword.page/)
 
 <!-- https://www.c82.net -->
+<!-- http://garydstark.com/aboutme.htm -->
