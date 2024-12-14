@@ -38,14 +38,17 @@ These typists had no experience with computers and their then-novel textediting 
 This scenario may make no sense unless you really imagine yourself without the understanding & experience of computers necessary to know intuitively you don't need to type the whole printout back into the computer's word processor again in a new document for the second round of edits.  
 
 
+
 <br>
+
 
 
 ### Remembering who you're talking to in political disputes
 
-A good friend once told me that he learned to unwind his political angst in unproductive disagreements by reminding himself of who he was talking to and the relevance of that to the discussion at hand; further that reminding others of this context was useful stated both in civil, emotionally neutral terms, and as a pointed criticism to put a belligerent down. So, when he found his opponent obstinate he would say, in perfect British form, something to the effect of: "Given what I know of you and your life circumstances, it doesn't surprise me that you think the way you do".  
+A good friend once told me that he learned to unwind his political angst in unproductive disagreements by reminding himself of who he was talking to and the relevance of that to the discussion at hand; further that reminding others of this context was useful stated both in civil, emotionally neutral terms, and as a less vulgar but pointed criticism.  
 
-I have found this enormously helpful in the former case and also hilarious the latter in those moments when the want to be proven to be or to be seen as right feels too much like a need.  
+So, when he found his opponent obstinate and the conversation lacking meaning he would say something to the effect of: "Given what I know of you and your life circumstances, it doesn't surprise me that you think the way you do".  
+
 
 
 <br>
@@ -56,7 +59,7 @@ I have found this enormously helpful in the former case and also hilarious the l
 
 Recently, I began introducing my wife to video games for effectively the first time in her life.  
 
-In the third area of [Limbo (Playdead, 2010)](https://playdead.com/games/limbo/) is a basic physics puzzle wherein a noose hanging from a branch is weighed down by a corpse. The player needs to advance from the lower ground to its left, to the higher ground above & to its right. The player character's weight combined with that of the corpse bends the branch, pulling down the rope too low to make the swinging-jump from low to high. Beneath the rope and a little to its right, is a draggable bear trap:  
+In the third area of [Limbo (Playdead, 2010)](https://playdead.com/games/limbo/) is a basic physics puzzle wherein a noose hanging from a branch is weighed down by a corpse. The player needs to advance from the lower ground to its left, to the higher ground to its right. The player character's weight combined with that of the corpse bends the branch, pulling down the rope too low to make the swinging-jump from low to high. Beneath the rope and a little to its right, is a draggable bear trap:  
 
 
 <br>

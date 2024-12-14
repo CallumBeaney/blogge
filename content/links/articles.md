@@ -13,7 +13,7 @@ I refuse to use a service more complicated than a Markdown file to host these.
 [Programming & Maths](#programming)  
 [Vidya/TV](#games)  
 [Visual Matters](#visual-matters)    
-[Typography](#typography)  
+[Typography & Design](#typography-and-design)  
 [Tools](#Tools)  
 [Software Art](#software-art)  
 
@@ -55,6 +55,8 @@ I refuse to use a service more complicated than a Markdown file to host these.
 - [Ibn al-Haytham’s Optics and its reception...in the arts](https://warburg.sas.ac.uk/podcasts/ibn-al-haythams-optics-and-its-reception-pictorial-and-architectural-arts)
 - [Manuscript album of designs for lace and embroidery, 1596](https://www.metmuseum.org/art/collection/search/368249)
 - [The complete French estampies of c. 1300: music, analysis, performance](https://earlymusicmuse.com/french-estampies/)
+- [Bourdichon, J., Grandes Heures Anne de Bretagne (1503-1508)](http://www.plantillustrations.org/volume.php?id_publication=4609&mobile=0&size=0&id_volume=6863&uhd=0&id_publication=4609)
+- [Timeline of the human condition](https://www.southampton.ac.uk/~cpd/history.html)
 
 Digital Humanities type stuff
 - [Oculi Mundi](https://oculi-mundi.com)
@@ -86,6 +88,7 @@ Web history
 
 
 ## Programming
+- [Dictionary of DSA](https://xlinux.nist.gov/dads/)
 - [Crafting Interpreters - Robert Nystrom](http://craftinginterpreters.com/contents.html)
 - [Intuitive Guide to Convolution](https://betterexplained.com/articles/intuitive-convolution/)
 - [The data structure behind terminals - Jack Nichols - Warp](https://www.warp.dev/blog/the-data-structure-behind-terminals)
@@ -183,7 +186,7 @@ Mostly random/unuseful stuff.
 - [WWIIVV](https://webring.xxiivv.com)
 - [Interesting Internet](https://www.fuse.kiwi)
 - [PersonalSit.es](https://personalsit.es)
-
+- [Archives.Design](https://archives.design)
 
 
 <br>
@@ -253,7 +256,7 @@ __articles__
 
 
 
-## Typography
+## Typography and design
 
 - [Ascii Today](https://ascii.today)
 - [Fraktur Mon Amour](https://archive.org/details/fraktur-mon-amour-font-collection/) 
@@ -261,6 +264,7 @@ __articles__
 - [https://t-y-p-o-g-r-a-p-h-y.org](https://t-y-p-o-g-r-a-p-h-y.org)
 - [Alphabet - Yuin Chien](https://yuinchien.com/projects/alphabet/index.html)
 - [Dieter Steffman](http://moorstation.org/typoasis/designers/steffmann/index.htm)
+- [UX of Lego Interfaces](https://interactionmagic.com/UX-LEGO-Interfaces/)
 
 
 <br>
@@ -311,6 +315,14 @@ __articles__
 - [Sun - Yuin Chien](https://yuinchien.com/p/sun)
 - [Sweethearts](http://www.sweetheartsweetheart.com/colophon.html) - This looks dead. Hopefully it's brought back.
 - [The Last Word](https://lastword.page/)
+- [Unicode Landscape](https://schwittlick.net/unicode_landscape/)
+- [Imagination Magic - Silly](https://interactionmagic.com/silly)
 
 <!-- https://www.c82.net -->
 <!-- http://garydstark.com/aboutme.htm -->
+
+<!-- 
+❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄❄
+
+❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅❅
+❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆❆ -->
