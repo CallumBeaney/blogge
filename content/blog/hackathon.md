@@ -194,8 +194,6 @@ Whereas many project ideas take time to develop naturally, the basic shape of ou
 
 # Teamwork and academia
 
-Working with these academics was vitalizing. A couple of teammates were especially adept at prototyping & making workflows/basic storyboards. Another was a natural manager. Others had great intution for concisely communicating (and cataloguing) relevant factual & technical information.  
-
 Though using Figma with only a little practice was a challenge, the most difficult thing was properly interacting with my fellow groupmates - as a developer I was also charged with helping to 'manage' the team a little, advising on ideas and keeping things on track so as to prevent scope creep. But really, I just wanted to follow every tangent. Also difficult was appropriately involving myself creatively; I was supposed to do so, but not too much, and I was at the start slightly too focused on this and not enough on those parts of my role.  
 
 <br>

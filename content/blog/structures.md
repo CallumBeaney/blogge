@@ -1,5 +1,5 @@
 +++
-title="Four anecdotes on paradigms & on having perspective"
+title="Four snippets on paradigms & perspective"
 date="2024-11-16"
 +++
 
@@ -45,9 +45,7 @@ This scenario may make no sense unless you really imagine yourself without the u
 
 ### Remembering who you're talking to in political disputes
 
-A good friend once told me that he learned to unwind his political angst in unproductive disagreements by reminding himself of who he was talking to and the relevance of that to the discussion at hand; further that reminding others of this context was useful stated both in civil, emotionally neutral terms, and as a less vulgar but pointed criticism.  
-
-So, when he found his opponent obstinate and the conversation lacking meaning he would say something to the effect of: "Given what I know of you and your life circumstances, it doesn't surprise me that you think the way you do".  
+I'm told by a friend that "Given what I know of you and your life circumstances, it doesn't surprise me that you think the way you do" is an excellent wildcard in an unproductive or unstimulating discussion.  
 
 
 
@@ -64,20 +62,18 @@ In the third area of [Limbo (Playdead, 2010)](https://playdead.com/games/limbo/)
 
 <br>
 
-
 - {{ image(src="https://steamuserimages-a.akamaihd.net/ugc/27357416059012438/27E90352D4C20238E4D1C99D5AD7742B2D4C94D7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false", position="left" style="width: 100vh;") }}
-
 
 <br>
 
 
-The solution is obvious: 
+The solution is: 
 
 1. Drag the trap directly below the hanging corpse.
 2. Jump onto the rope. The combined weight bends the branch, causing the corpse to enter the trap's mouth, releasing the corpse from the rope.
 3. The branch will now raise high enough to let your character swing up to the higher ground.  
 
-Despite my frustration watching the above not being done, the solution is only obvious if you have learned to mentally parse particular elements within a video game's scene as conceptually distinct from that scene's purely decorative elements in their capacity as objects with pre-programmed properties and interactions functioning as part of a discrete and rigid puzzle system of interactions between different such objects.  
+Despite my frustration watching the above not being done, the solution is only obvious if you have learned to mentally parse particular elements within a video game's scene as conceptually distinct from that scene's purely decorative elements in their capacity as objects with pre-programmed properties and behaviours as part of a discrete and rigid puzzle system of interactions between different such objects.  
   
 Not knowing such a logic, being unfamiliar with WASD controls, and not knowing just how limited the set of controllable behaviours the player character possesses are, what she speculated might be possible in the gameworld and therefore viable as a way to approach the problem, was unbounded. Things like: trying to climb up the edge of the cliff from its base; trying to enter the background and climb up the tree that way; climbing up nearby trees in the foreground to find a path through the tree branches, trying to drag large stones that were actually just part of the environmental foreground graphics.  
 
@@ -102,7 +98,7 @@ E|---3---|  G  - Root
 
 <br>
 
-What this teaching led to was enjoying experimenting with/absuing patterns & structures more than learning & playing set songs, often without respect for musicality, and this is probably why I failed to connect to other musicians until I discovered internet forums and also jazzcore.  
+What this teaching led to was enjoying experimenting with/absuing patterns & structures more than learning & playing set songs, often without respect for musicality, and this is probably why I failed to connect to other musicians until I discovered internet forums and also [jazzcore](https://en.wikipedia.org/wiki/Naked_City_(album)).  
 
 This particular chord and its voicing are fun. Expressed in different voicings, that E might end up in the 2nd octave, at which point it's more justifiably nothing more than a major 13.  
 
@@ -119,8 +115,8 @@ E|---3------| G
 
 In which case, you can almost logic your way into calling this an Em+D polychord. Whether we're convinced about the name doesn't much matter, because harmonically _you can use it that way_.  
 
-Point being: if you were to write a song composed of chords that can be neatly grouped into lower & higher registers, within each bar alternating between them to a consistent rhythm, would you be writing a song built of polychords, or, if composed right, a song in which you interleave two distinct chord progressions in two distinct keys?  
+So if you were to write a song composed of chords that can be neatly grouped into lower & higher registers, within each bar alternating between them to a consistent rhythm, would you be writing a song built of polychords, or, if composed right, a song in which you interleave two distinct chord progressions in two distinct keys?  
 
-<!-- I've sometimes been derided for using terms like "[tone cluster](https://music.stackexchange.com/questions/103458/tone-clusters-explained)" and "polychord" among blues and rock players. Curiously an older classical guitarist once broke into laughter hearing a band described as "Chinese thrash metal", which is entirely uncontroversial among folks working in the rock/metal tradition.  
+Growing up I was sometimes derided by blues and rock players for using terms like "[tone cluster](https://music.stackexchange.com/questions/103458/tone-clusters-explained)" and "polychord". An older classical guitarist once broke into laughter hearing a band described as "Chinese thrash metal", which is uncontroversial among folks working in the rock/metal tradition (if you're unsure, it's metal, in a thrash style, from China. Maybe there was an erhu player in there too).   
 
-I haven't played an instrument seriously in nearly a decade, but I think jazz musicians might have the most fun. Jacob Collier's music might be gauche but he might just be in heaven. The last blues jam I went to, 12 different musicians played the same song, 10 times. The last time I heard an orchestra player try to improvise I had to politely applaud afterwards.   -->
+I haven't played an instrument seriously in nearly a decade, but I think jazz folk might have the most fun. The last blues jam I went to, 12 different musicians played the same song, 10 times. The last time I heard an orchestra player try to improvise I had to politely applaud afterwards. Jacob Collier's music may be gauche but he might just be in heaven.  
