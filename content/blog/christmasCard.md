@@ -3,9 +3,10 @@ title="Making an ASCII Christmas/Business-Card & other decorations"
 date="2024-12-12"
 +++
 
+{{ image(src="https://raw.githubusercontent.com/CallumBeaney/christmas-tree-card/main/img/christmas_card_1.jpg", position="left" style="width: 100vh;") }}
 
 
-This documents a bit of creative process, very little of which is original.  
+This documents a bit of creative process making the above, very little of which is truly original.  
 To see the raw files, code etc just go to [the repo](https://github.com/CallumBeaney/christmas-tree-card/).
 
 ## Index
@@ -30,7 +31,7 @@ A pal recently forwarded this post my way: 15 lines of code for setting up an HT
   
 A small part of the joke in American Psycho's [business card scene](https://www.youtube.com/watch?v=aZVkW9p-cCU) is that the cards are poorly designed (odd spacing, typos, OTT textures etc), yet they care about them so much. Most business cards I pick up are perfunctory, discardable things, but I'd not forget someone who gave me a code card.  
 
-I decided I wanted to make a little business card that could be as much a fun self-advertisement as a nice piece of paper ephemera.  
+I decided to try at making a little business card that could be as much a fun self-advertisement as a nice piece of paper ephemera.  
 
 <br>
 {{ image(src="https://external-preview.redd.it/mk8leSSX4tYcql92G51e8K1cwnKsgqqPPHQsmNu8cn0.jpg?auto=webp&s=4e7cd63c8fdffeb459a1b12cf50483911b6b93f9", position="left" style="width: 100vh;") }}
@@ -96,7 +97,7 @@ The easiest way to get what is going on here is to bear in mind that for each ro
 
 ## My Business Card
 
-Just stanning the (much better) HTTP client code card above I first mocked up a business card like this, and handed it out at a few events/fun people at the pub. Despite the little `# comment` I don't recommend trying to type it out:  
+Just stanning the (much better) HTTP client code card above I first mocked up a business card like this, and handed it out at a few events/fun people at the pub. The main purpose it fills in the end is generating intrigue; despite the little `# comment` I don't recommend trying to type it out:  
 
 <br>
 {{ image(src="https://raw.githubusercontent.com/CallumBeaney/christmas-tree-card/main/img/mockFront.jpg", position="left" style="width: 65vh;") }}
@@ -109,6 +110,8 @@ Just stanning the (much better) HTTP client code card above I first mocked up a 
 
 ## Making a Christmas Card
 
+Excepting those handmade or properly filled with handwriting, the scrawled To and From of gift-card giving culture is both too expensive and too impersonable for me. I love written correspondence and given that the best way to do it is to start it, I thought I'd forego phone Christmas messages and tried adapting the above into something cute I could write a proper end-of-year update into.
+
 ##### Inspiration
 
 I was expecting to find more software-related greetings cards online, however most I've come across - particularly those on Etsy - are like those `if (thirsty) { drinkCoffee(); }` mugs.  
@@ -117,6 +120,12 @@ The best designed are the sadly no-longer-made 2011-made letterpress [Code Cards
 
 {{ image(src="http://www.logobird.com/wp-content/uploads/2011/11/javascript-code-cards_thumb.jpg", position="left" style="width: 65vh;") }}
 {{ image(src="https://150102931.v2.pressablecdn.com/wp-content/uploads/2011/11/code-cards5-thumb-499x414-33940.jpg", position="left" style="width: 65vh;") }}
+
+<br>
+
+Other than those, [codingstrawberry](https://www.instagram.com/codingstrawberry/)'s [binary tree christmas card](https://www.etsy.com/uk/listing/1824917095/binary-tree-christmas-card-tech) is pretty neat:
+
+{{ image(src="https://i.etsystatic.com/50413664/r/il/446900/6473015999/il_1588xN.6473015999_g4pv.jpg", position="left" style="width: 65vh;") }}
 
 
 <br>
@@ -182,13 +191,13 @@ If you'd like to print your own, go [here](https://github.com/CallumBeaney/chris
 
 A few days after seeing the HTML Client card, I found [Reuben Son](https://reubenson.com)'s site index, which, if you like what you've seen so far, you will probably agree is really excellent (_this here below is an iframe and may not display well on a phone_): 
 
-<iframe src="https://reubenson.com" width="650" height="600" frameborder="0"></iframe>
+{{ image(src="/images/reubenson.png", position="center" style="width: 85vh;") }}
 
 The same night I came across Son's site, I also found [Sunday Sites](https://sundaysites.cafe), which are HTML/CSS-only projects where folks design a single webpage project in a day. This little seasonal ASCII animation [Four Seasons](https://four-seasons.glitch.me) is likewise quite fun. You should take a look at the source code for that site in the console -- Séan's achieved that in a pretty novel way.  
    
 So quickly inspired by that Four Seasons layout, I've thrown a [web version](https://callumbeaney.github.io/christmas-tree-card/) together too, as this very simple format is very nice.  
 
-<iframe src="https://callumbeaney.github.io/christmas-tree-card/" width="650" height="600" frameborder="0"></iframe>
+<iframe src="https://callumbeaney.github.io/christmas-tree-card/" width="650" height="600" frameborder="0" style=""></iframe>
 
 
 <br>
