@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="robots" content="noodp"/>
+
+    <link rel="stylesheet" href="/blogge/style.css">
+    <link rel="stylesheet" href="/blogge/color/custom.css">
+
+    <link rel="stylesheet" href="/blogge/font-hack-subset.css">
+    <link rel="stylesheet" href="/blogge/font-misc.css">
+    <!-- changed above line for misc fonts -->
+
+    <meta name="description" content="">
+
+    <meta property="og:description" content="">
+    <meta property="og:title" content="">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="/blogge/blog/hackathon/">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:title" content="">
+    <meta property="twitter:domain" content="&#x2F;blogge">
+    <meta property="twitter:url" content="/blogge/blog/hackathon/">
+
+    </head>
+
+<body class="">
+<div class="container">
+    
+    <header class="header">
+        <div class="header__inner">
+            <div class="header__logo">
+                    
+                <a href="/blogge" style="text-decoration: none;">
+                    <div class="logo">
+                      
+                            writing place
+                        
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        
+        
+                <nav class="menu">
+            <ul class="menu__inner">
+                <li class="active"><a href="/blogge/">text</a></li>
+            
+                <li><a href="/blogge/info">info</a></li>
+            
+                <li><a href="/blogge/music">music</a></li>
+            
+                <li><a href="/blogge/links/articles">links</a></li>
+            </ul>
+        </nav>
+    
+    
+        
+    </header>
+    
+
+    <div class="content">
+        
+    <div class="post">
+        
+    <h1 class="post-title"><a href="/blogge/blog/hackathon/">Prototyping at ＜HANDS: On＞ Cambridge University Hackathon</a></h1>
+    <div class="post-meta-inline">
+        
+    <span class="post-date">
+            2024-08-31
+        </span>
+
+    </div>
+
+    
+
+        <div class="post-content">
+            <!-- STYLE BEGINS -->
+<style>
+  .image-container {
+      position: relative;
+      width: 50vw; 
+      height: 80vw;
+      margin: 20px auto; 
+      max-width: 100%;
+  }
+
+@media (max-width: 600px) {
+    .image-container {
+      position: relative;
+      width: 80vw; 
+      height: 110vw;
+    }
+      .flex-container {
+      flex-direction: column!important;
+    }
+    .flex-container img {
+      width: 100%!important;
+      height: auto!important;
+    }
+  }
+
+  .image-container img {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      transition: opacity 2s ease;
+  }
+
+  .image-container img.top-image {
+      opacity: 1;
+  }
+
+  .image-container:hover img.top-image {
+      opacity: 0;
+  }
+
+  .flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-container img {
+  width: 50%; 
+  object-fit: cover;  
+  height: auto;
+  padding: 2px;
+}
+
+.youtube-video-container {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+}
+
+.youtube-video-container::after {
+  display: block;
+  content: "";
+  padding-top: 56.25%;
+}
+
+.youtube-video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+</style>
+<p>I was invited to participate as a developer at Cambridge University Library's week-long <a href="https://projects.history.qmul.ac.uk/handson/hackathon-2024/"><em>Hackathon</em></a>, where ~30 postgraduates made educational app prototypes, giving researchers of the <a href="https://projects.history.qmul.ac.uk/inplainsight/">Hidden In Plain Sight</a> project ideas for educational software.</p>
+<p><strong>INDEX</strong><br />
+　<a href="/blogge/blog/hackathon/#the-week">The week</a><br />
+　<a href="/blogge/blog/hackathon/#the-historical-context">The historical context</a><br />
+　<a href="/blogge/blog/hackathon/#imaging-techniques-and-materials-analysis">Imaging techniques &amp; materials analysis</a><br />
+　<a href="/blogge/blog/hackathon/#prototyping">Prototyping</a><br />
+　<a href="/blogge/blog/hackathon/#teamwork-and-academia">Teamwork &amp; academia</a><br />
+　<a href="/blogge/blog/hackathon/#final-thoughts">Final thoughts</a><br />
+　<a href="/blogge/blog/hackathon/#recommended-reading">Recommended reading</a></p>
+<br>
+<h2 id="the-week">The week</h2>
+<ul>
+<li><strong>Monday</strong>: Introductions, presentations &amp; demonstrations on heritage-oriented scientific imaging techniques, design thinking for app development, meeting curators, etc.</li>
+<li><strong>Tuesday</strong>: &quot;Speed dating&quot; for to form groups of 5, pitching project ideas, paper prototyping.</li>
+<li><strong>Wednesday</strong>: Prototyping all day, an update at the end of the day.</li>
+<li><strong>Thursday</strong>: Prototype app testing with brought-in testers who matched user personas, feedback meetings, more prototyping.</li>
+<li><strong>Friday</strong>: Cleanup and presentation to university &amp; project members.</li>
+</ul>
+<br>
+
+  
+  
+  <img src="https://images.theconversation.com/files/351276/original/file-20200805-22-y3voc3.JPG" class="center" style="width: 80vh;" />
+
+<br>
+<h1 id="the-historical-context">The historical context</h1>
+<p>The <em>Bible</em>'s first authorized English-language printing, <em>The Great Bible</em> (1539) was distributed to every English parish during the Reformation, for to legitimise Henry VIII's divorce from the Catholic church and self-imposition as the head of the local Church of England.</p>
+<p>Thomas Cromwell (<em>above</em>) commissioned an illuminated variant for the king with his own portrait pasted over the figure to the king's right on the book's title page (<em>below</em>). That seam below his chin was discovered by illuminating the page with a raking light during microscope inspection.</p>
+<p>Both versions are riddled with brazen heresy and propaganda, most comically the shunting of the word of the Lord to a narrow sliver above the enormous figure of the now-Godlike Henry VIII distributing these books to the populace below. You can read more about the illuminated copy's many political alterations <a href="https://theconversation.com/how-thomas-cromwell-used-cut-and-paste-to-insert-himself-into-henry-viiis-great-bible-143765"><strong>here</strong></a>.</p>
+<br>
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_colour.jpg" class="center" style="width: 80vh;" />
+
+
+<br>
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_print.jpg" class="center" style="width: 80vh;" />
+
+
+<br>
+<br>
+<h1 id="imaging-techniques-and-materials-analysis">Imaging techniques and materials analysis</h1>
+<p>Having worked in the past in heritage digitzation, I was familiar with the purely photographic stuff like photogrammetry, MSI, panoramic stitching tools etc. The newer materials-specific techniques introduced to us in the labs around the <a href="https://www.lib.cam.ac.uk/collections/departments/chil">Cultural Heritage Imaging Laboratory</a> in the library included e.g. Fibre-Optic Reflectance Spectrography (FORS), and <a href="https://physicsopenlab.org/2016/02/24/diy-xrf-spectrometry/">X-Ray Flouresence Spectroscopy</a> (XRF - below). </p>
+<p>Each technique has its own pitfalls: XRF isn't good with organics; some pigment identification processes are highly influenced by the pigment's substrate, and so on. Analysis of output data &amp; graphs is consequently, in the researchers' own words, highly interpretive.</p>
+<br>
+<p>
+  
+  
+  <img src="https://physicsopenlab.org/wp-content/uploads/2016/02/xrf.jpg" alt="XRF" class="center" style="width: 75vh;" />
+
+
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_macroXRF.jpg" alt="Macro XRF" class="center" style="width: 75vh;" />
+
+</p>
+<p style="padding:0% 12%; font-style:italic">Macro-XRF Analysis of the Great Bible by Nathan Daly at the Hamilton Kerr Institute</p>
+<br>
+<p>Application of machine learning to these technologies has been discussed (<a href="https://www.nature.com/articles/s41598-024-53988-z"><strong>1</strong></a>, <a href="https://opg.optica.org/optica/fulltext.cfm?uri=optica-11-2-146&amp;id=545855"><strong>2</strong></a>), and surveys have identified that there is more general uptake of ML in a cultural heritage context (<a href="https://www.sciencedirect.com/science/article/pii/S0167865520300532#sec0016"><strong>2020</strong></a>, <a href="https://ceur-ws.org/Vol-3234/paper2.pdf"><strong>2022</strong></a>), but even in larger institutions this can be either highly localised to a specific project, be owing to financial or quality requirements slow to develop, or be otherwise tailored insufficiently.</p>
+<p>The prototypes we made at the hackathon focused on public edification rather than on e.g. internal tools for researchers; I'd love to be involved in designing and building massive data &amp; training sets for specialised open source tooling.</p>
+<br>
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_dcu.jpg" class="center" style="width: 60vh;" />
+
+<p style="padding:0% 15%; font-style:italic; text-align:center;">The MSI unit in the CUL Digital Lab.</p>
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_bone.jpg" class="center" style="width: 60vh;" />
+
+<p style="padding:0% 15%; font-style:italic; text-align:center;">A 3D print of a Chinese oracle bone, digitised via photogrammetry</p>
+<br>
+<h2 id="prototyping">Prototyping</h2>
+<p>The goal was to make an educational app providing extra insight into this book and/or the analysis methods used to study it. </p>
+<p>With four software developers and around 25 students, four groups were formed. In past years app prototyping was done with a generic JS stack; the last two, the hosts moved to simulating a user experience by building UIs with basic conditional logic in <a href="https://www.figma.com/">Figma</a>, owing to developers having to stay up late in previous years programming in the features, and due to their role in the collaborative process being both less integrated and less accessible to non-technical participants.</p>
+<br>
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_workflow_board.jpg" class="center" style="width: 75vh;" />
+
+
+<br>
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_workflow_figma.jpg" class="center" style="width: 75vh;" />
+
+
+<p style="padding:0% 15%; font-style:italic; text-align:center;">Workflows from board to screen</p><br>
+<p>By doing this however the scope of the app prototypes expanded and so this year also we developers stayed up late. This really was OK, but is humorously microcosmic of automation in industry.</p>
+<p>With stylised history-themed mystery-puzzle games like <code>Return of the Obrah Dinn</code> and <code>Pentiment</code> in mind, teammates envisaged a &quot;find the clue&quot; investigation game in which the player - cosplaying as a researcher-out-of-time tasked by the King to find out why his special copy of the Bible is so suspicious - would inspect and 'colour in' the print version with the illuminated colour version by applying these research tools to it, in a click+paint manner. For the final product itself, TTS and adaptive animation tools like Facebook's <a href="https://github.com/facebookresearch/AnimatedDrawings">Animated Drawings</a> might be utilised.</p>
+<p>Achieving this with Figma being difficult, we opted for a simpler <em>click here to see how it'd look</em> button to trigger a fading painting-in-effect animation.</p>
+<br>
+<p>
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_screens_1.jpg" class="center" style="width: 85vh;padding-bottom:5px" />
+
+
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_screens_2.jpg" class="center" style="width: 85vh;padding-bottom:5px" />
+
+
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_screens_3.jpg" class="center" style="width: 85vh;padding-bottom:5px" />
+
+
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_screens_4.jpg" class="center" style="width: 85vh;" />
+
+</p>
+<p style="font-style:italic; text-align:center;">Screenshots from our Figma project.</p><br>
+<p>Without a proper toolchain prototyping for a minigame like this involves &quot;telling&quot; over &quot;showing&quot; for the testers brought in; we imagined a GUI showing many different tools to use on the manuscript; we were advised to instead simulate the experience of one or two features, well. As such we hard-coded a fixed path, rather than the &quot;open map&quot; we wanted, where the user would zoom in &amp; out and inspect the pertinent elements of the title page in whatever order they desired.</p>
+<p>Whereas many project ideas take time to develop naturally, the basic shape of our project was already partly formed at the group-forming stage. Interested in a younger persona (a schoolkid) seeking an entertaining but edifying resource for a school report, our team began walking through how a user would experience the first stages of the game. We were quickly advised to slow down and take a step back; we tried, but despite reaching a roadblock on the 2nd day, we all shared roughly the same vision for the project.</p>
+<br>
+<h1 id="teamwork-and-academia">Teamwork and academia</h1>
+<p>Though using Figma with only a little practice was a challenge, the most difficult thing was properly interacting with my fellow groupmates - as a developer I was also charged with helping to 'manage' the team a little, advising on ideas and keeping things on track so as to prevent scope creep. But really, I just wanted to follow every tangent. Also difficult was appropriately involving myself creatively; I was supposed to do so, but not too much, and I was at the start slightly too focused on this and not enough on those parts of my role.</p>
+<br>
+<!-- <div class="center-container"> -->
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Done! The prototype is ready for tomorrow&#39;s presentation and you can be the first to see it. A big thank you to the team, it was amazing working with you on this prototype!<br><br>Can you think of website like this for your research? <a href="https://t.co/uMbTBYntU4">pic.twitter.com/uMbTBYntU4</a></p>&mdash; Martin Rocek (@Silencesys) <a href="https://twitter.com/Silencesys/status/1803914759097495595?ref_src=twsrc%5Etfw">June 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- </div> -->
+<br>
+<p>One of the developers, Martin Rocek, was experienced with Figma and previous Hackathons both, and kindly offered technical support to we other developers. His group's contribution was the most polished, and was for its more conservative design and refined architecture, likely the ideal reference choice for the Hidden In Plain Sight project. Martin has made a lot of interesting digital humanities things - <a href="https://dh-humanities-tools-j2eicc6qe-martin-rocek.vercel.app/cs?collection=E-13-46-47-3C-45-22-24-19&amp;name=Martin%20Rocek%27s%20projects">have a look here</a>.</p>
+<p>Other groups were more experimental in their presentation. Inspired by floral marginalia, <em>R's</em> group's UI was busy and digital-scrapbookish, with a stack-like architecture wherein the user would look closer, learning progressively finer detail of the book before gradually zooming back out.</p>
+<p><em>J</em>'s group designed a linear progression of 3-column page layouts in which each main layout page had sub-pages or elements (like nodes) which could be interacted with before progressing onto the next main page. On each page the centre column contained article text, with comparison images either side. This more explorative and preference-driven user experience over a fixed path is suitable for museum tablets and displays.</p>
+<br>
+
+  
+  
+    
+    
+  
+  <img src="/blogge/images/hackathon_fail.jpg" class="left" style="width: 60vh;" />
+
+
+<br>
+<p>Outside of work, all we different groups met for breakfasts and dinners. All parties involved enjoyed a lovely meal on a green outside the host's residence on the Wednesday eve.</p>
+<p>Most of the time, being around other humans and being on my own feel to me very similar. People who bring the particular quality of having substantial knowledge interests, unabashed idiosyncracies, comfort prodding convential ideas and enthusiasm for new ones, are in the real world rare. All of these academics' areas of research were fascinating and the energy they carried in discussing them and sharing ideas with one another was a rare pleasure.</p>
+<p>Younger, less jaded researchers' casual discourse, free of the oily pretention of too many career academics and of the simplistic platitudes and moralities of daily life's conversants, allows for description-oriented discussion about and calm evaluation of  usually sensitive political and cultural topics, without the typical encumbering verbal asterisks, and it is missed.</p>
+<p>Here's a video walkthrough going over most of what we did:</p>
+<br>
+<div class="youtube-video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/J1c6-XGmnDQ?si=U-fB9v0xQ2eOYQEP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<br>
+<br>
+<h1 id="final-thoughts">Final thoughts</h1>
+<p>This prototype was a youth-oriented homework aid. For myself, I would rather than a game prefer to make a comprehensive visual comparison tool designed to use these two front pages as a single point of reference through which the entirety of the Reformation could be filtered to an engaged, even specialist audience - a sort of historiographical fulcrum.</p>
+<p>I feel somewhat conflicted about our contribution - the game idea was good and I would really like for my teammates to see it realised, however the final Hidden In Plain Sight app will be developed by a single member of the project team who has some webdev experience working in a developer-adjacent role. Given time/budget constraints typical to heritage sector projects, I don't expect building a game is feasible compared with less architecturally complex and asset-light prototypes. I could be and hope I am wrong.</p>
+<p>I encourage those reading this, be they developers or academics, to consider participating in this or like events.</p>
+<br>
+<h2 id="recommended-reading">Recommended reading</h2>
+<ul>
+<li><a href="https://www.fitzmuseum.cam.ac.uk/illuminated/lab/lab">The Fitzwilliam Museum Illuminated Manuscripts Lab</a></li>
+<li><a href="https://theconversation.com/how-thomas-cromwell-used-cut-and-paste-to-insert-himself-into-henry-viiis-great-bible-143765"><em>How Thomas Cromwell used cut and paste to insert himself into Henry VIII’s Great Bible</em> - Ian McKee</a>. </li>
+<li><em>A Material History of the Bible, England 1200 –1553</em>, <a href="https://uk.linkedin.com/in/eyal-poleg-2b51338a">Eyal Poleg</a></li>
+<li><em>Science of the Book::Analytical Methods for the Study of Illuminated Manuscripts</em> - Paola Ricciardi and Catherine Schmidt Patterson</li>
+<li><a href="https://dh-humanities-tools-j2eicc6qe-martin-rocek.vercel.app/cs?collection=E-13-46-47-3C-45-22-24-19&amp;name=Martin%20Rocek%27s%20projects">Martin Rocek's digital humanities tools</a> </li>
+<li>Here's a <a href="https://www.youtube.com/watch?v=81iYAtfONdo">short video</a> of a previous iteration of this Hackathon.</li>
+<li><a href="https://dlukes.github.io/demm-cambridge/#/0/0/0">A prototype tool from a previous Hackathon</a> for learning how to inspect medieval manuscripts.</li>
+</ul>
+
+        </div>
+
+        
+        <div class="pagination">
+            <div class="pagination__title">
+                <span class="pagination__title-h">other posts:</span>
+                <hr />
+            </div>
+            <div class="pagination__buttons">
+                    <span class="button previous">
+                        <a href="/blogge/blog/pumpkinpie/">
+                            <span class="button__icon">←</span>&nbsp;
+                            <span class="button__text">Pumpkin tart with ryeflour gingerbread crust</span>
+                        </a>
+                    </span>
+                
+                
+                    <span class="button next">
+                        <a href="/blogge/blog/safety/">
+                            <span class="button__text">Using unsafe programming tools</span>&nbsp;
+                            <span class="button__icon">→</span>
+                        </a>
+                    </span>
+                </div>
+        </div>
+    
+    </div>
+
+
+        </div>
+
+        
+    </div>
+
+    
+    <!-- <footer class="footer">
+        <div class="footer__inner">
+                <div class="copyright">
+                        <span>© 
+    2025
+ Powered by <a href="https://www.getzola.org/">Zola</a></span>
+                    <span class="copyright-theme">
+                        <span class="copyright-theme-sep">:: </span>
+                        Theme: <a href="https://github.com/pawroman/zola-theme-terminimal/">Terminimal</a> by pawroman
+                    </span>
+                </div>
+            </div>
+    </footer> -->
+    
+
+</div>
+</body>
+
+</html>
