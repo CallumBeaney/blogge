@@ -1,5 +1,5 @@
 +++
-title="Making Rapé - a medieval porridge, and a pudding"
+title="Making Rapé - a medieval porridge"
 date="2023-12-27"
 +++
 

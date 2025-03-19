@@ -1,5 +1,5 @@
 +++
-title="Prototying at ＜HANDS: On＞ Cambridge University Hackathon"
+title="Prototyping at ＜HANDS: On＞ Cambridge University Hackathon"
 date="2024-08-31"
 +++
 

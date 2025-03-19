@@ -41,7 +41,7 @@ I refuse to use a service more complicated than a Markdown file to host these.
 - [HTTP Status Code Guide](https://httpguides.com/)
 - [GFWeb](https://gfweb.ca/)
 - [Stretch My Time Off](https://stretchmytimeoff.com/)
-
+- [Contractor Calculator](contractorcalculator.co.uk)
 
 
 <br>
@@ -143,15 +143,15 @@ Web history
 
 ## Blogs
 ### General blogs
-- [Boring Books - printer_scanner](https://boringbooks.org)
-- [This On That](http://thisonthat.org)
+- [Boring Books - printer_scanner](https://boringbooks.org) - abbie pls put this back up ok
+- [This On That](http://thisonthat.org) - photographers talking about not photography
 - [Photos and Stuff - Photothunk](http://photothunk.blogspot.com)
-- [K-Punk - Mark Fisher](https://k-punk.org)
-- [100 Rabbits](https://100r.co/site/about_us.html)
+- [K-Punk - Mark Fisher](https://k-punk.org) - cultural criticism/crit theory
+- [100 Rabbits](https://100r.co/site/about_us.html) - design & software, sealife
 - [Fabien Sanglard](https://fabiensanglard.net)
-- [This Long Century](http://www.thislongcentury.com)
+- [This Long Century](http://www.thislongcentury.com) - art interviews
 - [Seth M Larson Blog](https://sethmlarson.dev/blog)
-- [Darren Campion](https://darrencampion.tumblr.com)
+- [Darren Campion](https://darrencampion.tumblr.com) - photography
 - [Alex Miller's Garden](https://alex.miller.garden)  
 - [Steve Klabnik's Blog](https://steveklabnik.com/writing)
 - [The Jolly Teapot](https://thejollyteapot.com)
@@ -160,6 +160,7 @@ Web history
 - [Michael Donohoe](https://donohoe.dev/) - RoW product officer
 - [Leftover Salad](https://leftoversalad.com/c/044_badday/)
 - [This Is a Lot](https://www.thisisalot.com/about/)
+- [Oopsie Doodle](https://oopsiedoodle.com/) -- good knitting
 
 
 <br>
@@ -209,6 +210,7 @@ __project sites & web logic__
 - [Spicy Hot Pot](https://www.spicy-hot-pot.com)
 - [Bottling Fruit by MultipleStates](https://bottlingfruit.co.uk)
 - [Five on That](http://fiveonthat.com/)  
+- [Calendar Collective](https://www.calendarcollective.com/)
 
 
 __portfolio sites & paper logics &c__
