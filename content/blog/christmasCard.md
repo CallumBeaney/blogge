@@ -3,7 +3,6 @@ title="Making an ASCII Christmas/Business-Card & other decorations"
 date="2024-12-12"
 +++
 
-This documents a bit of creative process, very little of which is truly original.  
 To see the raw files, code etc just go to [the repo](https://github.com/CallumBeaney/christmas-tree-card/).
 
 ## Index

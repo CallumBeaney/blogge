@@ -1,8 +1,6 @@
 # The URL the site will be built for
 base_url = "/blogge"
 
-logo_text = "writing place"
-
 theme = "terminimal"
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -18,6 +16,8 @@ highlight_code = true
 
 
 [extra]
+
+logo_text = "writing place"
 
 # One of: blue, green, orange, pink, red.
 # Defaults to blue.
@@ -35,7 +35,6 @@ background_color = "custom"  # see sass/color/background_custard.scss
 menu_items = [
     {name = "text", url = "$BASE_URL/"},
     {name = "info", url = "$BASE_URL/info"},
-    {name = "music", url = "$BASE_URL/music"},
     {name = "links", url = "$BASE_URL/links/articles"},
 
   # {name = "website", url = "https://callumbeaney.github.io", newtab = true},

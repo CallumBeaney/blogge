@@ -267,7 +267,7 @@ __articles__
 - [Alphabet - Yuin Chien](https://yuinchien.com/projects/alphabet/index.html)
 - [Dieter Steffman](http://moorstation.org/typoasis/designers/steffmann/index.htm)
 - [UX of Lego Interfaces](https://interactionmagic.com/UX-LEGO-Interfaces/)
-
+- [Old paper ephemera](https://www.flickr.com/photos/79761301@N00/albums/72157601270250256/)
 
 <br>
 

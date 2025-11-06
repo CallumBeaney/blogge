@@ -27,13 +27,6 @@ Ar herde in wod so wlonk.
 - 'þ' is 'th' as in 'the'
 - 'y' is pronounced like 'i' in 'with'.  
 
-<!--  
-##### Some notes here:
-- __fraystez__ or 'fraist' is a test of strength or resolve, often in a form of physical attack. 
-- __busken__ is like 'hasten' or 'busy oneself'.
-- __bolne__ means 'swell' in much the same slightly medical manner we might now mean.
-- __wlonk__ means "noble" in the sense of class or quality of behaviour, sometimes used to refer to the quality of a season or natural feature or location. 
-  - The 15th century *Awntyrs off Arthure* contains the line "*To þe wode are thay wente, the wlonkeste in wedys, Bothe the kynge and the qwene.*" -- "the king and queen went to the woods in their finest clothes". Note 'wedez' (clothing) appears above also.    -->
 
 <br>
 
@@ -56,6 +49,15 @@ Are heard in woods so noble.*
   
 
 The simplified version is easier to grasp for a modern reader, but the economy of language, rhythm, and feeling of these words in the mouth & ears is absent. The Pearl Poet was attentive to these qualities to such a degree that synonyms of a given word will regularly appear in the selfsame line. The result is a maturity of composition making other great poems of the era such as *The Castle of Perseverance* sound almost amateur by comparison.  
+  
+
+##### Some notes here:
+- __fraystez__ or 'fraist' is a test of strength or resolve, often in a form of physical attack. 
+- __busken__ is like 'hasten' or 'busy oneself'.
+- __bolne__ means 'swell' in much the same slightly medical manner we might now mean.
+- __wlonk__ means "noble" in the sense of class or quality of behaviour, sometimes used to refer to the quality of a season or natural feature or location. 
+  - The 15th century *Awntyrs off Arthure* contains the line "*To þe wode are thay wente, the wlonkeste in wedys, Bothe the kynge and the qwene.*" -- "the king and queen went to the woods in their finest clothes". Note 'wedez' (clothing) appears above also.   
+
 
 <br>
 
