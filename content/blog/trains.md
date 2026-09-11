@@ -1,5 +1,5 @@
 +++
-title="Unoptimised code in the British train announcement system"
+title="Hearing bad code in the British train announcement system"
 date="2025-03-19"
 +++
 

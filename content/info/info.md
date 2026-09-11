@@ -4,6 +4,8 @@ path = "info"
 template = "infoPage.html"
 +++
 
+I sort of write things to try and figure out why I think the way I do, to justify it to myself. I often edit these posts and feel embarrassed about them later, but I'm not always sure why. I don't know what to say here or why I have chosen the subjects I've written about, but I am impulsive and overconfident then next the opposite. But I will try to keep this blog up, as some kind of record of thoughts I've had and as benchmark for self-disagreement.  
+
 Here is   
 　my [visual site](https://callumbeaney.github.io/index.html).  
 　my [Github profile](https://github.com/CallumBeaney).  
