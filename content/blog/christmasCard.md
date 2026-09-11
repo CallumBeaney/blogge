@@ -201,7 +201,7 @@ So quickly inspired by that Four Seasons layout, I've thrown a [web version](htt
 
 
 ### Rolling updates 
-(last updated: 2024/04/13)
+(last updated: 2026/01/15)
 
 Hereon, I'm going to keep a little log of interesting/techy business cards:
   
@@ -209,6 +209,7 @@ Hereon, I'm going to keep a little log of interesting/techy business cards:
 - [Lee Byron](https://leebyron.com)'s site, which adds a bit of embodiment.  
 - [Micah R Ledbetter](https://me.micahrl.com/business-card/) has this little randomised business card content page.
 - [Tony Richards](https://fourtoes.co.uk/iblog/the-auto-phrame/) found the `Auto Phrame`, an old businesscard-sized metal photo frame that holds a stack of prints.
+- [Lauri Mikael Karjalainen](https://laurikarjalainen.com/) has a very nice Windows 98 themed website here that isn't a business card but kind of has a similar vibe due to the size & styling.
 
 
 <br>

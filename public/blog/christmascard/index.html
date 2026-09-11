@@ -80,7 +80,7 @@
     
 
         <div class="post-content">
-            <p>To see the raw files, code etc just go to <a href="https://github.com/CallumBeaney/christmas-tree-card/">the repo</a>.</p>
+            <p>To see the raw files, code etc just go to <a rel="external" href="https://github.com/CallumBeaney/christmas-tree-card/">the repo</a>.</p>
 <h2 id="index">Index</h2>
 <ul>
 <li><a href="/blogge/blog/christmascard/#interesting-business-cards">Interesting Business Cards</a></li>
@@ -93,7 +93,7 @@
 </ul>
 <br>
 <h2 id="interesting-business-cards">Interesting business cards</h2>
-<p>A pal recently forwarded this post my way: 15 lines of code for setting up an HTTP client <a href="https://www.reddit.com/r/tinycode/comments/kvuoqj/wrote_an_http_client_in_python_that_can_fit_on_a/">on the back of a metal business card</a>.</p>
+<p>A pal recently forwarded this post my way: 15 lines of code for setting up an HTTP client <a rel="external" href="https://www.reddit.com/r/tinycode/comments/kvuoqj/wrote_an_http_client_in_python_that_can_fit_on_a/">on the back of a metal business card</a>.</p>
 <br>  
 
   
@@ -102,7 +102,7 @@
 
 
 <br>
-<p>A small part of the joke in American Psycho's <a href="https://www.youtube.com/watch?v=aZVkW9p-cCU">business card scene</a> is that the cards are poorly designed (odd spacing, typos, OTT textures etc), yet they care about them so much. Most business cards I pick up are perfunctory, discardable things, but I'd not forget someone who gave me a code card.</p>
+<p>A small part of the joke in American Psycho's <a rel="external" href="https://www.youtube.com/watch?v=aZVkW9p-cCU">business card scene</a> is that the cards are poorly designed (odd spacing, typos, OTT textures etc), yet they care about them so much. Most business cards I pick up are perfunctory, discardable things, but I'd not forget someone who gave me a code card.</p>
 <p>I decided to try at making a little business card that could be as much a fun self-advertisement as a nice piece of paper ephemera.</p>
 <br>
 
@@ -112,44 +112,44 @@
 
 
 <br>
-<p>Way back in January 2022 I wrote a <a href="https://raw.githubusercontent.com/CallumBeaney/obfuscation/main/tree.c">program</a> based on the <a href="https://cs50.harvard.edu/x/2024/psets/1/mario/more/">CS50 Mario Pset</a>, in which you must generate the below shape at variable height.</p>
-<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>    #  #
-</span><span>   ##  ##
-</span><span>  ###  ###
-</span><span> ####  ####
-</span></code></pre>
+<p>Way back in January 2022 I wrote a <a rel="external" href="https://raw.githubusercontent.com/CallumBeaney/obfuscation/main/tree.c">program</a> based on the <a rel="external" href="https://cs50.harvard.edu/x/2024/psets/1/mario/more/">CS50 Mario Pset</a>, in which you must generate the below shape at variable height.</p>
+<pre><code>    #  #
+   ##  ##
+  ###  ###
+ ####  ####
+</code></pre>
 <p>My program turned that into a christmas tree, with little randomised snowflakes changing position every second:</p>
-<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>    *  * ## *         
-</span><span>        *||#* *       
-</span><span> * *   *#||#*  * *    
-</span><span>  **  ###||*##        
-</span><span>     *###||#*##      
-</span><span>    #####||*#### *         
-</span><span>    *    ||   *   *   
-</span><span>_________||________
-</span></code></pre>
+<pre><code>    *  * ## *         
+        *||#* *       
+ * *   *#||#*  * *    
+  **  ###||*##        
+     *###||#*##      
+    #####||*#### *         
+    *    ||   *   *   
+_________||________
+</code></pre>
 <p>So for this I ported it from C to Python and cut the linecount right down. It needed to be brief enough to copy out if wanted, obfuscated enough to not be obvious how it works, but have hints enough to give them some ideas of what is happening:</p>
-<pre data-lang="python" style="background-color:#2b303b;color:#c0c5ce;" class="language-python "><code class="language-python" data-lang="python"><span style="color:#b48ead;">import </span><span>os,time;</span><span style="color:#b48ead;">from </span><span>random </span><span style="color:#b48ead;">import </span><span>randint </span><span style="color:#b48ead;">as </span><span>rnd,sample </span><span style="color:#b48ead;">as </span><span>smp
-</span><span>seed=</span><span style="color:#bf616a;">rnd</span><span>(</span><span style="color:#d08770;">12</span><span>,</span><span style="color:#d08770;">20</span><span>); present=&#39;</span><span style="color:#96b5b4;">\u7530</span><span>&#39;; s,n,o,w,y=&#39; &#39;,&#39;</span><span style="color:#a3be8c;">_</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">|</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">#</span><span>&#39;,&#39;</span><span style="color:#a3be8c;">*</span><span>&#39;
-</span><span>
-</span><span style="color:#b48ead;">def </span><span style="color:#8fa1b3;">bud</span><span>(</span><span style="color:#bf616a;">len</span><span>, </span><span style="color:#bf616a;">chr</span><span>): </span><span style="color:#b48ead;">return </span><span style="color:#96b5b4;">chr</span><span>*</span><span style="color:#96b5b4;">len  
-</span><span>
-</span><span style="color:#b48ead;">def </span><span style="color:#8fa1b3;">snow</span><span>(</span><span style="color:#bf616a;">branch</span><span>):
-</span><span>  </span><span style="color:#b48ead;">for </span><span>i </span><span style="color:#b48ead;">in </span><span style="color:#96b5b4;">sorted</span><span>(</span><span style="color:#bf616a;">smp</span><span>(</span><span style="color:#96b5b4;">range</span><span>(</span><span style="color:#96b5b4;">len</span><span>(branch)),</span><span style="color:#bf616a;">int</span><span>(seed/</span><span style="color:#bf616a;">rnd</span><span>(</span><span style="color:#d08770;">3</span><span>,</span><span style="color:#d08770;">6</span><span>)))):
-</span><span>    </span><span style="color:#b48ead;">if </span><span>branch[i]==present or branch[i]==n:</span><span style="color:#b48ead;">continue
-</span><span>    </span><span style="color:#b48ead;">else</span><span>: branch=branch[:i]+y+branch[i+</span><span style="color:#d08770;">1</span><span>:]
-</span><span>  </span><span style="color:#b48ead;">return </span><span>branch
-</span><span>
-</span><span style="color:#b48ead;">def </span><span style="color:#8fa1b3;">grow</span><span>(</span><span style="color:#bf616a;">rows</span><span>): 
-</span><span>  time.</span><span style="color:#bf616a;">sleep</span><span>(</span><span style="color:#d08770;">1.0</span><span>);os.</span><span style="color:#bf616a;">system</span><span>(&#39;</span><span style="color:#a3be8c;">cls</span><span>&#39;</span><span style="color:#b48ead;">if </span><span>os.name==&#39;</span><span style="color:#a3be8c;">nt</span><span>&#39;</span><span style="color:#b48ead;">else</span><span>&#39;</span><span style="color:#a3be8c;">clear</span><span>&#39;)
-</span><span>  </span><span style="color:#b48ead;">for </span><span>row </span><span style="color:#b48ead;">in </span><span style="color:#96b5b4;">range</span><span>(rows):
-</span><span>    </span><span style="color:#b48ead;">if </span><span>row&gt;=rows-</span><span style="color:#d08770;">2</span><span>:twig=</span><span style="color:#bf616a;">bud</span><span>(rows,s </span><span style="color:#b48ead;">if </span><span>row==rows-</span><span style="color:#d08770;">2 </span><span style="color:#b48ead;">else </span><span>n)+o
-</span><span>    </span><span style="color:#b48ead;">else</span><span>:twig=</span><span style="color:#bf616a;">bud</span><span>(rows-row,s)+</span><span style="color:#bf616a;">bud</span><span>(row,w)+(o </span><span style="color:#b48ead;">if </span><span>row!=</span><span style="color:#d08770;">0 </span><span style="color:#b48ead;">else </span><span>w)
-</span><span>    </span><span style="color:#96b5b4;">print</span><span>(</span><span style="color:#bf616a;">snow</span><span>(twig+(twig[::-</span><span style="color:#d08770;">1</span><span>][:</span><span style="color:#d08770;">3</span><span>]+present+twig[::-</span><span style="color:#d08770;">1</span><span>][</span><span style="color:#d08770;">5</span><span>:]\
-</span><span>      </span><span style="color:#b48ead;">if </span><span>row==rows-</span><span style="color:#d08770;">1 </span><span style="color:#b48ead;">else </span><span>twig[::-</span><span style="color:#d08770;">1</span><span>])))
-</span><span>
-</span><span style="color:#b48ead;">while </span><span style="color:#d08770;">True</span><span>: </span><span style="color:#bf616a;">grow</span><span>(seed)
-</span></code></pre>
+<pre><code data-lang="python">import os,time;from random import randint as rnd,sample as smp
+seed=rnd(12,20); present=&#39;\u7530&#39;; s,n,o,w,y=&#39; &#39;,&#39;_&#39;,&#39;|&#39;,&#39;#&#39;,&#39;*&#39;
+
+def bud(len, chr): return chr*len  
+
+def snow(branch):
+  for i in sorted(smp(range(len(branch)),int(seed/rnd(3,6)))):
+    if branch[i]==present or branch[i]==n:continue
+    else: branch=branch[:i]+y+branch[i+1:]
+  return branch
+
+def grow(rows): 
+  time.sleep(1.0);os.system(&#39;cls&#39;if os.name==&#39;nt&#39;else&#39;clear&#39;)
+  for row in range(rows):
+    if row&gt;=rows-2:twig=bud(rows,s if row==rows-2 else n)+o
+    else:twig=bud(rows-row,s)+bud(row,w)+(o if row!=0 else w)
+    print(snow(twig+(twig[::-1][:3]+present+twig[::-1][5:]\
+      if row==rows-1 else twig[::-1])))
+
+while True: grow(seed)
+</code></pre>
 <p>It can be made terser but I like this to be somewhat readable to an experienced dev.</p>
 <p>The easiest way to get what is going on here is to bear in mind that for each row of the tree, I'm building the left half of it, and then building the right half by appending the string with a reversed copy of it. Then it's just a matter of replacing some of the characters with asterisks.</p>
 <br>
@@ -175,7 +175,7 @@
 <p>Excepting those handmade or properly filled with handwriting, the scrawled To and From of gift-card giving culture is both too expensive and too impersonable for me. I love written correspondence and given that the best way to do it is to start it, I thought I'd forego phone Christmas messages and tried adapting the above into something cute I could write a proper end-of-year update into.</p>
 <h5 id="inspiration">Inspiration</h5>
 <p>I was expecting to find more software-related greetings cards online, however most I've come across - particularly those on Etsy - are like those <code>if (thirsty) { drinkCoffee(); }</code> mugs.</p>
-<p>The best designed are the sadly no-longer-made 2011-made letterpress <a href="https://www.etsy.com/shop/codecards">Code Cards</a> by  <a href="http://mattraw.com/">Matt Raw</a> (see some more pics <a href="https://coolhunting.com/design/code-cards/">here</a>):</p>
+<p>The best designed are the sadly no-longer-made 2011-made letterpress <a rel="external" href="https://www.etsy.com/shop/codecards">Code Cards</a> by  <a rel="external" href="http://mattraw.com/">Matt Raw</a> (see some more pics <a rel="external" href="https://coolhunting.com/design/code-cards/">here</a>):</p>
 <p>
   
   
@@ -189,7 +189,7 @@
 
 </p>
 <br>
-<p>Other than those, <a href="https://www.instagram.com/codingstrawberry/">codingstrawberry</a>'s <a href="https://www.etsy.com/uk/listing/1824917095/binary-tree-christmas-card-tech">binary tree christmas card</a> is pretty neat:</p>
+<p>Other than those, <a rel="external" href="https://www.instagram.com/codingstrawberry/">codingstrawberry</a>'s <a rel="external" href="https://www.etsy.com/uk/listing/1824917095/binary-tree-christmas-card-tech">binary tree christmas card</a> is pretty neat:</p>
 
   
   
@@ -224,7 +224,7 @@
 <h2 id="other-decorations">Other Decorations</h2>
 <p>These are less good but were fun to try.</p>
 <h5 id="medieval-botanical-paper-bauble">Medieval botanical paper bauble</h5>
-<p>On PlantIllustrations I found scans of the old manuscript <a href="http://www.plantillustrations.org/illustration.php?id_illustration=343953&amp;id_taxon=1070&amp;mobile=0&amp;SID=e3et3jslh6gjkr4tfq8v6iue38&amp;language=English&amp;thumbnails_selectable=0&amp;selected_thumbnail=0&amp;query_type=species&amp;query_broad_or_restricted=broad&amp;group=0&amp;lay_out=0&amp;uhd=0"><em>Grandes Heures Anne de Bretagne</em></a> (1503-1508). Though a little lo-res I managed to find within snowdrops, Ilex holly, and rose hips and adapted an old-fashioned top-threaded paper baubel design  purchased from the <a href="https://www.facebook.com/FoodMuseumUK/posts/pfbid02spctbg3yUqi2uGimcKbkJerLzFdHeYyjDdSbaHogYU5YkkTGeJaMVnPNgBTtbccrl">East Anglian Food Museum's printing press</a> team in GIMP and made a demo printout:</p>
+<p>On PlantIllustrations I found scans of the old manuscript <a rel="external" href="http://www.plantillustrations.org/illustration.php?id_illustration=343953&amp;id_taxon=1070&amp;mobile=0&amp;SID=e3et3jslh6gjkr4tfq8v6iue38&amp;language=English&amp;thumbnails_selectable=0&amp;selected_thumbnail=0&amp;query_type=species&amp;query_broad_or_restricted=broad&amp;group=0&amp;lay_out=0&amp;uhd=0"><em>Grandes Heures Anne de Bretagne</em></a> (1503-1508). Though a little lo-res I managed to find within snowdrops, Ilex holly, and rose hips and adapted an old-fashioned top-threaded paper baubel design  purchased from the <a rel="external" href="https://www.facebook.com/FoodMuseumUK/posts/pfbid02spctbg3yUqi2uGimcKbkJerLzFdHeYyjDdSbaHogYU5YkkTGeJaMVnPNgBTtbccrl">East Anglian Food Museum's printing press</a> team in GIMP and made a demo printout:</p>
 <p>
   
   
@@ -238,11 +238,11 @@
   <img src="https://github.com/CallumBeaney/christmas-tree-card/blob/main/img/bauble_1.jpg?raw=true" class="left" style="width: 65vh;" />
 
 </p>
-<p>If you'd like to print your own, go <a href="https://github.com/CallumBeaney/christmas-tree-card/tree/main/printouts">here</a>.</p>
+<p>If you'd like to print your own, go <a rel="external" href="https://github.com/CallumBeaney/christmas-tree-card/tree/main/printouts">here</a>.</p>
 <br>
 <br>
 <h5 id="unicode-emoji-winter-tree-decoration">Unicode emoji winter tree decoration</h5>
-<p>Kirsty Baynham of <a href="https://www.etsy.com/uk/listing/881024488/wolf-in-the-forest-miniature-kit?ref=user_profile">PrismOfStarlings</a>' designed these really beautiful "Wolf in the Forest" triange-shaped wolf + trees paper cutout decoration, which you should buy because they're wonderful.</p>
+<p>Kirsty Baynham of <a rel="external" href="https://www.etsy.com/uk/listing/881024488/wolf-in-the-forest-miniature-kit?ref=user_profile">PrismOfStarlings</a>' designed these really beautiful "Wolf in the Forest" triange-shaped wolf + trees paper cutout decoration, which you should buy because they're wonderful.</p>
 <p>I bought a few and thought "you could do a really kitsch internet-art designer style version of this with the deer and tree emoji". It's not really meant to be much visually nice, it's just something cute to be sent to a friend or two:</p>
 
   
@@ -262,11 +262,11 @@
   <img src="https://github.com/CallumBeaney/christmas-tree-card/blob/main/img/deer_2.jpg?raw=true" class="left" style="width: 65vh;" />
 
 </p>
-<p>If you'd like to print your own, go <a href="https://github.com/CallumBeaney/christmas-tree-card/tree/main/printouts">here</a>.</p>
+<p>If you'd like to print your own, go <a rel="external" href="https://github.com/CallumBeaney/christmas-tree-card/tree/main/printouts">here</a>.</p>
 <br>
 <br>
 <h2 id="websites">Websites</h2>
-<p>A few days after seeing the HTML Client card, I found <a href="https://reubenson.com">Reuben Son</a>'s site index, which, if you like what you've seen so far, you will probably agree is really excellent (<em>this here below is an iframe and may not display well on a phone</em>):</p>
+<p>A few days after seeing the HTML Client card, I found <a rel="external" href="https://reubenson.com">Reuben Son</a>'s site index, which, if you like what you've seen so far, you will probably agree is really excellent (<em>this here below is an iframe and may not display well on a phone</em>):</p>
 
   
   
@@ -275,19 +275,20 @@
   
   <img src="/blogge/images/reubenson.png" class="center" style="width: 85vh;" />
 
-<p>The same night I came across Son's site, I also found <a href="https://sundaysites.cafe">Sunday Sites</a>, which are HTML/CSS-only projects where folks design a single webpage project in a day. This little seasonal ASCII animation <a href="https://four-seasons.glitch.me">Four Seasons</a> is likewise quite fun. You should take a look at the source code for that site in the console -- Séan's achieved that in a pretty novel way.</p>
-<p>So quickly inspired by that Four Seasons layout, I've thrown a <a href="https://callumbeaney.github.io/christmas-tree-card/">web version</a> together too, as this very simple format is very nice.</p>
+<p>The same night I came across Son's site, I also found <a rel="external" href="https://sundaysites.cafe">Sunday Sites</a>, which are HTML/CSS-only projects where folks design a single webpage project in a day. This little seasonal ASCII animation <a rel="external" href="https://four-seasons.glitch.me">Four Seasons</a> is likewise quite fun. You should take a look at the source code for that site in the console -- Séan's achieved that in a pretty novel way.</p>
+<p>So quickly inspired by that Four Seasons layout, I've thrown a <a rel="external" href="https://callumbeaney.github.io/christmas-tree-card/">web version</a> together too, as this very simple format is very nice.</p>
 <iframe src="https://callumbeaney.github.io/christmas-tree-card/" width="650" height="600" frameborder="0" style=""></iframe>
 <br>
 <br>
 <h3 id="rolling-updates">Rolling updates</h3>
-<p>(last updated: 2024/04/13)</p>
+<p>(last updated: 2026/01/15)</p>
 <p>Hereon, I'm going to keep a little log of interesting/techy business cards:</p>
 <ul>
-<li><a href="https://github.com/bdc0/businesscard">Brian D Carlton's PCB business card</a> and also Anthony Kouttron's <a href="https://github.com/anthonykouttron/pcb-business-card-qr-nfc/tree/master">implementation</a></li>
-<li><a href="https://leebyron.com">Lee Byron</a>'s site, which adds a bit of embodiment.</li>
-<li><a href="https://me.micahrl.com/business-card/">Micah R Ledbetter</a> has this little randomised business card content page.</li>
-<li><a href="https://fourtoes.co.uk/iblog/the-auto-phrame/">Tony Richards</a> found the <code>Auto Phrame</code>, an old businesscard-sized metal photo frame that holds a stack of prints.</li>
+<li><a rel="external" href="https://github.com/bdc0/businesscard">Brian D Carlton's PCB business card</a> and also Anthony Kouttron's <a rel="external" href="https://github.com/anthonykouttron/pcb-business-card-qr-nfc/tree/master">implementation</a></li>
+<li><a rel="external" href="https://leebyron.com">Lee Byron</a>'s site, which adds a bit of embodiment.</li>
+<li><a rel="external" href="https://me.micahrl.com/business-card/">Micah R Ledbetter</a> has this little randomised business card content page.</li>
+<li><a rel="external" href="https://fourtoes.co.uk/iblog/the-auto-phrame/">Tony Richards</a> found the <code>Auto Phrame</code>, an old businesscard-sized metal photo frame that holds a stack of prints.</li>
+<li><a rel="external" href="https://laurikarjalainen.com/">Lauri Mikael Karjalainen</a> has a very nice Windows 98 themed website here that isn't a business card but kind of has a similar vibe due to the size &amp; styling.</li>
 </ul>
 <br>
 <br>
@@ -316,7 +317,7 @@
                 
                     <span class="button next">
                         <a href="/blogge/blog/trains/">
-                            <span class="button__text">Bad UX in the British train announcement system</span>&nbsp;
+                            <span class="button__text">Unoptimised code in the British train announcement system</span>&nbsp;
                             <span class="button__icon">→</span>
                         </a>
                     </span>
@@ -336,7 +337,7 @@
         <div class="footer__inner">
                 <div class="copyright">
                         <span>© 
-    2025
+    2026
  Powered by <a href="https://www.getzola.org/">Zola</a></span>
                     <span class="copyright-theme">
                         <span class="copyright-theme-sep">:: </span>

@@ -218,7 +218,7 @@ Outside of work, all we different groups met for breakfasts and dinners. All par
   
 Most of the time, being around other humans and being on my own feel to me very similar. People who bring the particular quality of having substantial knowledge interests, unabashed idiosyncracies, comfort prodding convential ideas and enthusiasm for new ones, are in the real world rare. All of these academics' areas of research were fascinating and the energy they carried in discussing them and sharing ideas with one another was a rare pleasure.  
   
-Younger, less jaded researchers' casual discourse, free of the oily pretention of too many career academics and of the simplistic platitudes and moralities of daily life's conversants, allows for description-oriented discussion about and calm evaluation of  usually sensitive political and cultural topics, without the typical encumbering verbal asterisks, and it is missed.  
+Younger, less jaded researchers' casual discourse allows a little more for description-oriented discussion about and calm evaluation of usually sensitive political and cultural topics, without the typical encumbering verbal asterisks, and it is missed.  
 
 Here's a video walkthrough going over most of what we did:  
 
@@ -235,7 +235,7 @@ Here's a video walkthrough going over most of what we did:
 
 This prototype was a youth-oriented homework aid. For myself, I would rather than a game prefer to make a comprehensive visual comparison tool designed to use these two front pages as a single point of reference through which the entirety of the Reformation could be filtered to an engaged, even specialist audience - a sort of historiographical fulcrum.  
   
-I feel somewhat conflicted about our contribution - the game idea was good and I would really like for my teammates to see it realised, however the final Hidden In Plain Sight app will be developed by a single member of the project team who has some webdev experience working in a developer-adjacent role. Given time/budget constraints typical to heritage sector projects, I don't expect building a game is feasible compared with less architecturally complex and asset-light prototypes. I could be and hope I am wrong.  
+I feel somewhat conflicted about our contribution - the game idea was good and I would really like for my teammates to see it realised, however the final Hidden In Plain Sight app will be developed by a single member of the project - given time/budget constraints typical to heritage sector projects, a full-out game might be less feasible compared with less architecturally complex and asset-light prototypes. I could be and hope I am wrong.  
  
 I encourage those reading this, be they developers or academics, to consider participating in this or like events.  
 

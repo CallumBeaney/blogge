@@ -27,7 +27,7 @@ https://theartregister.mypinata.cloud/ipfs/aWholeBunchOfRandomLetters/full/1.jpg
 ```  
   
 <br>
-This means that with something as basic as this (written in C to be edgy):
+This means that with something as basic as this:
  
 ```
 #include <stdio.h>

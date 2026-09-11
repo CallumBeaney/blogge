@@ -1,3 +1,5 @@
 .DS_Store
 /in-progress
 shitToHide
+/.in_progress
+.DS_Store

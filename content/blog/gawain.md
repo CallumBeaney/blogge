@@ -3,6 +3,8 @@ title="Meeting languages on their own terms (Gawain & The Green Knight)"
 date="2024-01-01"
 +++
 
+This is mostly a post about why translations are interesting but if you can it's better to read the source material.  
+
 Below is one of my favourite passages from the Pearl Poet's *Gawain and the Green Knight*, a 14th-century English poem written in a Cheshire dialect:   
   
 ```
@@ -168,7 +170,7 @@ For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother - shame it is while
 
 <br>
   
-Both translations are good, but neither reach the level of the Pearl Poet. I do admire Armitage not because I think every choice shows perfectly what made this story so great, but because his is a braver endeavour, and is more proper to being his own act of creation; Tolkien's translation, paired with his peerless annotated edition of the original Middle English, is both good poetry and a useful tool; it is an academic effort. Armitage is bold for that he is trying to capture the feeling of the poem for a modern audience over strictly the meaning; a real aspiration when the goal is G&TGK.   
+Both translations are great, but neither imo reach the level of the Pearl Poet. I do admire Armitage not because I think every choice shows perfectly what made this story so great, but because his is a braver endeavour, and is more proper to being his own act of creation; Tolkien's translation, paired with his peerless annotated edition of the original Middle English, is both good poetry and a useful tool; it is an academic effort. Armitage is bold for that he is trying to capture the feeling of the poem for a modern audience over strictly the meaning; a real aspiration when the goal is G&TGK.   
 
 I don't think I could effectively modernise _Gawain_ either, but also I don't want to. Rather, I find it is better to persevere with annotations in pencil, or use [a tool like what I am making](https://github.com/goodpals/middle-english-mouse-dictionary) to quickly reference medieval English words, and meet the language on its own terms.  
 
