@@ -242,8 +242,8 @@ __articles__
 - [ 平本成海へのインタビュー](https://c4journal.com/hiramoto-narumi-interview/)
 - [Time Travel/Half Dome - Jesse Taylor Koleching](https://jessetaylorkoechling.com/time-travel-half-dome)  
 - [How to build a bird kite](https://www.nytimes.com/interactive/2021/05/19/style/how-to-build-a-bird-kite.html)
-
-
+- [My AI Agents (Re)discovered a Maya Site in 72 Hours by Pietro Miotti](https://pietromiotti.com/latest/maya-site/)
+- [microGPT](https://karpathy.github.io/2026/02/12/microgpt/)
 
 <br>
 

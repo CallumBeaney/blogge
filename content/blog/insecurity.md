@@ -9,7 +9,8 @@ In 2022 there was some [legal furore](https://www.theartnewspaper.com/2022/05/06
 
 This NFT collection was taken down from public viewing some time later, though it looks to now be [back up](https://opensea.io/collection/august-sander-10k-collection) for sale, some at around $100k like this [one](https://opensea.io/assets/ethereum/0x7037843d739d846cdce3a6839a80f7d70b60b99a/1089). At the time, however, the NFTs themselves still pointed to the image and, consequently, its directory on the cloud, which was hosted by the IPFS peer-to-peer filesharing service [Pinata](http://mypinata.cloud). So, if you were to get a look at one of these NFTs, you'd find the url in there.  
 
-You can see similar metadata through this inexplicably publicly-accessible link to the August Sander Foundation website: [https://asrd.augustsander.org/](https://asrd.augustsander.org/)  
+You can see similar metadata through this inexplicably publicly-accessible link to the August Sander Foundation website: [https://asrd.augustsander.org/](https://asrd.augustsander.org/) 
+(EDIT 2026/11: The link now redirects to the ASF's main website, see this [internet archive screenshot](https://web.archive.org/web/20240616062314/https://asrd.augustsander.org/))
 
 <br>
 
