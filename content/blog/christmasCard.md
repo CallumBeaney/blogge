@@ -112,10 +112,10 @@ Excepting those handmade or properly filled with handwriting, the scrawled To an
 
 I was expecting to find more software-related greetings cards online, however most I've come across - particularly those on Etsy - are like those `if (thirsty) { drinkCoffee(); }` mugs.  
 
-The best designed are the sadly no-longer-made 2011-made letterpress [Code Cards](https://www.etsy.com/shop/codecards) by  [Matt Raw](http://mattraw.com/) (see some more pics [here](https://coolhunting.com/design/code-cards/)):
+The best designed are the sadly no-longer-made 2011-made letterpress [Code Cards](https://www.etsy.com/shop/codecards) by  [Matt Raw](http://mattraw.com/) (see some more pics [here](https://web.archive.org/web/20150205222018/http://code-cards.com/)):
 
-{{ image(src="http://www.logobird.com/wp-content/uploads/2011/11/javascript-code-cards_thumb.jpg", position="left" style="width: 65vh;") }}
-{{ image(src="https://150102931.v2.pressablecdn.com/wp-content/uploads/2011/11/code-cards5-thumb-499x414-33940.jpg", position="left" style="width: 65vh;") }}
+{{ image(src="https://i.etsystatic.com/5390881/r/il/50b90a/290594143/il_1588xN.290594143.jpg", position="left" style="width: 75vh;") }}
+{{ image(src="https://i.etsystatic.com/5390881/r/il/ce3a79/284524827/il_1588xN.284524827.jpg", position="left" style="width: 75vh;") }}
 
 <br>
 

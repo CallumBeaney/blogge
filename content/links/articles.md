@@ -2,7 +2,7 @@
 title="articles & text resources"
 +++
 
-I refuse to use a service more complicated than a Markdown file to host these.  
+This is all a bit disorderly soz
 
 [Blogs & Directories](#blogs)  
 [History](#history-and-digital-humanities)  
@@ -69,7 +69,7 @@ Web history
 - [internet Artefacts](https://neal.fun/internet-artifacts/)
 - [http://info.cern.ch](http://info.cern.ch)
 - [Old Web - Today](https://oldweb.today/)
-
+- [Scrollbars](https://scrollbars.matoseb.com/)
 
 
 <br>
@@ -161,7 +161,7 @@ Web history
 - [Leftover Salad](https://leftoversalad.com/c/044_badday/)
 - [This Is a Lot](https://www.thisisalot.com/about/)
 - [Oopsie Doodle](https://oopsiedoodle.com/) -- good knitting
-
+- [Hellmouth](https://hell-mouth.neocities.org/)
 
 <br>
 
@@ -211,10 +211,13 @@ __project sites & web logic__
 - [Bottling Fruit by MultipleStates](https://bottlingfruit.co.uk)
 - [Five on That](http://fiveonthat.com/)  
 - [Calendar Collective](https://www.calendarcollective.com/)
+- [A trip to prague by chizra](https://sundaysites.cafe/chizra/atriptoprague/)
+- [a quiet walk by chizra](https://sundaysites.cafe/chizra/a-quiet-walk/)
+
 
 
 __portfolio sites & paper logics &c__
-- [Ca l'Isidret](https://calisidret.cat/)
+<!-- - [Ca l'Isidret](https://calisidret.cat/) -->
 - [Quantified Landscape - Florian Amoser](http://florianamoser.ch/quantified-landscape/)
 - [Xu Bing](https://www.xubing.com/en/work)
 - [Wall Pieces - Jed Hoyland](http://www.jedhoyland.co.uk/wallpieces1.html)
@@ -238,7 +241,7 @@ __articles__
 - [On Elliott Erwitt’s *Fontainebleau Hotel* - Joseph Glover](https://c4journal.com/glover-elliot-erwitt/)
 - [ 平本成海へのインタビュー](https://c4journal.com/hiramoto-narumi-interview/)
 - [Time Travel/Half Dome - Jesse Taylor Koleching](https://jessetaylorkoechling.com/time-travel-half-dome)  
-  
+- [How to build a bird kite](https://www.nytimes.com/interactive/2021/05/19/style/how-to-build-a-bird-kite.html)
 
 
 

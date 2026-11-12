@@ -26,6 +26,5 @@ Spices I used cinnamon, galangal, sugar and crushed cloves. The pudding is even 
 
 Whether or not they used red or white wine isn't certain, but given its historical prestige, most likely white; I prefer red. See Christopher Monk's [article](https://modernmedievalcuisine.com/2024/05/05/hot-caudle-anyone-part-one/) on a sort of precursor to Zabaione (among other things) for more.  
 
-What I ended up making 
 
 Now, I think what they did was use a relatively high mass:volume ratio - I put far too much fruit in here. Still, while figs are affordable I make both together regularly, keeping a fruitcake for the days after making the fruity porridge.  

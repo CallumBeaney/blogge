@@ -206,9 +206,9 @@ Though using Figma with only a little practice was a challenge, the most difficu
 
 One of the developers, Martin Rocek, was experienced with Figma and previous Hackathons both, and kindly offered technical support to we other developers. His group's contribution was the most polished, and was for its more conservative design and refined architecture, likely the ideal reference choice for the Hidden In Plain Sight project. Martin has made a lot of interesting digital humanities things - [have a look here](https://dh-humanities-tools-j2eicc6qe-martin-rocek.vercel.app/cs?collection=E-13-46-47-3C-45-22-24-19&name=Martin%20Rocek%27s%20projects).  
 
-Other groups were more experimental in their presentation. Inspired by floral marginalia, _R's_ group's UI was busy and digital-scrapbookish, with a stack-like architecture wherein the user would look closer, learning progressively finer detail of the book before gradually zooming back out.  
+Other groups were more experimental in their presentation. Inspired by floral marginalia, _R's_ group's UI was busy and digital-scrapbookish, with a stack-like architecture wherein the user would open a new page from the current one to "look closer", learning progressively finer detail of the book before gradually zooming back out.  
 
-_J_'s group designed a linear progression of 3-column page layouts in which each main layout page had sub-pages or elements (like nodes) which could be interacted with before progressing onto the next main page. On each page the centre column contained article text, with comparison images either side. This more explorative and preference-driven user experience over a fixed path is suitable for museum tablets and displays.  
+_J_'s group designed a linear progression of 3-column page layouts in which each main layout page had sub-pages or elements (like nodes) which could be interacted with before progressing onto the next main page. On each page the centre column contained article text, with comparison images either side. This more explorative and preference-driven user experience over a fixed path would work well for museum tablets and displays.  
 
 <br>
 {{ image(src="/images/hackathon_fail.jpg",  position="left" style="width: 60vh;") }}
@@ -233,7 +233,7 @@ Here's a video walkthrough going over most of what we did:
   
 # Final thoughts
 
-This prototype was a youth-oriented homework aid. For myself, I would rather than a game prefer to make a comprehensive visual comparison tool designed to use these two front pages as a single point of reference through which the entirety of the Reformation could be filtered to an engaged, even specialist audience - a sort of historiographical fulcrum.  
+This prototype was a youth-oriented homework aid. For myself, I would rather than a game prefer to make a comprehensive visual comparison tool designed to use these two front pages as a single point of reference through which the entirety of the Reformation could be filtered to an engaged, even specialist audience - a sort of historical fulcrum.  
   
 I feel somewhat conflicted about our contribution - the game idea was good and I would really like for my teammates to see it realised, however the final Hidden In Plain Sight app will be developed by a single member of the project - given time/budget constraints typical to heritage sector projects, a full-out game might be less feasible compared with less architecturally complex and asset-light prototypes. I could be and hope I am wrong.  
  

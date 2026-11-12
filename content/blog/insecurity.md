@@ -13,7 +13,7 @@ You can see similar metadata through this inexplicably publicly-accessible link 
 
 <br>
 
-[![image](https://i.seadn.io/gcs/files/433ead1d9a080d24cdc41d59ca15a392.jpg?auto=format&dpr=1&w=3840)](https://opensea.io/assets/ethereum/0x7037843d739d846cdce3a6839a80f7d70b60b99a/6452)  
+![image](https://i2c.seadn.io/ethereum/0x7037843d739d846cdce3a6839a80f7d70b60b99a/06a4c0af79ec27ea6cb00aafb5ed94f8.png?w=1000)  
 - An example of one of these lo-res scans: [AS10k+ #9386 (ASA.31.134)](https://opensea.io/assets/ethereum/0x7037843d739d846cdce3a6839a80f7d70b60b99a/6452)
 
 <br>

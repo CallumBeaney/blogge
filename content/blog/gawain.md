@@ -162,7 +162,7 @@ For Armitage, the 'sh' in _shimmer_ & _show_ merges smoother - shame it is while
   
 <br>
 
-{{ image(src="https://bildsuche.digitale-sammlungen.de/viewer/templates/viewimage.php?bandnummer=bsb00089714&pimage=00055&v=100", alt="_Miniature 24r from Jacobi de Ancharano's_ Litigation of Christ with Belial, _1461._", position="center" style="width: 60vh;") }}
+{{ image(src="https://bildsuche.digitale-sammlungen.de/viewer/templates/viewimage.php?bandnummer=bsb00089714&pimage=00055&v=100", alt="Miniature 24r from Jacobi de Ancharano's Litigation of Christ with Belial, 1461.", position="center" style="width: 60vh;") }}
 
 <!-- 
 [![A green devil](https://bildsuche.digitale-sammlungen.de/viewer/templates/viewimage.php?bandnummer=bsb00089714&pimage=00055&v=100)](https://bildsuche.digitale-sammlungen.de/index.html)  
